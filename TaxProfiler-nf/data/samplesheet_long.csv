@@ -1,0 +1,2 @@
+sample,run_accession,instrument_platform,fastq_1,fastq_2,fasta
+llnl_66d1047e,run1,OXFORD_NANOPORE,/scratch/sp96859/Meta-genome-data-analysis/Apptainer/Contig-based-VirSorter2-DeepVirFinder/data/llnl_66d1047e.fastq.gz,,
