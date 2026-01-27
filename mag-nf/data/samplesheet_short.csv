@@ -1,0 +1,2 @@
+sample,group,short_reads_1,short_reads_2,long_reads
+llnl_66ce4dde,viral_group1,/scratch/sp96859/Meta-genome-data-analysis/Apptainer/data/short_reads/llnl_66ce4dde_R1.fastq.gz,/scratch/sp96859/Meta-genome-data-analysis/Apptainer/data/short_reads/llnl_66ce4dde_R2.fastq.gz,
