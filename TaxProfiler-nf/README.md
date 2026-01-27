@@ -1,5 +1,5 @@
 
-# MetaTaxProfiler - Viral Metagenomics Analysis Workflow
+# TaxProfiler - Viral Metagenomics Analysis Workflow
 
 MetaTaxProfiler is a viral metagenomics analysis tool built upon the TaxProfiler-nf workflow. It provides an automated, containerized pipeline that converts raw metagenomic sequencing data into standardized viral abundance outputs. Supporting both Illumina and Nanopore/PacBio platforms, it performs quality control, taxonomic classification (Kraken2), optional statistical correction (Bracken), and automatic RPM/RPKM calculation—all with a single command.
 
