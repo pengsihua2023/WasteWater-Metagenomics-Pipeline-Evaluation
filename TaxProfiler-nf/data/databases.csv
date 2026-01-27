@@ -1,0 +1,3 @@
+tool,db_name,db_params,db_path
+kraken2,Viral_ref,"",/scratch/sp96859/Meta-genome-data-analysis/Apptainer/databases/kraken2_Viral_ref
+bracken,Viral_ref,";-r 150",/scratch/sp96859/Meta-genome-data-analysis/Apptainer/databases/kraken2_Viral_ref
