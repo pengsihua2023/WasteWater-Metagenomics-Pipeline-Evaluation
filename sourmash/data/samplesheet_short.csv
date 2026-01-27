@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2
+SRR35987572,/scratch/sp96859/Meta-genome-data-analysis/Apptainer/data/short_reads/SRR35987572_1.fastq.gz,/scratch/sp96859/Meta-genome-data-analysis/Apptainer/data/short_reads/SRR35987572_2.fastq.gz
+
