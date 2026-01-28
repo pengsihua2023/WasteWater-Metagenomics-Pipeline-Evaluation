@@ -1,4 +1,4 @@
-# Metagenomic Viral Detection: Integrated Summary (Pipelines + Tool Assessment)
+# Metagenomic Viral Detection Summary (Pipelines + Tool Assessment)
 
 This `summary.md` integrates:
 - **Pipeline overview** from `PIPELINES_SUMMARY_EN.md` (8 pipelines/toolchains in this folder)
