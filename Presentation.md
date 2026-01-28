@@ -11,8 +11,6 @@
 
 # Metagenomic Viral Detection Tool Assessment
 
-**CDC NWSS Technical Review — Engineering-implementable + Scientifically-interpretable**
-
 - Assessment scope: CDC-listed tools + deployable alternatives/workflows
 - Focus: deployability, reproducibility, evidence-chain interpretability, false-positive control
 
