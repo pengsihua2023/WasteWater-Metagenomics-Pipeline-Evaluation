@@ -23,7 +23,7 @@
 | **MLMVD-nf** | Novel/distant virus mining with multi-tool consensus | Short + long reads | ✅ | VirSorter2 + DeepVirFinder (+ viralFlye for long reads) | VS2 DB + DVF models + Pfam-A | consensus tiers; high-confidence lists; optional RPM/RPKM |
 | **KrakenMetaReads-nf** | Assembly-before-classification + RPM/RPKM | Short + long reads | ✅ | Kraken2 (+ Bracken for short reads) on contigs | Kraken2 DB (+ Bracken DB) | abundance folders; merged reports |
 | **GOTTCHA2** | Conservative profiling via unique signatures | Short + long reads | ❌ | GOTTCHA2 signature profiling | GOTTCHA2 `.mmi` | `*.tsv`, `*.summary.tsv`, `*.full.tsv` |
-| **CLARK** | Fast discriminative k-mer classification + abundance | SE/PE reads | ❌ | CLARK / CLARK-S / CLARK-l | RefSeq (viruses-only targets possible) | classification CSV + abundance scripts |
+| **CLARK** | Fast discriminative k-mer classification + abundance | Short + long reads | ❌ | CLARK / CLARK-S / CLARK-l | RefSeq (viruses-only targets possible) | classification CSV + abundance scripts |
 
 ---
 
