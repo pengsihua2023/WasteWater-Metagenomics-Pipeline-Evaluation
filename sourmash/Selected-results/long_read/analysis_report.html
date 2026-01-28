@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sourmash 分析报告</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <h1>Sourmash 宏基因组分析报告</h1>
+    <h2>分析参数</h2>
+    <ul>
+        <li>拼接软件: megahit</li>
+        <li>跳过拼接: false</li>
+        <li>k-mer 大小: 31</li>
+        <li>缩放因子: 1000</li>
+        <li>病毒数据库: /scratch/sp96859/Meta-genome-data-analysis/Apptainer/databases/sourmash_db/ncbi-viruses-2025.01.k31.zip</li>
+    </ul>
+    <h2>分析完成</h2>
+    <p>详细结果请查看输出目录中的 CSV 文件。</p>
+    <p>生成时间: $(date)</p>
+</body>
+</html>
