@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sourmash analysis report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <h1>Sourmash metagenomic analysis report</h1>
+    <h2>Run parameters</h2>
+    <ul>
+        <li>Assembler: megahit</li>
+        <li>Skip assembly: false</li>
+        <li>k-mer size: 31</li>
+        <li>Scaled: 1000</li>
+        <li>Viral DB: /scratch/sp96859/Meta-genome-data-analysis/Apptainer/databases/sourmash_db/ncbi-viruses-2025.01.k31.zip</li>
+    </ul>
+    <h2>Completed</h2>
+    <p>See the CSV files in the output directory for detailed results.</p>
+    <p>Generated at: $(date)</p>
+</body>
+</html>
