@@ -1,13 +1,5 @@
 # Metagenomic Viral Detection Summary (Pipelines + Tool Assessment)
 
-This `summary.md` integrates:
-- **Pipeline overview** from `PIPELINES_SUMMARY_EN.md` (8 pipelines/toolchains in this folder)
-- **Engineering + scientific assessment conclusions** from `Metagenomic Viral Detection Tool Assessment Report.md`
-
-The goal is a single, decision-oriented reference for **what each pipeline does**, **how tools behave (sensitivity vs specificity)**, and **how to select/compose workflows under HPC constraints**.
-
----
-
 ## 1) Executive Summary (What to use, when)
 
 - **Broad screening + standardized abundance tables (production-friendly)**: use **MetaTaxProfiler (nf-core/taxprofiler)**, optionally followed by confirmatory validation (GOTTCHA2 / sourmash / assembly evidence).
