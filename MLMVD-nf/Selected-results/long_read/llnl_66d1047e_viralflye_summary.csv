@@ -1,0 +1,18 @@
+seqname,length,viralflye_score,viralflye_type,viralflye_prediction
+contig_104,6260,-3.74,Circular,Uncertain - viral or bacterial
+contig_1045,9965,-5.27,Circular,Uncertain - viral or bacterial
+contig_1088,39632,33.68,Circular,Virus
+contig_1134,7541,-1.48,Circular,Uncertain - viral or bacterial
+contig_1144,12356,3.48,Circular,Uncertain - viral or bacterial
+contig_1156,13586,1.5,Circular,Uncertain - viral or bacterial
+contig_1177,11550,-6.92,Circular,Uncertain - viral or bacterial
+contig_1194,17488,25.93,Circular,Virus
+contig_1195,6447,-5.17,Circular,Uncertain - viral or bacterial
+contig_1213,6167,-6.87,Circular,Uncertain - viral or bacterial
+contig_260,6022,-2.58,Circular,Uncertain - viral or bacterial
+contig_1010,9219,-,Linear,Uncertain - viral or bacterial
+contig_1019,9233,1.84,Linear,Uncertain - viral or bacterial
+contig_446,3319,-3.54,Linear,Uncertain - viral or bacterial
+contig_619,4284,-2.85,Linear,Uncertain - viral or bacterial
+contig_837,3392,-6.26,Linear,Uncertain - viral or bacterial
+contig_851,3302,-,Linear,Uncertain - viral or bacterial
