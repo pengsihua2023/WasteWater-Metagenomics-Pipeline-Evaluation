@@ -1,0 +1,20 @@
+# High-confidence viral sequences (prioritized)
+# Sample: llnl_66d1047e
+#
+# Three-tool consensus (highest confidence):  3
+contig_1088	3-tool-consensus
+contig_851	3-tool-consensus
+contig_1194	3-tool-consensus
+#
+# Two-tool consensus:  11
+contig_296	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_1157	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_1062	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_872	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_1144	2-tool-consensus	VirSorter2+viralFlye
+contig_260	2-tool-consensus	VirSorter2+viralFlye
+contig_1038	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_455	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_140	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_316	2-tool-consensus	VirSorter2+DeepVirFinder
+contig_1156	2-tool-consensus	VirSorter2+viralFlye
