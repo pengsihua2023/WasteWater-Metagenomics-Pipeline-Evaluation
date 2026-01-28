@@ -1,0 +1,27 @@
+================================================================================
+Viral Abundance Analysis Summary (Long-Read)
+Sample: llnl_66d1047e
+Source: metaflye
+================================================================================
+
+Total reads in input: 229,765
+Total viral contigs: 29
+Total reads mapped to viral contigs: 5,131
+Mapping rate: 2.23%
+
+Top 10 Most Abundant Viral Contigs (by RPKM):
+--------------------------------------------------------------------------------
+Contig ID                                Length     Reads      RPKM      
+--------------------------------------------------------------------------------
+contig_260||full                         5881       1112       822.94    
+contig_1144||full                        6178       411        289.54    
+contig_1187||0_partial                   22278      1018       198.88    
+contig_282||full                         5282       176        145.02    
+contig_1088||full                        39580      1030       113.26    
+contig_1157||0_partial                   20656      496        104.51    
+contig_190||full                         6677       128        83.43     
+contig_1156||full                        13583      136        43.58     
+contig_1194||full                        17484      169        42.07     
+contig_851||full                         3300       30         39.57     
+
+================================================================================
