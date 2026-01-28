@@ -1,0 +1,86 @@
+================================================================================
+Viral Taxonomy Statistical Summary - viralFlye (Viral Sequences Only)
+================================================================================
+
+Sample Name: llnl_66d1047e
+Total Hits: 1,130
+Unique Queries: 1,130
+Average Identity: 32.79%
+Average Alignment Length: 274.7 aa
+
+[Superkingdom Distribution (Top 15)]
+--------------------------------------------------------------------------------
+N/A                                           1,076
+Eukaryota                                        48
+Bacteria                                          6
+
+[Kingdom Distribution (Top 15)]
+--------------------------------------------------------------------------------
+Bamfordvirae                                    762
+N/A                                             232
+Orthornavirae                                    43
+Heunggongvirae                                   36
+Viridiplantae                                    34
+Fungi                                             8
+Metazoa                                           6
+Pseudomonadati                                    6
+Shotokuvirae                                      2
+Pararnavirae                                      1
+
+[Phylum Distribution (Top 15)]
+--------------------------------------------------------------------------------
+Nucleocytoviricota                              762
+N/A                                             232
+Streptophyta                                     34
+Peploviricota                                    29
+Lenarviricota                                    22
+Pisuviricota                                     13
+Ascomycota                                        8
+Uroviricota                                       7
+Pseudomonadota                                    6
+Kitrinoviricota                                   4
+Chordata                                          2
+Rotifera                                          2
+Negarnaviricota                                   2
+Duplornaviricota                                  2
+Cossaviricota                                     2
+
+[Family Distribution (Top 15)]
+--------------------------------------------------------------------------------
+Mimiviridae                                     353
+N/A                                             248
+Phycodnaviridae                                 129
+Marseilleviridae                                 92
+Schizomimiviridae                                64
+Poxviridae                                       41
+Orthoherpesviridae                               28
+Allomimiviridae                                  26
+Poaceae                                          24
+Iridoviridae                                     20
+Mitoviridae                                      14
+Orpheoviridae                                    13
+Mamonoviridae                                    12
+Fabaceae                                          8
+Ascoviridae                                       6
+
+[Species Distribution (Top 15)]
+--------------------------------------------------------------------------------
+Mimiviridae sp. ChoanoV1                         57
+N/A                                              53
+Fadolivirus algeromassiliense                    49
+Megaviridae environmental sample                 45
+Hyperionvirus sp.                                40
+Marseillevirus LCMAC202                          33
+Alphaentomopoxvirus acuprea                      29
+Cytomegalovirus macacinebeta3                    27
+Terrestrivirus sp.                               23
+Marseillevirus LCMAC103                          23
+Edafosvirus sp.                                  22
+Harvfovirus sp.                                  20
+Florenciella sp. virus SA2                       19
+Chlorovirus sp.                                  18
+Indivirus ILV1                                   17
+
+================================================================================
+Analysis Complete
+================================================================================
