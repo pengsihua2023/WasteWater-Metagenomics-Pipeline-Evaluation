@@ -26,32 +26,32 @@ Raw FASTQ (e.g. *_1.fastq.gz, *_2.fastq.gz)
          │
          ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  DATA PREPROCESSING                                              │
-│  • FastQC          – quality metrics per sample                  │
-│  • fastp            – adapter trimming, QC, paired/single        │
-│  • Run merging      – merge multiple runs per sample (optional)  │
+│  DATA PREPROCESSING                                             │
+│  • FastQC          – quality metrics per sample                 │
+│  • fastp            – adapter trimming, QC, paired/single       │
+│  • Run merging      – merge multiple runs per sample (optional) │
 └─────────────────────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  TAXONOMIC CLASSIFICATION                                        │
+│  TAXONOMIC CLASSIFICATION                                       │
 │  • Kraken2         – k-mer–based taxonomic assignment           │
-│  • Bracken         – species-level read count re-estimation      │
+│  • Bracken         – species-level read count re-estimation     │
 └─────────────────────────────────────────────────────────────────┘
          │
          ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  ABUNDANCE ANALYSIS (MetaTaxProfiler)                            │
-│  • batch_calculate_abundance_en.sh  – batch driver               │
+┌───────────────────────────────────────────────────────────────────────┐
+│  ABUNDANCE ANALYSIS (MetaTaxProfiler)                                 │
+│  • batch_calculate_abundance_en.sh  – batch driver                    │
 │  • calculate_abundance_en.py        – Bracken → RPM (or fallback│
-│  • calculate_abundance_longread_en.py – Kraken2 → RPM if no Bracken) │
-└─────────────────────────────────────────────────────────────────┘
+│  • calculate_abundance_longread_en.py – Kraken2 → RPM if no Bracken)  │
+└───────────────────────────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  REPORTING & STANDARDISATION                                     │
-│  • Taxpasta        – standardised profile tables (e.g. MOTU)     │
-│  • MultiQC         – aggregated QC and pipeline report           │
+│  REPORTING & STANDARDISATION                                    │
+│  • Taxpasta        – standardised profile tables (e.g. MOTU)    │
+│  • MultiQC         – aggregated QC and pipeline report          │
 └─────────────────────────────────────────────────────────────────┘
          │
          ▼
@@ -65,30 +65,30 @@ Raw FASTQ (long reads, e.g. *.fastq.gz)
          │
          ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  DATA PREPROCESSING                                              │
+│  DATA PREPROCESSING                                             │
 │  • NanoPlot / NanoStat  – long-read QC metrics                  │
 │  • Porechop (or Porechop_ABI) – adapter removal                 │
-│  • Run merging          – merge runs per sample (optional)       │
+│  • Run merging          – merge runs per sample (optional)      │
 └─────────────────────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  TAXONOMIC CLASSIFICATION                                        │
-│  • Kraken2         – taxonomic assignment (Bracken not used)     │
+│  TAXONOMIC CLASSIFICATION                                       │
+│  • Kraken2         – taxonomic assignment (Bracken not used)    │
 └─────────────────────────────────────────────────────────────────┘
          │
          ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  ABUNDANCE ANALYSIS (MetaTaxProfiler)                            │
-│  • batch_calculate_abundance_longread_en.sh – batch driver       │
-│  • calculate_abundance_longread_en.py       – Kraken2 report → RPM │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  ABUNDANCE ANALYSIS (MetaTaxProfiler)                               │
+│  • batch_calculate_abundance_longread_en.sh – batch driver          │
+│  • calculate_abundance_longread_en.py       – Kraken2 report → RPM  │
+└─────────────────────────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  REPORTING & STANDARDISATION                                     │
-│  • Taxpasta        – standardised profile tables                 │
-│  • MultiQC         – aggregated report                            │
+│  REPORTING & STANDARDISATION                                    │
+│  • Taxpasta        – standardised profile tables                │
+│  • MultiQC         – aggregated report                          │
 └─────────────────────────────────────────────────────────────────┘
          │
          ▼
@@ -200,3 +200,4 @@ After removal of RPKM, the main abundance TSVs typically contain:
 - **Main deliverables:** Kraken2 reports, Bracken tables (short-read), **abundance/*.tsv** (RPM), and **multiqc/multiqc_report.html**.
 
 For sample sheets, database setup, and options, see **README.md**, **SHORTREAD_ABUNDANCE_GUIDE.md**, and **LONGREAD_GUIDE.md**.
+
