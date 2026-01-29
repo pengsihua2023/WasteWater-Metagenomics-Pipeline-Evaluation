@@ -1,4 +1,4 @@
-## nf-core/mag (v3.1.0) Short-read workflow (Apptainer) — Description & Outputs
+## nf-core/mag (v3.1.0) Short-read workflow 
 
 This document describes the **actual workflow executed by `run_short_reads.sh`** in this project and summarizes **tools**, **major steps**, and **result files** (under `results_short/`).
 
@@ -188,5 +188,6 @@ Requested explicitly in the script:
 
 - This run uses Apptainer containers pulled from `quay.io/biocontainers/...` images.
 - The exact command-line arguments are printed by the script (debug block) and can be copied into the log for auditing.
+
 
 
