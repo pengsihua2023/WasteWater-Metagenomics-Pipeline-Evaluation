@@ -1,0 +1,120 @@
+================================================================================
+Dual-Track Analysis Comparison Report - Viral Identification Consensus Analysis
+================================================================================
+
+Sample Name: llnl_66d1047e
+
+[Overall Statistics]
+--------------------------------------------------------------------------------
+MetaFlye Total Hits:              2,433
+MetaFlye Viral Hits:              1,808
+viralFlye Total Hits:             1,130
+viralFlye Viral Hits:             844
+
+[Contig-Level Comparison]
+--------------------------------------------------------------------------------
+MetaFlye Viral Contigs:           707
+viralFlye Viral Contigs:          180
+Consensus Viral Contigs (Both):   180 ★★★ Highest Confidence
+MetaFlye-Only Viral Contigs:      527 → Distant Viral Candidates
+viralFlye-Only Viral Contigs:     0 → Feature-based, Low Similarity
+
+[Viral Confidence Levels]
+--------------------------------------------------------------------------------
+★★★ High Confidence (Consensus):  180 contigs
+    - viralFlye feature identification + Diamond sequence match
+    - Confirmed by both independent methods
+
+★★  Medium Confidence (viralFlye-Only): 0 contigs
+    - Identified as viral by viralFlye
+    - No match or extremely low similarity in Diamond
+    - Possibly: feature-based but sequence-unique viruses
+
+★   Needs Verification (MetaFlye-Only): 527 contigs
+    - Matched to viral proteins in Diamond
+    - But filtered by viralFlye (feature mismatch)
+    - Possibly: distant viruses or false positives
+
+[Taxonomic Distribution of Consensus Viruses]
+--------------------------------------------------------------------------------
+
+Kingdom Distribution (Top 15):
+  Bamfordvirae                                762
+  Orthornavirae                                43
+  Heunggongvirae                               36
+  Shotokuvirae                                  2
+  Pararnavirae                                  1
+
+Phylum Distribution (Top 15):
+  Nucleocytoviricota                          762
+  Peploviricota                                29
+  Lenarviricota                                22
+  Pisuviricota                                 13
+  Uroviricota                                   7
+  Kitrinoviricota                               4
+  Cossaviricota                                 2
+  Negarnaviricota                               2
+  Duplornaviricota                              2
+  Artverviricota                                1
+
+Family Distribution (Top 15):
+  Mimiviridae                                 353
+  Phycodnaviridae                             129
+  Marseilleviridae                             92
+  Schizomimiviridae                            64
+  Poxviridae                                   41
+  Orthoherpesviridae                           28
+  Allomimiviridae                              26
+  Iridoviridae                                 20
+  Mitoviridae                                  14
+  Orpheoviridae                                13
+
+Genus Distribution (Top 15):
+  Chlorovirus                                  53
+  Fadolivirus                                  49
+  Prasinovirus                                 30
+  Alphaentomopoxvirus                          29
+  Cytomegalovirus                              27
+  Catovirus                                    24
+  Oceanusvirus                                 19
+  Indivirus                                    17
+  Klosneuvirus                                 16
+  Theiavirus                                   13
+  Mimivirus                                    13
+  Alphaorpheovirus                             13
+  Medusavirus                                  12
+  Phaeovirus                                   12
+  Hokovirus                                    10
+
+Species Distribution (Top 15):
+  Mimiviridae sp. ChoanoV1                     57
+  Fadolivirus algeromassiliense                49
+  Megaviridae environmental sample             45
+  Hyperionvirus sp.                            40
+  Marseillevirus LCMAC202                      33
+  Alphaentomopoxvirus acuprea                  29
+  Cytomegalovirus macacinebeta3                27
+  Marseillevirus LCMAC103                      23
+  Terrestrivirus sp.                           23
+  Edafosvirus sp.                              22
+  Harvfovirus sp.                              20
+  Chlorovirus sp.                              18
+  Marseillevirus LCMAC201                      17
+  Indivirus ILV1                               17
+  Klosneuvirus KNV1                            16
+
+[MetaFlye-Only Viruses (Distant Viral Candidates)]
+--------------------------------------------------------------------------------
+Count: 527 contigs, 964 protein matches
+Average Identity: 34.22%
+
+Family Distribution (Top 5):
+  Mimiviridae                                 444
+  Phycodnaviridae                             143
+  Marseilleviridae                            104
+  Schizomimiviridae                            65
+  Poxviridae                                   45
+
+================================================================================
+Recommendation: Use consensus virus list for downstream analysis (highest confidence)
+================================================================================

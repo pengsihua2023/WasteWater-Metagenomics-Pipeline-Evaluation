@@ -1,0 +1,91 @@
+================================================================================
+Viral Taxonomy Statistical Summary - MetaFlye (All Sequences)
+================================================================================
+
+Sample Name: llnl_66d1047e
+Total Hits: 2,433
+Unique Queries: 2,433
+Average Identity: 33.37%
+Average Alignment Length: 254.9 aa
+
+[Superkingdom Distribution]
+--------------------------------------------------------------------------------
+N/A                                           2,298
+Eukaryota                                       129
+Bacteria                                          6
+
+[Kingdom Distribution]
+--------------------------------------------------------------------------------
+Bamfordvirae                                  1,657
+N/A                                             492
+Orthornavirae                                    78
+Viridiplantae                                    70
+Heunggongvirae                                   70
+Metazoa                                          31
+Fungi                                            26
+Pseudomonadati                                    6
+Shotokuvirae                                      2
+Pararnavirae                                      1
+
+[Phylum Distribution (Top 15)]
+--------------------------------------------------------------------------------
+Nucleocytoviricota                            1,657
+N/A                                             492
+Streptophyta                                     70
+Peploviricota                                    55
+Lenarviricota                                    37
+Ascomycota                                       26
+Pisuviricota                                     23
+Uroviricota                                      15
+Rotifera                                         13
+Chordata                                         11
+Kitrinoviricota                                   9
+Duplornaviricota                                  7
+Pseudomonadota                                    6
+Arthropoda                                        4
+Platyhelminthes                                   3
+
+[Family Distribution (Top 15)]
+--------------------------------------------------------------------------------
+Mimiviridae                                     797
+N/A                                             530
+Phycodnaviridae                                 272
+Marseilleviridae                                196
+Schizomimiviridae                               129
+Poxviridae                                       86
+Allomimiviridae                                  58
+Orthoherpesviridae                               51
+Poaceae                                          50
+Iridoviridae                                     38
+Mamonoviridae                                    23
+Orpheoviridae                                    22
+Mitoviridae                                      20
+Ascoviridae                                      15
+Adinetidae                                       13
+
+[Species Distribution (Top 20)]
+--------------------------------------------------------------------------------
+Megaviridae environmental sample                117
+Mimiviridae sp. ChoanoV1                        115
+Fadolivirus algeromassiliense                   106
+N/A                                             104
+Hyperionvirus sp.                                69
+Marseillevirus LCMAC202                          63
+Alphaentomopoxvirus acuprea                      56
+Edafosvirus sp.                                  50
+Terrestrivirus sp.                               49
+Marseillevirus LCMAC103                          49
+Cytomegalovirus macacinebeta3                    49
+Chlorovirus sp.                                  45
+Klosneuvirus KNV1                                42
+Marseillevirus LCMAC201                          41
+Catovirus CTV1                                   41
+Harvfovirus sp.                                  38
+Florenciella sp. virus SA2                       38
+Hokovirus HKV1                                   29
+Indivirus ILV1                                   29
+Theiavirus salishense                            28
+
+================================================================================
+Analysis Complete
+================================================================================

@@ -1,0 +1,1 @@
+qseqid	sseqid	pident	length	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore	staxids	organism_name	superkingdom	kingdom	phylum	class	order	family	genus	species	contig_id
