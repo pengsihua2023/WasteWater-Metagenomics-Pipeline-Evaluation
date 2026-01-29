@@ -1,4 +1,4 @@
-# Sourmash Metagenomic Pipeline (Nextflow DSL2)
+# sourmash Pipeline Overview
 
 This repository contains a Nextflow DSL2 pipeline for metagenomic screening using **sourmash** MinHash signatures. It supports **short reads** and **long reads**, with optional **assembly** prior to sketching.
 
