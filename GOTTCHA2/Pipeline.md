@@ -16,13 +16,13 @@ Raw/Preprocessed FASTQ (R1, R2)
            ▼
    ┌───────────────────┐
    │ 1. Environment    │  Miniforge3, conda env (gottcha2_env)
-   │    setup           │
+   │    setup          │
    └─────────┬─────────┘
              │
              ▼
    ┌───────────────────┐
    │ 2. Taxonomic      │  GOTTCHA2 profile
-   │    profiling       │  Database: gottcha_db.species.fna
+   │    profiling      │  Database: gottcha_db.species.fna
    └─────────┬─────────┘
              │
              ▼
