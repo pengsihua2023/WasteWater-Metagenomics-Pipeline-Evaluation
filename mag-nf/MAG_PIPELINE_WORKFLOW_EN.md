@@ -1,4 +1,4 @@
-# Workflows in this repo: nf-core/mag + long-read utilities (Apptainer) — Description & Outputs
+# Workflows of nf-core/mag
 
 This document summarizes the **workflows provided in this repository** for metagenome analysis, including:
 
@@ -206,4 +206,5 @@ Many scripts in this repository explicitly disable time-consuming MAG-oriented s
 - `--skip_quast`
 
 This is intended when the goal is **assembly + viral taxonomy profiling** rather than full MAG reconstruction.
+
 
