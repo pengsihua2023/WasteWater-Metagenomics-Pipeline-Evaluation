@@ -1,4 +1,4 @@
-# Metagenome Assembly & Diamond Classification Pipeline (Nextflow DSL2)
+## Metagenome Assembly & Diamond Classification Pipeline (Nextflow DSL2)
 
 This repository provides a **Nextflow DSL2** pipeline for metagenome assembly and protein-level classification against a **DIAMOND** database (e.g., RVDB). It supports:
 
