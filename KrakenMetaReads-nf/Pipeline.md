@@ -25,9 +25,9 @@ This pipeline performs metagenomic assembly, read mapping, abundance estimation,
 Raw paired-end reads (FASTQ)
         │
         ▼
-┌───────────────────┐
+┌─────────────────────┐
 │  Data Preprocessing │  fastp (QC, adapter trimming, filtering)
-└─────────┬─────────┘
+└─────────┬───────────┘
           │
           ▼
 ┌───────────────────┐
@@ -38,35 +38,35 @@ Raw paired-end reads (FASTQ)
           ▼                              ▼
 ┌───────────────────┐          ┌───────────────────┐
 │  Bowtie2 index    │          │  Bowtie2 index    │
-│  (MEGAHIT contigs)│          │  (SPAdes contigs)  │
-└─────────┬─────────┘          └─────────┬───────────┘
+│  (MEGAHIT contigs)│          │  (SPAdes contigs) │
+└─────────┬─────────┘          └─────────┬─────────┘
           │                              │
           ▼                              ▼
-┌───────────────────┐          ┌───────────────────┐
-│  Bowtie2 align    │          │  Bowtie2 align     │
-│  (clean reads →   │          │  (clean reads →    │
-│   MEGAHIT)        │          │   SPAdes)          │
+┌───────────────────┐          ┌─────────────────────┐
+│  Bowtie2 align    │          │  Bowtie2 align      │
+│  (clean reads →   │          │  (clean reads →     │
+│   MEGAHIT)        │          │   SPAdes)           │
 └─────────┬─────────┘          └─────────┬───────────┘
           │                              │
           ▼                              ▼
 ┌───────────────────┐          ┌───────────────────┐
 │  Abundance        │          │  Abundance        │
-│  (RPM, RPKM)       │          │  (RPM, RPKM)      │
-│  MEGAHIT           │          │  SPAdes           │
-└─────────┬─────────┘          └─────────┬───────────┘
+│  (RPM, RPKM)      │          │  (RPM, RPKM)      │
+│  MEGAHIT          │          │  SPAdes           │
+└─────────┬─────────┘          └─────────┬─────────┘
           │                              │
           ▼                              ▼
-┌───────────────────┐          ┌───────────────────┐
-│  Kraken2          │          │  Kraken2           │
-│  (MEGAHIT contigs) │          │  (SPAdes contigs) │
-└─────────┬─────────┘          └─────────┬───────────┘
-          │                              │
-          └──────────────┬───────────────┘
+┌─────────────────────┐          ┌─────────────────────┐
+│  Kraken2            │          │  Kraken2            │
+│  (MEGAHIT contigs)  │          │  (SPAdes contigs)   │
+└─────────┬───────────┘          └─────────┬───────────┘
+          │                                │
+          └──────────────┬─────────────────┘
                          ▼
               ┌───────────────────┐
-              │  Merge Kraken2     │
-              │  reports + virus   │
-              │  consensus         │
+              │  Merge Kraken2    │
+              │  reports + virus  │
+              │  consensus        │
               └───────────────────┘
 ```
 
@@ -76,11 +76,11 @@ Raw paired-end reads (FASTQ)
 Raw long reads (FASTQ)
         │
         ▼
-┌───────────────────┐
-│  metaFlye Assembly │  (general metagenome)
-└─────────┬─────────┘
+┌─────────────────────┐
+│  metaFlye Assembly  │  (general metagenome)
+└─────────┬───────────┘
           │
-          ├──────────────────────────────────────────┐
+          ├────────────────────────────────────────────┐
           ▼                                            │
 ┌───────────────────┐                                  │
 │  Minimap2 align   │                                  │
@@ -91,7 +91,7 @@ Raw long reads (FASTQ)
           ▼                                            │
 ┌───────────────────┐                                  │
 │  Abundance (Flye) │                                  │
-│  RPM, RPKM         │                                  │
+│  RPM, RPKM        │                                  │
 └─────────┬─────────┘                                  │
           │                                            │
           ▼                                            │
@@ -103,13 +103,13 @@ Raw long reads (FASTQ)
           [Optional: viralFlye enabled]                │
                        │                               │
                        ▼                               │
-              ┌───────────────────┐                    │
-              │  viralFlye         │  (viral contig     │
-              │  (linear +         │   identification   │
-              │   circular)        │   from Flye)       │
-              └─────────┬─────────┘                    │
+             ┌───────────────────┐                     │
+             │  viralFlye        │  (viral contig      │
+             │  (linear +        │   identification    │
+             │   circular)       │   from Flye)        │
+             └─────────┬─────────┘                     │
                        │                               │
-          ├────────────┼────────────┐                  │
+          ┌────────────┼────────────┐                  │
           ▼            ▼            ▼                  │
     Minimap2      Minimap2      Minimap2               │
     (linear)      (circular)    (→ abundance +         │
