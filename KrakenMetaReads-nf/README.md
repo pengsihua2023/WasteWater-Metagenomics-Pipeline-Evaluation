@@ -2,7 +2,7 @@
 
 A comprehensive Nextflow workflow for viral metagenomic classification and abundance analysis using nf-core/taxprofiler. This pipeline supports both short-read (Illumina) and long-read (Nanopore/PacBio) sequencing data, providing automated taxonomic classification with Kraken2 and abundance quantification using RPM (Reads Per Million) and RPKM (Reads Per Kilobase Million) metrics.
 
---
+---
 
 ## Table of Contents
 
