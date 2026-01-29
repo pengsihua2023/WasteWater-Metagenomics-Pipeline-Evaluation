@@ -18,6 +18,11 @@
 
 CLARK (Classification of metagenomic and genomic sequences) is an efficient metagenomic sequence classification tool that can quickly and accurately classify metagenomic data. CLARK supports multiple classification modes, including species classification, genus classification, etc., and is suitable for large-scale metagenomic data analysis.
 
+
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)[![Apptainer](https://img.shields.io/badge/container-Apptainer-%2342b983.svg)](https://apptainer.org/)
+
+---
+
 ## Quick Start: Virus Detection and Classification
 
 If you need to quickly perform virus detection and classification, you can follow these steps:
