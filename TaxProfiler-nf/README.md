@@ -5,9 +5,9 @@ MetaTaxProfiler is a viral metagenomics analysis tool built upon the TaxProfiler
 
 With its containerized design, MetaTaxProfiler ensures high reproducibility, delivers publication-ready results, and intelligently adapts to available computational resources. It is an ideal solution for researchers seeking efficient and standardized viral metagenomic analysis.
 
-[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
-[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
-[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
+[![Apptainer](https://img.shields.io/badge/Apptainer-%3D%201.3-42b983)](https://apptainer.org/)
+[![Nextflow](https://img.shields.io/badge/nextflow-%3D%2024.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%3D%203.9-blue.svg)](https://www.python.org/)
 
 ---
 
