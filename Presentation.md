@@ -76,7 +76,7 @@ To prevent statements like “most sensitive and most specific” at the same ti
 - Long reads: `llnl_66d1047e.fastq.gz` = **263.93 MB**
 
 ### Run #2 (Real dataset)
-- Short reads: `SRR35987572_1.fastq.gz` + `SRR35987572_2.fastq.gz`*  
+- Short reads: `SRR35987572_1.fastq.gz` + `SRR35987572_2.fastq.gz`  
   - 145 GB + 144 GB = **289 GB**
 - Long reads: **not available**
 - Scale: **~212.5×** larger than Run #1 (short-read volume)
