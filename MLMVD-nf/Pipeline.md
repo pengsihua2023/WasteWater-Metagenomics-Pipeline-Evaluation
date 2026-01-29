@@ -1,4 +1,4 @@
-## Metagenome Viral Classification Workflow (Nextflow DSL2)
+## MLMVD-nf Pipeline Overview
 
 [![Apptainer](https://img.shields.io/badge/Apptainer-%3D%201.3-42b983)](https://apptainer.org/)
 [![Nextflow](https://img.shields.io/badge/nextflow-%3D%2024.10.1-brightgreen.svg)](https://www.nextflow.io/)
