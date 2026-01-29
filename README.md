@@ -1,6 +1,6 @@
-# Metagenomic Viral Detection Summary (Pipelines + Tool Assessment)
+## Metagenomic Viral Detection Summary (Pipelines + Tool Assessment)
 
-## 1) Executive Summary (What to use, when)
+### 1) Executive Summary (What to use, when)
 
 - **Broad screening + standardized abundance tables (production-friendly)**: use **MetaTaxProfiler (nf-core/taxprofiler)**, optionally followed by confirmatory validation (GOTTCHA2 / sourmash / assembly evidence).
 - **Discovery + genome/contig evidence chain (especially large DNA viruses / NCLDV)**: use **rvdb-viral-metagenome-nf** (assembly + protein homology via DIAMOND/RVDB). Add **MLMVD-nf** when you need a smaller, higher-confidence candidate set.
@@ -12,7 +12,7 @@
 
 ---
 
-## 2) Catalog: 8 Pipelines in This Folder (At a Glance)
+### 2) Catalog: 8 Pipelines in This Folder (At a Glance)
 
 | Pipeline | Primary goal | Data types | Assembly | Core method | Key databases | Main outputs |
 |---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## 3) Assessment Framework (Why results differ across tools)
+### 3) Assessment Framework (Why results differ across tools)
 
 The assessment explicitly distinguishes two output concepts to prevent contradictory claims:
 - **Default output**: tool’s standard/default run results (typically higher sensitivity, more noise).
@@ -41,7 +41,7 @@ It also groups strategies into four practical categories:
 
 ---
 
-## 4) Deployability Matters (HPC reality check)
+### 4) Deployability Matters (HPC reality check)
 
 From the CDC-list assessment under **UGA Sapelo2** constraints (no sudo; Apptainer security restrictions):
 - **Runnable and assessed (5 from CDC list)**: nf-core/taxprofiler, GOTTCHA2, sourmash, CLARK, nf-core/mag
@@ -51,9 +51,9 @@ From the CDC-list assessment under **UGA Sapelo2** constraints (no sudo; Apptain
 
 ---
 
-## 5) Key Findings (Sensitivity vs Specificity, and what to trust)
+### 5) Key Findings (Sensitivity vs Specificity, and what to trust)
 
-### 5.1 Sensitivity–Specificity trade-off (high-level)
+#### 5.1 Sensitivity–Specificity trade-off (high-level)
 
 | Tool/Workflow | Default sensitivity | Default specificity | Specificity after consensus/threshold | Notes |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ From the CDC-list assessment under **UGA Sapelo2** constraints (no sudo; Apptain
 | MLMVD-nf | Low | Very high | (built-in) | Designed as strict filter: fewer calls, higher confidence |
 | KrakenMetaReads-nf | Medium | Medium | Medium–High | Assembly-first reduces ambiguity; may lose low-abundance taxa |
 
-### 5.2 Resource/engineering implications
+#### 5.2 Resource/engineering implications
 - **Resource-heavy (CPU/time)**: nf-core/mag, rvdb-viral, MLMVD-nf (assembly and multi-tool inference dominate).
 - **Memory-heavy**: Kraken2/CLARK family (DB index size is the main driver).
 - **Lightweight**: sourmash (sketching and search are relatively small/fast).
 - **Production maturity**: nf-core + Nextflow workflows generally offer better batch execution, logging, and resume/checkpointing than standalone tools.
 
-### 5.3 Empirical runtime and memory requirements (two runs; 8 pipelines)
+#### 5.3 Empirical runtime and memory requirements (two runs; 8 pipelines)
 
 | Run | Dataset type | Short-read input (paired-end) | Short-read size | Long-read input | Long-read size | Relative scale vs run #1 | Observed wall time (all 8 pipelines) | Peak memory (max across 8) | Main driver of peak memory |
 |---|---|---|---:|---|---:|---:|---|---:|---|
@@ -81,34 +81,34 @@ From the CDC-list assessment under **UGA Sapelo2** constraints (no sudo; Apptain
 
 \* The input is described as paired-end; the second filename is written as `_1` in the provided note and is kept verbatim here.
 
-### 5.4 “Database is the invisible deciding factor”
+#### 5.4 “Database is the invisible deciding factor”
 - RefSeq-like standard DBs often underrepresent environmental virus/phage diversity.
 - RVDB improves viral coverage (especially environmental/distant viruses) but still has annotation bias risks.
 
 ---
 
-## 6) False Positive Control (Minimum recommended evidence chain)
+### 6) False Positive Control (Minimum recommended evidence chain)
 
 Common false-positive sources: host contamination, kitome/reagent contamination, short-fragment homology, DB misannotation, low-complexity/repeats.
 
-### 6.1 Minimum essential strategy (strongly recommended)
+#### 6.1 Minimum essential strategy (strongly recommended)
 1. **Host removal**: Bowtie2 for short reads; Minimap2 for long reads.
 2. **Threshold filtering**: minimum read counts / relative abundance thresholds for read-level outputs (scale with sequencing depth).
 
-### 6.2 Recommended multi-evidence consensus
+#### 6.2 Recommended multi-evidence consensus
 - **Multi-tool support (≥2 tools)**: e.g., taxprofiler Kraken2 plus an additional independent signal (Kaiju/DIAMOND module if enabled, and/or GOTTCHA2/CLARK).
 - **Assembly evidence priority for key findings**: require at least one medium-to-long contig (e.g., >5–10 kb; adjust by virus type) with supportive evidence:
   - hallmark genes / gene-feature plausibility
   - DIAMOND/RVDB or VirSorter2/CheckV support
   - coverage distribution consistency (avoid single-spot artifacts)
 
-### 6.3 Interpretation rule
+#### 6.3 Interpretation rule
 Anything that is **single-tool only**, **very low abundance**, and **lacks assembly/coverage evidence** should be labeled:
 **“Low-confidence candidate (requires validation)”**, not a confirmed finding.
 
 ---
 
-## 7) Decision Matrix (Scores 1–5; from the assessment)
+### 7) Decision Matrix (Scores 1–5; from the assessment)
 
 | Dimension | taxprofiler | rvdb-viral | MLMVD-nf | nf-core/mag | GOTTCHA2 | CLARK | sourmash | KrakenMetaReads-nf |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -125,26 +125,26 @@ Anything that is **single-tool only**, **very low abundance**, and **lacks assem
 
 ---
 
-## 8) Recommended Deployable Solutions (Decision-oriented)
+### 8) Recommended Deployable Solutions (Decision-oriented)
 
-### 8.1 High-confidence consensus + benchmark-style reporting
+#### 8.1 High-confidence consensus + benchmark-style reporting
 - **Recommended stack**: taxprofiler (primary screen) + (key targets) GOTTCHA2 / sourmash / assembly evidence
 - **Use when**: wastewater/environmental monitoring; pre-clinical screening; you need clear “screen-positive vs confirm-positive” labeling.
 
-### 8.2 Emerging/outbreak discovery (discovery & evidence chain)
+#### 8.2 Emerging/outbreak discovery (discovery & evidence chain)
 - **Recommended stack**: rvdb-viral (assembly + protein homology) + MLMVD-nf (strict candidate set) + optional nf-core/mag (deep reconstruction)
 - **Use when**: environmental unknown virus surveys; outbreak tracing requiring high-quality contig/genome evidence.
 
-### 8.3 Wastewater surveillance (high background/noise)
+#### 8.3 Wastewater surveillance (high background/noise)
 - **Recommended stack**: taxprofiler (batch) → GOTTCHA2 confirmation → (key samples) KrakenMetaReads-nf / rvdb-viral for assembly validation
 - **Reporting rule**: explicitly separate **screen-positive** from **confirm-positive**.
 
-### 8.4 Ultra-diverse, large-scale monitoring (cost control)
+#### 8.4 Ultra-diverse, large-scale monitoring (cost control)
 - **Recommended stack**: sourmash (fast coarse screening/dedup) + taxprofiler (fine screening) + (key samples) nf-core/mag / rvdb-viral deep mining
 
 ---
 
-## 9) Appendix: Terms (short)
+### 9) Appendix: Terms (short)
 
 - **Sensitivity**: avoid misses (more calls).
 - **Specificity**: avoid false alarms (fewer, cleaner calls).
