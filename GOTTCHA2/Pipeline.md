@@ -1,6 +1,5 @@
-## Metagenome Viral Classification Pipeline (Short-Read Mode)
+## GOTTCHA2 Pipeline Overview
 
-## Overview
 
 This pipeline performs **taxonomic profiling of viral sequences** from short-read metagenomic data. It takes paired-end FASTQ files as input and produces abundance tables and summary reports for viral taxa using GOTTCHA2.
 
