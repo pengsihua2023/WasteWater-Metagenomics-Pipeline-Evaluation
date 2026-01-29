@@ -1,4 +1,4 @@
-# Workflows of nf-core/mag
+# nf-core/mag Pipeline Overview
 
 This document summarizes the **workflows provided in this repository** for metagenome analysis, including:
 
@@ -212,6 +212,7 @@ Many scripts in this repository explicitly disable time-consuming MAG-oriented s
 - `--skip_quast`
 
 This is intended when the goal is **assembly + viral taxonomy profiling** rather than full MAG reconstruction.
+
 
 
 
