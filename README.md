@@ -1,5 +1,4 @@
-## Metagenomic Viral Detection Summary (Pipelines + Tool Assessment)
-
+## Summary of Metagenomic Virus Detection Workflow/Tool Assessment
 ### 1) Executive Summary (What to use, when)
 
 - **Broad screening + standardized abundance tables (production-friendly)**: use **MetaTaxProfiler (nf-core/taxprofiler)**, optionally followed by confirmatory validation (GOTTCHA2 / sourmash / assembly evidence).
