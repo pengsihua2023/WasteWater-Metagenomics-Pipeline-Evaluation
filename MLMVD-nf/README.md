@@ -14,9 +14,9 @@ A comprehensive Nextflow workflow for discovering and validating viral sequences
 - **Short-read mode**: Dual assemblers (MEGAHIT + SPAdes) + ML tools (VirSorter2 + DeepVirFinder)
 - **Long-read mode**: Three-tool parallel analysis (VirSorter2 + DeepVirFinder + viralFlye) 
 
-[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
-[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
-[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
+[![Apptainer](https://img.shields.io/badge/Apptainer-%3D%201.3-42b983)](https://apptainer.org/)
+[![Nextflow](https://img.shields.io/badge/nextflow-%3D%2024.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%3D%203.9-blue.svg)](https://www.python.org/)
 
 ---
 
