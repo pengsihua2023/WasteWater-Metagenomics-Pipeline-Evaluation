@@ -1,4 +1,4 @@
-# Metagenome Viral Classification Pipeline (Short-Read Mode)
+## Metagenome Viral Classification Pipeline (Short-Read Mode)
 
 ## Overview
 
