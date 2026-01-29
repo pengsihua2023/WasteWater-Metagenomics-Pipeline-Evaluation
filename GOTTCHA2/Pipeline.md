@@ -4,7 +4,7 @@
 
 This pipeline performs **taxonomic profiling of viral sequences** from short-read metagenomic data. It takes paired-end FASTQ files as input and produces abundance tables and summary reports for viral taxa using GOTTCHA2.
 
-[![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-%3D%203.10-blue.svg)](https://www.python.org/)
 
 ---
 
