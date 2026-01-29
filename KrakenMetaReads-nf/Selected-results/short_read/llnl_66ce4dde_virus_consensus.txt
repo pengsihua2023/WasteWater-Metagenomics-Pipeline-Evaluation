@@ -1,0 +1,6290 @@
+================================================================================
+Viral Consensus Analysis - MEGAHIT vs SPAdes
+================================================================================
+
+Sample: llnl_66ce4dde
+
+Total viral classifications: 1624
+  ✅ Consensus viruses (detected by BOTH): 784
+  ⚠️  SPAdes only: 769
+  ⚠️  MEGAHIT only: 71
+
+Consensus rate: 48.3%
+================================================================================
+
+HIGH CONFIDENCE VIRUSES (Consensus - Detected by Both Assemblers):
+--------------------------------------------------------------------------------
+
+Viruses
+  Tax ID: 10239
+  Rank: R1
+  SPAdes: 2385 contigs (0.69%)
+  MEGAHIT: 1341 contigs (2.78%)
+  Total: 3726 contigs
+  Agreement: 0.56
+
+Pantevenvirales
+  Tax ID: 3420545
+  Rank: O
+  SPAdes: 99 contigs (0.03%)
+  MEGAHIT: 37 contigs (0.08%)
+  Total: 136 contigs
+  Agreement: 0.37
+
+Pandoravirus
+  Tax ID: 2060084
+  Rank: G
+  SPAdes: 51 contigs (0.01%)
+  MEGAHIT: 19 contigs (0.04%)
+  Total: 70 contigs
+  Agreement: 0.37
+
+Punavirus
+  Tax ID: 186789
+  Rank: G
+  SPAdes: 24 contigs (0.01%)
+  MEGAHIT: 32 contigs (0.07%)
+  Total: 56 contigs
+  Agreement: 0.75
+
+Shigella phage SfIV
+  Tax ID: 1407493
+  Rank: S
+  SPAdes: 32 contigs (0.01%)
+  MEGAHIT: 16 contigs (0.03%)
+  Total: 48 contigs
+  Agreement: 0.50
+
+Herpesvirales
+  Tax ID: 548681
+  Rank: O
+  SPAdes: 32 contigs (0.01%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 38 contigs
+  Agreement: 0.19
+
+Timlovirales
+  Tax ID: 2842249
+  Rank: O
+  SPAdes: 20 contigs (0.01%)
+  MEGAHIT: 14 contigs (0.03%)
+  Total: 34 contigs
+  Agreement: 0.70
+
+Menderavirus
+  Tax ID: 2843421
+  Rank: G
+  SPAdes: 19 contigs (0.01%)
+  MEGAHIT: 13 contigs (0.03%)
+  Total: 32 contigs
+  Agreement: 0.68
+
+Punavirus RCS47
+  Tax ID: 2560452
+  Rank: S
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 15 contigs (0.03%)
+  Total: 30 contigs
+  Agreement: 1.00
+
+Escherichia phage RCS47
+  Tax ID: 1590550
+  Rank: S1
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 15 contigs (0.03%)
+  Total: 30 contigs
+  Agreement: 1.00
+
+Imitervirales
+  Tax ID: 2732554
+  Rank: O
+  SPAdes: 22 contigs (0.01%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 29 contigs
+  Agreement: 0.32
+
+Casadabanvirus
+  Tax ID: 1623286
+  Rank: G
+  SPAdes: 23 contigs (0.01%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 27 contigs
+  Agreement: 0.17
+
+Ludhianavirus
+  Tax ID: 3044751
+  Rank: G
+  SPAdes: 18 contigs (0.01%)
+  MEGAHIT: 8 contigs (0.02%)
+  Total: 26 contigs
+  Agreement: 0.44
+
+Stenotrophomonas phage Mendera
+  Tax ID: 2650877
+  Rank: S1
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 10 contigs (0.02%)
+  Total: 25 contigs
+  Agreement: 0.67
+
+Menderavirus mendera
+  Tax ID: 2846389
+  Rank: S
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 10 contigs (0.02%)
+  Total: 25 contigs
+  Agreement: 0.67
+
+Klebsiella phage ST147-VIM1phi7.1
+  Tax ID: 2510480
+  Rank: S1
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 9 contigs (0.02%)
+  Total: 24 contigs
+  Agreement: 0.60
+
+Vimunumvirus
+  Tax ID: 2843116
+  Rank: G
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 9 contigs (0.02%)
+  Total: 24 contigs
+  Agreement: 0.60
+
+Lederbergvirus
+  Tax ID: 186794
+  Rank: G
+  SPAdes: 16 contigs (0.00%)
+  MEGAHIT: 8 contigs (0.02%)
+  Total: 24 contigs
+  Agreement: 0.50
+
+Vimunumvirus ST147VIM1phi71
+  Tax ID: 2845097
+  Rank: S
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 9 contigs (0.02%)
+  Total: 24 contigs
+  Agreement: 0.60
+
+Enterobacteria phage P4
+  Tax ID: 10680
+  Rank: S
+  SPAdes: 16 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 23 contigs
+  Agreement: 0.44
+
+Autographivirales
+  Tax ID: 3420540
+  Rank: O
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 22 contigs
+  Agreement: 0.47
+
+Pseudomonas phage YMC12/01/R24
+  Tax ID: 2283028
+  Rank: S1
+  SPAdes: 19 contigs (0.01%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 22 contigs
+  Agreement: 0.16
+
+Casadabanvirus R24
+  Tax ID: 3059848
+  Rank: S
+  SPAdes: 19 contigs (0.01%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 22 contigs
+  Agreement: 0.16
+
+Kumaovirus kumao
+  Tax ID: 2956095
+  Rank: S
+  SPAdes: 14 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 21 contigs
+  Agreement: 0.50
+
+ssRNA phage SRR5466369_2
+  Tax ID: 2786405
+  Rank: S1
+  SPAdes: 11 contigs (0.00%)
+  MEGAHIT: 10 contigs (0.02%)
+  Total: 21 contigs
+  Agreement: 0.91
+
+Eganvirus
+  Tax ID: 2732978
+  Rank: G
+  SPAdes: 16 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 21 contigs
+  Agreement: 0.31
+
+Mycobacterium phage Kumao
+  Tax ID: 2041344
+  Rank: S1
+  SPAdes: 14 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 21 contigs
+  Agreement: 0.50
+
+Kumaovirus
+  Tax ID: 2948790
+  Rank: G
+  SPAdes: 14 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 21 contigs
+  Agreement: 0.50
+
+Gihfavirus pelohabitans
+  Tax ID: 2844652
+  Rank: S
+  SPAdes: 11 contigs (0.00%)
+  MEGAHIT: 10 contigs (0.02%)
+  Total: 21 contigs
+  Agreement: 0.91
+
+Gihfavirus
+  Tax ID: 2842702
+  Rank: G
+  SPAdes: 11 contigs (0.00%)
+  MEGAHIT: 10 contigs (0.02%)
+  Total: 21 contigs
+  Agreement: 0.91
+
+Peduovirus
+  Tax ID: 140410
+  Rank: G
+  SPAdes: 16 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 20 contigs
+  Agreement: 0.25
+
+Bertelyvirus
+  Tax ID: 2733152
+  Rank: G
+  SPAdes: 14 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 20 contigs
+  Agreement: 0.43
+
+Inibicvirus 613R3
+  Tax ID: 3429951
+  Rank: S
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.27
+
+Escherichia phage ev099
+  Tax ID: 2847061
+  Rank: S1
+  SPAdes: 13 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.46
+
+Radostvirus
+  Tax ID: 2843442
+  Rank: G
+  SPAdes: 13 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.46
+
+Escherichia phage vB_EcoM-613R3
+  Tax ID: 2946085
+  Rank: S1
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.27
+
+Likavirus
+  Tax ID: 1982880
+  Rank: G
+  SPAdes: 12 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.58
+
+Radostvirus ev099
+  Tax ID: 2844247
+  Rank: S
+  SPAdes: 13 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.46
+
+Inibicvirus
+  Tax ID: 3153064
+  Rank: G
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 19 contigs
+  Agreement: 0.27
+
+Pumpernickelvirus
+  Tax ID: 3152625
+  Rank: G
+  SPAdes: 11 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 18 contigs
+  Agreement: 0.64
+
+Minunavirus
+  Tax ID: 2560178
+  Rank: G
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 18 contigs
+  Agreement: 0.20
+
+Pumpernickelvirus pumpernickel
+  Tax ID: 3432031
+  Rank: S
+  SPAdes: 11 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 18 contigs
+  Agreement: 0.64
+
+Microbacterium phage Pumpernickel
+  Tax ID: 2885983
+  Rank: S1
+  SPAdes: 11 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 18 contigs
+  Agreement: 0.64
+
+Minunavirus Min1
+  Tax ID: 2560595
+  Rank: S
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 18 contigs
+  Agreement: 0.20
+
+Microbacterium phage Min1
+  Tax ID: 446529
+  Rank: S1
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 18 contigs
+  Agreement: 0.20
+
+Myrnavirus
+  Tax ID: 2948833
+  Rank: G
+  SPAdes: 15 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 17 contigs
+  Agreement: 0.13
+
+Anayavirus
+  Tax ID: 2946797
+  Rank: G
+  SPAdes: 13 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 17 contigs
+  Agreement: 0.31
+
+Mieseafarmvirus RSL1
+  Tax ID: 1980923
+  Rank: S
+  SPAdes: 10 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 16 contigs
+  Agreement: 0.60
+
+Ralstonia phage phiRSL1
+  Tax ID: 1980924
+  Rank: S1
+  SPAdes: 10 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 16 contigs
+  Agreement: 0.60
+
+Mieseafarmvirus
+  Tax ID: 1980921
+  Rank: G
+  SPAdes: 10 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 16 contigs
+  Agreement: 0.60
+
+Varicellovirus
+  Tax ID: 10319
+  Rank: G
+  SPAdes: 13 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 15 contigs
+  Agreement: 0.15
+
+Mycobacterium phage Giles
+  Tax ID: 480808
+  Rank: S1
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 0.56
+
+Gemsvirus
+  Tax ID: 2948724
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 1.00
+
+Pandoravirus dulcis
+  Tax ID: 1349409
+  Rank: S
+  SPAdes: 10 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 0.40
+
+Gilesvirus
+  Tax ID: 1982150
+  Rank: G
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 0.56
+
+Gilesvirus giles
+  Tax ID: 1982151
+  Rank: S
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 0.56
+
+Gemsvirus gv5004652
+  Tax ID: 2955946
+  Rank: S
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 1.00
+
+Escherichia phage 500465-2
+  Tax ID: 2716352
+  Rank: S1
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 7 contigs (0.01%)
+  Total: 14 contigs
+  Agreement: 1.00
+
+Sarumanvirus
+  Tax ID: 2843450
+  Rank: G
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.44
+
+Cobrasixvirus
+  Tax ID: 3044690
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 8 contigs (0.02%)
+  Total: 13 contigs
+  Agreement: 0.62
+
+Pandoravirus quercus
+  Tax ID: 2107709
+  Rank: S
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.44
+
+ssRNA phage SRR5466337_3
+  Tax ID: 2786389
+  Rank: S1
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.44
+
+Enterobacter phage vB_EclS_CobraSix
+  Tax ID: 2894794
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 8 contigs (0.02%)
+  Total: 13 contigs
+  Agreement: 0.62
+
+Pimascovirales
+  Tax ID: 2732555
+  Rank: O
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.62
+
+Kinglevirus lutadaptatum
+  Tax ID: 2845070
+  Rank: S
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.44
+
+Kinglevirus
+  Tax ID: 2842802
+  Rank: G
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.44
+
+Cobrasixvirus cobrasix
+  Tax ID: 3059893
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 8 contigs (0.02%)
+  Total: 13 contigs
+  Agreement: 0.62
+
+Colossusvirus
+  Tax ID: 2733153
+  Rank: G
+  SPAdes: 9 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 13 contigs
+  Agreement: 0.44
+
+Salmonella phage SEN22
+  Tax ID: 1647458
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 1.00
+
+Wellingtonvirus wellington
+  Tax ID: 2734153
+  Rank: S
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.50
+
+Wellingtonvirus
+  Tax ID: 2733140
+  Rank: G
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.50
+
+Flavobacterium phage vB_FspM_immuto_2-6A
+  Tax ID: 2801477
+  Rank: S1
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.71
+
+Fromanvirus
+  Tax ID: 186764
+  Rank: G
+  SPAdes: 10 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 12 contigs
+  Agreement: 0.20
+
+Immutovirus
+  Tax ID: 2948764
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.71
+
+Algavirales
+  Tax ID: 2732524
+  Rank: O
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.71
+
+Escherichia phage HK639
+  Tax ID: 906669
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 1.00
+
+Tequatrovirus
+  Tax ID: 10663
+  Rank: G
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.50
+
+Immutovirus immuto
+  Tax ID: 2955989
+  Rank: S
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 12 contigs
+  Agreement: 0.71
+
+Streptomyces phage Gilgamesh
+  Tax ID: 2599890
+  Rank: S1
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Phitrevirus
+  Tax ID: 2732986
+  Rank: G
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Polybotosvirus Atuph07
+  Tax ID: 2560286
+  Rank: S
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Polybotosvirus
+  Tax ID: 2560207
+  Rank: G
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Wroclawvirus PA5oct
+  Tax ID: 3060806
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.83
+
+Pseudomonas phage phi3
+  Tax ID: 1754217
+  Rank: S1
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Pseudomonas phage vB_PaeM_PA5oct
+  Tax ID: 2163605
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.83
+
+Gilgameshvirus
+  Tax ID: 3152619
+  Rank: G
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Phitrevirus phi3
+  Tax ID: 2734069
+  Rank: S
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Gilgameshvirus gilgamesh
+  Tax ID: 3429029
+  Rank: S
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Agrobacterium phage Atu_ph07
+  Tax ID: 2024264
+  Rank: S1
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.38
+
+Branisovskavirus Kc263
+  Tax ID: 3059793
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.83
+
+Kosakonia phage Kc263
+  Tax ID: 2863194
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.83
+
+Wroclawvirus
+  Tax ID: 3044857
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.83
+
+Branisovskavirus
+  Tax ID: 3044679
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 6 contigs (0.01%)
+  Total: 11 contigs
+  Agreement: 0.83
+
+Bertelyvirus SC
+  Tax ID: 2734193
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.67
+
+Marienburgvirus JLK2012
+  Tax ID: 2844207
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 1.00
+
+Marienburgvirus
+  Tax ID: 2843420
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 1.00
+
+Caulobacter phage CcrPW
+  Tax ID: 2283271
+  Rank: S1
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.67
+
+Escherichia phage JLK-2012
+  Tax ID: 1147722
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 1.00
+
+Caulobacter phage CcrSC
+  Tax ID: 2283272
+  Rank: S1
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.67
+
+Escherichia phage D6
+  Tax ID: 2014434
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.67
+
+Pandoravirus inopinatum
+  Tax ID: 1605721
+  Rank: S
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 10 contigs
+  Agreement: 0.25
+
+Acanthamoeba castellanii medusavirus
+  Tax ID: 2080449
+  Rank: S
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.43
+
+Colossusvirus PW
+  Tax ID: 2734195
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.67
+
+Smoothievirus
+  Tax ID: 1982557
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 10 contigs
+  Agreement: 0.43
+
+Mycobacterium phage Phabba
+  Tax ID: 2027899
+  Rank: S2
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.12
+
+Pseudomonas phage Noxifer
+  Tax ID: 2006684
+  Rank: S1
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.50
+
+Pimascovirales incertae sedis
+  Tax ID: 3421322
+  Rank: O1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Bronvirus
+  Tax ID: 1623278
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Chlorovirus
+  Tax ID: 181083
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Enterobacteria phage phi80
+  Tax ID: 10713
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Simplexvirus
+  Tax ID: 10294
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Viruses incertae sedis
+  Tax ID: 3403061
+  Rank: R2
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.12
+
+Stanholtvirus
+  Tax ID: 1623297
+  Rank: G
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.12
+
+Myranavirus phabba
+  Tax ID: 2956211
+  Rank: S1
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.12
+
+Escherichia phage 500465-1
+  Tax ID: 2716351
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Wadgaonvirus wv5004651
+  Tax ID: 2956672
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Phikzvirus
+  Tax ID: 680115
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Enterobacteria phage mEp390
+  Tax ID: 1147158
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Noxifervirus
+  Tax ID: 2560190
+  Rank: G
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.50
+
+Hpunavirus
+  Tax ID: 1196844
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 5 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Pulverervirus PFR1
+  Tax ID: 2170091
+  Rank: S
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Pandoravirus neocaledonia
+  Tax ID: 2107708
+  Rank: S
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Wadgaonvirus
+  Tax ID: 2948951
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Noxifervirus noxifer
+  Tax ID: 2560671
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.50
+
+Poindextervirus
+  Tax ID: 2733154
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 9 contigs
+  Agreement: 0.80
+
+Shapirovirus
+  Tax ID: 2733155
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Bertelyvirus BL9
+  Tax ID: 2734192
+  Rank: S
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Myrnavirus phabba
+  Tax ID: 3430982
+  Rank: S
+  SPAdes: 8 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.12
+
+Caulobacter phage CcrBL9
+  Tax ID: 2283270
+  Rank: S1
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Pulverervirus
+  Tax ID: 2169655
+  Rank: G
+  SPAdes: 7 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 9 contigs
+  Agreement: 0.29
+
+Cuauhnahuacvirus
+  Tax ID: 3044696
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 1.00
+
+Streptomyces phage Hiyaa
+  Tax ID: 2499072
+  Rank: S1
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 8 contigs
+  Agreement: 0.33
+
+Stx2-converting phage Stx2a_WGPS2
+  Tax ID: 1226260
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Dismasvirus
+  Tax ID: 2560122
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Sawaravirus
+  Tax ID: 2843451
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Unicornvirus
+  Tax ID: 2948939
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 1.00
+
+Aguilavirus
+  Tax ID: 2843343
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 1.00
+
+Hiyaavirus
+  Tax ID: 2733180
+  Rank: G
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 8 contigs
+  Agreement: 0.33
+
+Hiyaavirus hiyaa
+  Tax ID: 2734239
+  Rank: S
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 8 contigs
+  Agreement: 0.33
+
+Fadolivirus algeromassiliense
+  Tax ID: 3060017
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Natevirus
+  Tax ID: 3044772
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Cimandefvirus
+  Tax ID: 2843366
+  Rank: G
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 8 contigs
+  Agreement: 0.33
+
+Natevirus nate
+  Tax ID: 3060406
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Streptomyces phage Lannister
+  Tax ID: 1674927
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 1.00
+
+Crassvirales
+  Tax ID: 1978007
+  Rank: O
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Bacillus phage vB_BanS_Nate
+  Tax ID: 2894788
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Likavirus lannister
+  Tax ID: 1982889
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 1.00
+
+Propionibacterium phage PFR2
+  Tax ID: 1838138
+  Rank: S1
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 8 contigs
+  Agreement: 0.33
+
+Fadolivirus
+  Tax ID: 2763561
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Sawaravirus WGPS2
+  Tax ID: 2844234
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 8 contigs
+  Agreement: 0.60
+
+Streptomyces phage TurkishDelight
+  Tax ID: 2793708
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Aeromonas phage 65
+  Tax ID: 2919549
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Ishigurovirus osborne
+  Tax ID: 260149
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Mononegavirales
+  Tax ID: 11157
+  Rank: O
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Hadassahvirus
+  Tax ID: 2842716
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Punavirus P1
+  Tax ID: 10678
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Mycobacterium phage Unicorn
+  Tax ID: 2015825
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Riverridervirus
+  Tax ID: 2843008
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Ishigurovirus
+  Tax ID: 2842766
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Cuauhnahuacvirus Y65
+  Tax ID: 3059911
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Ampunavirus
+  Tax ID: 2732929
+  Rank: G
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.17
+
+Xanthomonas phage RiverRider
+  Tax ID: 2108116
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Chitovirales
+  Tax ID: 2732527
+  Rank: O
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Pandoravirus salinus
+  Tax ID: 1349410
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Dolmabahcevirus turkishdelight
+  Tax ID: 3428314
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Riverridervirus riverrider
+  Tax ID: 2846672
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Lefavirales
+  Tax ID: 2840070
+  Rank: O
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.17
+
+Rhizobium phage RHph_Y65
+  Tax ID: 2509785
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Dolmabahcevirus
+  Tax ID: 3152508
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Bcepmuvirus
+  Tax ID: 1198139
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Ceetrepovirus
+  Tax ID: 2560111
+  Rank: G
+  SPAdes: 6 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.17
+
+Unicornvirus unicorn
+  Tax ID: 2956580
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 4 contigs (0.01%)
+  Total: 7 contigs
+  Agreement: 0.75
+
+Erskinevirus
+  Tax ID: 2169623
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 7 contigs
+  Agreement: 0.40
+
+Cyamitesvirus
+  Tax ID: 3044697
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Baikalvirus PaBG
+  Tax ID: 2734089
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Corynebacterium phage Poushou
+  Tax ID: 2015851
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Mycobacterium phage Gaia
+  Tax ID: 1486472
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Eceepunavirus
+  Tax ID: 2842661
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Enterobacter phage EcP1
+  Tax ID: 942016
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Cheoctovirus
+  Tax ID: 1623281
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Aeromonas phage LAh10
+  Tax ID: 2591025
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Gordonia phage Mollymur
+  Tax ID: 2590895
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Baikalvirus
+  Tax ID: 2733094
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Mollymurvirus
+  Tax ID: 3044768
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Daredevilvirus
+  Tax ID: 2733172
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Parapoxvirus
+  Tax ID: 10257
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Erwinia phage phiEaH2
+  Tax ID: 1029988
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Thalassavirus
+  Tax ID: 2948922
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Trichoplusia ni ascovirus 2c
+  Tax ID: 328615
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Hollowayvirus
+  Tax ID: 1720324
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Poushouvirus Poushou
+  Tax ID: 2560396
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Punavirus SJ46
+  Tax ID: 2560732
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Finkelvirus
+  Tax ID: 3153083
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Salmonella phage SW9
+  Tax ID: 2592223
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Cronobacter phage ENT39118
+  Tax ID: 984175
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Daredevilvirus daredevil
+  Tax ID: 2734229
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Pseudomonas phage PaBG
+  Tax ID: 1335230
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Picornavirales
+  Tax ID: 464095
+  Rank: O
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Salmonella phage SJ46
+  Tax ID: 1815968
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Gaiavirus gaia
+  Tax ID: 1982148
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Finkelvirus finkel
+  Tax ID: 3428776
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Coopervirus
+  Tax ID: 1982898
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Kwaitsingvirus
+  Tax ID: 2842814
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Cinqassovirus
+  Tax ID: 2948665
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Gaiavirus
+  Tax ID: 1982113
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Gordonia phage Daredevil
+  Tax ID: 2283286
+  Rank: S1
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Erskinevirus EaH2
+  Tax ID: 2169883
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Moumouvirus
+  Tax ID: 3080801
+  Rank: G
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Eganvirus SW9
+  Tax ID: 2846110
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Gordonia phage Finkle
+  Tax ID: 2926099
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Eceepunavirus EcP1
+  Tax ID: 2844120
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Ascovirus
+  Tax ID: 43680
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 6 contigs
+  Agreement: 1.00
+
+Poushouvirus
+  Tax ID: 2560209
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Phayoncevirus
+  Tax ID: 1983735
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Ludhianavirus LAh10
+  Tax ID: 3060173
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.50
+
+Mollymurvirus mollymur
+  Tax ID: 3060390
+  Rank: S
+  SPAdes: 5 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 6 contigs
+  Agreement: 0.20
+
+Picornavirales Bu-3
+  Tax ID: 1813613
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Bcepmuvirus bcepMu
+  Tax ID: 264729
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Sleepyheadvirus
+  Tax ID: 2843457
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Pseudomonas phage vB_PaeM_PS119XW
+  Tax ID: 2601632
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Chakrabartyvirus pf16
+  Tax ID: 2560689
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Enterobacteria phage VT2phi_272
+  Tax ID: 936054
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Enterobacteria phage mEp237
+  Tax ID: 1147151
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Pseudomonas phage Medea1
+  Tax ID: 2834256
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Synechococcus phage S-CAM3
+  Tax ID: 1883366
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Hadassahvirus pht2
+  Tax ID: 2843638
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Salmonella phage SPN3UB
+  Tax ID: 1147140
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Agatevirus bobb
+  Tax ID: 1910936
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Agatevirus
+  Tax ID: 1910931
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Parapoxvirus bovinestomatitis
+  Tax ID: 3431388
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Medeavirus medea1
+  Tax ID: 3430767
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Mycobacterium phage Myrna
+  Tax ID: 546805
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Hareavirales
+  Tax ID: 3151839
+  Rank: O
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Bovine papular stomatitis virus
+  Tax ID: 129727
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Tsukamurella phage TPA4
+  Tax ID: 1647476
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Ralstonia phage RS-PI-1
+  Tax ID: 1958965
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Mycobacterium phage LeBron
+  Tax ID: 2919553
+  Rank: S2
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Asteriusvirus
+  Tax ID: 2560094
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Donellivirus
+  Tax ID: 2843376
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Medeavirus
+  Tax ID: 3152510
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Acinetobacter phage vB_AbaM_PhT2
+  Tax ID: 2690230
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Myrnavirus myrna
+  Tax ID: 2956212
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Chakrabartyvirus
+  Tax ID: 2560113
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Caprine alphaherpesvirus 1
+  Tax ID: 39944
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Sleepyheadvirus sleepyhead
+  Tax ID: 2846061
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Burkholderia phage BcepSauron
+  Tax ID: 2530033
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Sarumanvirus bcepsauron
+  Tax ID: 2843897
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Karimacvirus
+  Tax ID: 2843400
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Mollivirus sibericum
+  Tax ID: 1678078
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Pseudomonas phage pf16
+  Tax ID: 1815630
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Pawinskivirus PS119XW
+  Tax ID: 3060524
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Acinetobacter phage YMC13/03/R2096
+  Tax ID: 1560342
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 3 contigs (0.01%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Charybdisvirus
+  Tax ID: 2733100
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Pawinskivirus
+  Tax ID: 3044787
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Oslovirus
+  Tax ID: 1981159
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Charybdisvirus scam3
+  Tax ID: 2734102
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Rowavirales
+  Tax ID: 2732559
+  Rank: O
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Bacillus phage Bobb
+  Tax ID: 1527469
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Pankowvirus
+  Tax ID: 2843432
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Oslovirus PA2
+  Tax ID: 1981168
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Bronvirus bron
+  Tax ID: 3427627
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Zicotriavirus
+  Tax ID: 2843161
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Backyardiganvirus
+  Tax ID: 2946815
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Bacillus phage G
+  Tax ID: 2884420
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Burkholderia phage BcepMu
+  Tax ID: 2881392
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Varicellovirus caprinealpha1
+  Tax ID: 3050252
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Bongovirus
+  Tax ID: 1983744
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Feofaniavirus
+  Tax ID: 2733174
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.67
+
+Oneupvirus
+  Tax ID: 2733200
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Ampunavirus RSPI1
+  Tax ID: 2733590
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Liefievirus
+  Tax ID: 1623288
+  Rank: G
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Rhodococcus phage Sleepyhead
+  Tax ID: 2591131
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Donellivirus gee
+  Tax ID: 1084719
+  Rank: S
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Mycobacterium virus Bron
+  Tax ID: 861047
+  Rank: S1
+  SPAdes: 4 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 5 contigs
+  Agreement: 0.25
+
+Erwinia phage vB_EamM_Caitlin
+  Tax ID: 1883379
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Enterobacteria phage HK225
+  Tax ID: 1147144
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Pseudomonas phage PhiPA3
+  Tax ID: 998086
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Enterobacteria phage P7
+  Tax ID: 10682
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Bixzunavirus
+  Tax ID: 680114
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Cronobacter phage ENT47670
+  Tax ID: 984186
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Enterobacteria phage ES18
+  Tax ID: 101570
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Gegevirus ST437OXA245phi41
+  Tax ID: 2955944
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Manovirus
+  Tax ID: 2948816
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Siftrevirus
+  Tax ID: 3044829
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Elveevirus 4LV2017
+  Tax ID: 2734062
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Orpheovirus IHUMI-LCC2
+  Tax ID: 2023057
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Julieunavirus
+  Tax ID: 2948773
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Pseudomonas phage PaMx11
+  Tax ID: 1175657
+  Rank: S2
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Pecentumvirus
+  Tax ID: 1857844
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Stanholtvirus E125
+  Tax ID: 180504
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Abidjanvirus PaMx11
+  Tax ID: 3425958
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Alphaorpheovirus massiliense
+  Tax ID: 3426221
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Dendoorenvirus
+  Tax ID: 2842641
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Ralstonia phage RS138
+  Tax ID: 1483485
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Pseudomonas phage nickie
+  Tax ID: 2048977
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Alphasphaerolipovirus
+  Tax ID: 1714268
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Salmonella phage ST64B
+  Tax ID: 175950
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Caulobacter phage CcrRogue
+  Tax ID: 2927986
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Mycobacterium virus SG4
+  Tax ID: 1089132
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Rhodococcus phage REQ1
+  Tax ID: 1109712
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Nickievirus
+  Tax ID: 2560188
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Samistivirus
+  Tax ID: 2560220
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Manovirus Mano
+  Tax ID: 2956185
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Cymopoleiavirus swam2
+  Tax ID: 2734103
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Cymopoleiavirus
+  Tax ID: 2733101
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Jiaodavirus
+  Tax ID: 1985325
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Escherichia phage HK544
+  Tax ID: 432201
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Poindextervirus rogue
+  Tax ID: 2748760
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Ralstonia phage Gerry
+  Tax ID: 2759727
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Achromobacter phage Mano
+  Tax ID: 2767570
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Certrevirus
+  Tax ID: 1914850
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Mycobacterium phage SG4
+  Tax ID: 2923001
+  Rank: S2
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Abidjanvirus
+  Tax ID: 1982095
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Pseudomonas virus PaMx11
+  Tax ID: 1982098
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Cheoctovirus SG4
+  Tax ID: 3427890
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Pokkenvirus
+  Tax ID: 2842972
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Miltoncavirus
+  Tax ID: 3044765
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Reyvirus
+  Tax ID: 1623301
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Pylasvirus
+  Tax ID: 2842993
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Rhizobium phage RHEph10
+  Tax ID: 1220717
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Dendoorenvirus RG2014
+  Tax ID: 2844071
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Marfavirus
+  Tax ID: 2843419
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Gordonia phage VanLee
+  Tax ID: 2845816
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Cimandefvirus Ggerry
+  Tax ID: 2846046
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Klebsiella phage ST437-OXA245phi4.1
+  Tax ID: 2510486
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Lactobacillus phage 3-521
+  Tax ID: 2510943
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Gordonia phage Commandaria
+  Tax ID: 3038364
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Klebsiella phage 4LV2017
+  Tax ID: 1960658
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Nodensvirus
+  Tax ID: 2733120
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Phabquatrovirus
+  Tax ID: 2733123
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Machinavirus
+  Tax ID: 2169624
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Bordetella phage vB_BbrM_PHB04
+  Tax ID: 2029657
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Camvirus
+  Tax ID: 1982879
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Miltoncavirus PhiPA3
+  Tax ID: 3060307
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Delftia phage RG-2014
+  Tax ID: 1563661
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Streptomyces phage SF3
+  Tax ID: 1690818
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Commandariavirus commandaria
+  Tax ID: 3428071
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Watanabevirus
+  Tax ID: 2843129
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Synechococcus phage S-PM2
+  Tax ID: 238854
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Halopanivirales
+  Tax ID: 2732011
+  Rank: O
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Citricivirus
+  Tax ID: 3044688
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Siftrevirus SF3
+  Tax ID: 3060706
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Only Syngen Nebraska virus 5
+  Tax ID: 1917232
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Vanleevirus
+  Tax ID: 3152630
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Commandariavirus
+  Tax ID: 3152691
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Salmonella phage 118970_sal3
+  Tax ID: 1813771
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Synechococcus phage S-WAM2
+  Tax ID: 1815522
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Enterobacteria phage fiAA91-ss
+  Tax ID: 1357825
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Vanleevirus vanlee
+  Tax ID: 3433098
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Elveevirus
+  Tax ID: 2948695
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Gegevirus
+  Tax ID: 2948723
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Kwaitsingvirus HK544
+  Tax ID: 2169923
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Alphaorpheovirus
+  Tax ID: 3153020
+  Rank: G
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Nickievirus nickie
+  Tax ID: 2560688
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Turbidovirus
+  Tax ID: 2948936
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Peduovirus fiAA91ss
+  Tax ID: 2560457
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Citricivirus chongqinense
+  Tax ID: 3059891
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Nodensvirus spm2
+  Tax ID: 2734126
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Phabquatrovirus PHB04
+  Tax ID: 2734129
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 1.00
+
+Burkholderia phage phiE125
+  Tax ID: 2883940
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Aphis citricidus bunyavirus
+  Tax ID: 2599343
+  Rank: S1
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Watanabevirus wv3521
+  Tax ID: 2845126
+  Rank: S
+  SPAdes: 3 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 4 contigs
+  Agreement: 0.33
+
+Chrysonvirus as5
+  Tax ID: 2955700
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Shigella phage DS8
+  Tax ID: 2565502
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aeromonas phage phiAS5
+  Tax ID: 879630
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Murid betaherpesvirus 1
+  Tax ID: 10366
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Coatlandelriovirus RSP
+  Tax ID: 2955710
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Bippervirus bipper
+  Tax ID: 2955496
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aurodevirus hiberniae
+  Tax ID: 2955382
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Xylella virus Sano
+  Tax ID: 2560848
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Brunovirus SEN34
+  Tax ID: 2560731
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Sarumanvirus bcepsaruman
+  Tax ID: 2843896
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Cukevirus cuke
+  Tax ID: 2845649
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Brussowvirus 20617
+  Tax ID: 3059794
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Bigmanorsvirus bgmanors32
+  Tax ID: 3059778
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Moonvirus
+  Tax ID: 1985329
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Veracruzvirus
+  Tax ID: 2948946
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Stockinghallvirus FSLSP004
+  Tax ID: 2560726
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Deseoctovirus DS8
+  Tax ID: 2955752
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Haihevirus
+  Tax ID: 3152968
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Mycobacterium phage Phayonce
+  Tax ID: 1647302
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Brussowvirus
+  Tax ID: 1623303
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aeromonas phage vB_AsaM_LPM4
+  Tax ID: 2894367
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Burkholderia phage BgManors32
+  Tax ID: 2894335
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Escherichia phage P1
+  Tax ID: 2886926
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Borockvirus brock
+  Tax ID: 2846393
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Cukevirus
+  Tax ID: 2843371
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Tupanvirus
+  Tax ID: 2094720
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Bigmanorsvirus
+  Tax ID: 3044675
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Caulobacter phage CcrBL10
+  Tax ID: 2283269
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Foxborovirus
+  Tax ID: 2948710
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Deseoctovirus
+  Tax ID: 2948678
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Coatlandelriovirus
+  Tax ID: 2948668
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Chrysonvirus
+  Tax ID: 2948662
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Caelumvirus
+  Tax ID: 2948647
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Cinqassovirus aeh1
+  Tax ID: 227470
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Mycobacterium phage Paito
+  Tax ID: 2315544
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Gordonia phage Schmidt
+  Tax ID: 2301697
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Sanovirus sano
+  Tax ID: 3432251
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Peduovirus FSLSP004
+  Tax ID: 3431429
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Streptococcus phage 20617
+  Tax ID: 1392231
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Salmonella phage SEN34
+  Tax ID: 1647463
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Appavirus appa
+  Tax ID: 2734215
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Poindextervirus BL10
+  Tax ID: 2734196
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Yaravirus sp. 'brasiliensis'
+  Tax ID: 2739681
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Jerseyvirus JD01
+  Tax ID: 3430047
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Kumottavirus
+  Tax ID: 3044749
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Hiroshimavirus
+  Tax ID: 3044731
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Ralstonia phage phiRSP
+  Tax ID: 2201420
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Microbacterium phage Appa
+  Tax ID: 2182350
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Xylella phage Sano
+  Tax ID: 1415148
+  Rank: S2
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Escherichia phage ev017
+  Tax ID: 2847060
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Scyllavirus aitchnine
+  Tax ID: 3060690
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Piscesmortuivirus LPM4
+  Tax ID: 3060630
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Pamexvirus
+  Tax ID: 1982355
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aeromonas phage Aeh1
+  Tax ID: 2880362
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Henunavirus
+  Tax ID: 2842727
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Bacillus phage Mater
+  Tax ID: 1540090
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Mycobacterium phage Cuke
+  Tax ID: 2079417
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Wizardvirus
+  Tax ID: 2169658
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Moumouvirus australiense
+  Tax ID: 3080759
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Chlorovirus heliozoae
+  Tax ID: 322019
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+uncultured phage cr23_1
+  Tax ID: 2986419
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Mycobacterium phage Nibb
+  Tax ID: 2510585
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Klausavirus
+  Tax ID: 2843401
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Jouyvirus
+  Tax ID: 2843396
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Acanthocystis turfacea chlorella virus 1
+  Tax ID: 411359
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Pseudomonas phage PPpW-3
+  Tax ID: 1279082
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Escherichia phage PBECO4
+  Tax ID: 1273738
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Eganvirus PsP3
+  Tax ID: 12407
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Schmidtvirus schmidt
+  Tax ID: 2956401
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Pankowvirus YYZ2008
+  Tax ID: 2844135
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Rhizobium phage RHEph01
+  Tax ID: 1220601
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Synechococcus phage S-H9-1
+  Tax ID: 2783674
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Rosebushvirus
+  Tax ID: 1982900
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Hiroshimavirus PPpW3
+  Tax ID: 3060034
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Moumouvirus australiensis
+  Tax ID: 2109587
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Borockvirus
+  Tax ID: 2843361
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Matervirus
+  Tax ID: 2842856
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Ceetrepovirus darwin
+  Tax ID: 3427838
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Paadamvirus
+  Tax ID: 2731961
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Burkholderia phage BcepSaruman
+  Tax ID: 2530032
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Montyvirus
+  Tax ID: 2733196
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Scyllavirus
+  Tax ID: 3044815
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Piscesmortuivirus
+  Tax ID: 3044793
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aokuangvirus
+  Tax ID: 2733091
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Appavirus
+  Tax ID: 2733165
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Bippervirus
+  Tax ID: 2946828
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aokuangvirus SCBWM1
+  Tax ID: 2734084
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Brunovirus
+  Tax ID: 2560108
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Yaravirus brasiliense
+  Tax ID: 2956705
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Sanovirus
+  Tax ID: 2560222
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Enterobacteria phage phiP27
+  Tax ID: 103807
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aeromonas phage Ah1
+  Tax ID: 2053701
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Synechococcus phage S-CBWM1
+  Tax ID: 2053653
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Corynebacterium phage Darwin
+  Tax ID: 2047869
+  Rank: S2
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aurodevirus
+  Tax ID: 2946811
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Haihevirus PP9W2
+  Tax ID: 3429152
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Samwavirus
+  Tax ID: 2733208
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Quhwahvirus
+  Tax ID: 2733202
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Mycobacterium phage Bipper
+  Tax ID: 1805457
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Ralstonia phage RSP15
+  Tax ID: 1785960
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Salmonella phage FSLSP004
+  Tax ID: 1173769
+  Rank: S2
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Salmonella phage vB_SosS_Oslo
+  Tax ID: 1168549
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Jolieduovirus
+  Tax ID: 2948771
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Schmidtvirus
+  Tax ID: 2948896
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Liefievirus paito
+  Tax ID: 2956114
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Corynebacterium virus Darwin
+  Tax ID: 2560394
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Matervirus mater
+  Tax ID: 2560332
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Enterobacteria phage YYZ-2008
+  Tax ID: 564886
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Enterobacteria phage SfV
+  Tax ID: 55884
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 2 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Betabaculovirus
+  Tax ID: 558017
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Muromegalovirus
+  Tax ID: 10365
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Phayoncevirus phayonce
+  Tax ID: 1983742
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Muromegalovirus muridbeta1
+  Tax ID: 3050323
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Paadamvirus RHEph01
+  Tax ID: 2733939
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Luchadorvirus
+  Tax ID: 2948807
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Yaravirus
+  Tax ID: 2948958
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Asteriusvirus PBECO4
+  Tax ID: 2560463
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Jouyvirus ev017
+  Tax ID: 2844245
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Anayavirus nibb
+  Tax ID: 2955346
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Aviadenovirus
+  Tax ID: 10552
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Omegavirus
+  Tax ID: 1623292
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Kostyavirus
+  Tax ID: 1623284
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Cinqassovirus ah1
+  Tax ID: 2955704
+  Rank: S
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Pseudomonas phage PP9W2
+  Tax ID: 2914450
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Salmonella phage JD01
+  Tax ID: 2831178
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Salmonella phage PSP3
+  Tax ID: 2907836
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Karamvirus
+  Tax ID: 1913650
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Streptomyces phage BRock
+  Tax ID: 1913591
+  Rank: S1
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Jerseyvirus
+  Tax ID: 1910991
+  Rank: G
+  SPAdes: 2 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 3 contigs
+  Agreement: 0.50
+
+Rhodococcus phage E3
+  Tax ID: 1007869
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Brochothrix phage BL3
+  Tax ID: 764562
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Stx2-converting phage 1717
+  Tax ID: 563769
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Stenotrophomonas phage S1
+  Tax ID: 573591
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Yautsimvirus HK140
+  Tax ID: 2844127
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nochtlivirus mEp235
+  Tax ID: 2844138
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Henunavirus SNUABM01
+  Tax ID: 2844165
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pankowvirus pv1717
+  Tax ID: 2844169
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Wongtaivirus ECP1
+  Tax ID: 2844189
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Hadassahvirus azbtza1
+  Tax ID: 2843628
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Bacillus phage PM1
+  Tax ID: 547228
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cronobacter phage CR9
+  Tax ID: 1162290
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cronobacter phage phiES15
+  Tax ID: 1168280
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Anayavirus markphew
+  Tax ID: 2955343
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klebsiella phage Marfa
+  Tax ID: 2587809
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Brevibacterium phage AGM1
+  Tax ID: 2591411
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klebsiella phage KpCHEMY26
+  Tax ID: 2596966
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Arthrobacter phage Lymara
+  Tax ID: 2599828
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Antsirabevirus antsirabe
+  Tax ID: 2955364
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Aptresvirus mana
+  Tax ID: 2955375
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Backyardiganvirus noelle
+  Tax ID: 2955405
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Betafusarivirus brasiliensis
+  Tax ID: 2955447
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nyceiraevirus nyceirae
+  Tax ID: 2560506
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Sugarlandvirus IME260
+  Tax ID: 2560539
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Asteriusvirus av121Q
+  Tax ID: 2560436
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Efkovirus efeko
+  Tax ID: 2955845
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Foxborovirus GTE8
+  Tax ID: 2955912
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gruunavirus GTE5
+  Tax ID: 2955961
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Harrisonburgvirus persinger
+  Tax ID: 2955983
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Jiangsuvirus pspyzu05
+  Tax ID: 2956010
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Rhizoctonia solani fusarivirus 2
+  Tax ID: 2599954
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage U2
+  Tax ID: 260120
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Erwinia phage pEp_SNUABM_01
+  Tax ID: 2601643
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alisovirus socal22
+  Tax ID: 2955237
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alphasphaerolipovirus serpentinense
+  Tax ID: 2955318
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Amginevirus darthP
+  Tax ID: 2955326
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Anayavirus curiosium
+  Tax ID: 2955339
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mimasvirus GAP32
+  Tax ID: 2560400
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Jiaodavirus kppv15
+  Tax ID: 2956012
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Jolieduovirus lemuria
+  Tax ID: 2956025
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Julieunavirus julie1
+  Tax ID: 2956033
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kehishuvirus splanchnicus
+  Tax ID: 2956054
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mimasvirus
+  Tax ID: 2560176
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Phleivirus
+  Tax ID: 2948864
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Shandvirus
+  Tax ID: 2948904
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Curiosium
+  Tax ID: 2599859
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Lemuria
+  Tax ID: 2599868
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Britbratvirus britbrat
+  Tax ID: 2560489
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Sugarlandvirus
+  Tax ID: 2560233
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Micavirus Mica
+  Tax ID: 2956191
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Phleivirus Phlei
+  Tax ID: 2956314
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Roskildevirus cronus
+  Tax ID: 2956382
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Yersinia phage vB_YepM_ZN18
+  Tax ID: 2691085
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Hafnia phage yong1
+  Tax ID: 2719181
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage MarkPhew
+  Tax ID: 2725625
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Streptomyces phage Issmi
+  Tax ID: 2725628
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage MA5
+  Tax ID: 2725640
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Keylargovirus
+  Tax ID: 2948782
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kratiovirus
+  Tax ID: 2948788
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kroosvirus
+  Tax ID: 2948789
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Micavirus
+  Tax ID: 2948822
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Winklervirus
+  Tax ID: 2560256
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Britbratvirus
+  Tax ID: 2560107
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Delepquintavirus
+  Tax ID: 2560121
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Galaxyvirus
+  Tax ID: 2560134
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pseudomonas phage Psa21
+  Tax ID: 2530023
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gruunavirus
+  Tax ID: 2948731
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Harrisonburgvirus
+  Tax ID: 2948755
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Jiangsuvirus
+  Tax ID: 2948770
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Keshuvirus
+  Tax ID: 2948781
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alphaproteobacteria phage PhiJL001
+  Tax ID: 2681607
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage 186
+  Tax ID: 2681630
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nyceiraevirus
+  Tax ID: 2560192
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Priunavirus
+  Tax ID: 2560210
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage Ro45lw
+  Tax ID: 2498616
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Acinetobacter phage AbTZA1
+  Tax ID: 2500827
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Streptomyces phage Success
+  Tax ID: 2999013
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pseudomonas phage Lana
+  Tax ID: 2530172
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Serratia phage Parlo
+  Tax ID: 2557554
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tequatrovirus mlf4
+  Tax ID: 2956501
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Timquatrovirus zoeJ
+  Tax ID: 2956533
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Veracruzvirus MA5
+  Tax ID: 2956637
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Microbacterium phage OneinaGillian
+  Tax ID: 2301604
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Microbacterium phage Efeko
+  Tax ID: 2315704
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Microbacterium phage Zeta1847
+  Tax ID: 2201444
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Erwinia phage Wellington
+  Tax ID: 2267653
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Durnavirales
+  Tax ID: 2732549
+  Rank: O
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Epseptimavirus
+  Tax ID: 2732017
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Arthrobacter phage Auxilium
+  Tax ID: 2419948
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage MLF4
+  Tax ID: 2448909
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Microbacterium phage Goodman
+  Tax ID: 2484206
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage Easley
+  Tax ID: 2182395
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kisquattuordecimvirus
+  Tax ID: 2732982
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Efekovirus
+  Tax ID: 2948691
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Dickeya phage vB_DsoM_AD1
+  Tax ID: 2283029
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Streptomyces phage StarPlatinum
+  Tax ID: 2283265
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Baileybluvirus
+  Tax ID: 3044668
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Basiliskvirus
+  Tax ID: 3044670
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Beenievirus
+  Tax ID: 3044673
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tupanvirus deep ocean
+  Tax ID: 2126984
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Erwinia phage Cronus
+  Tax ID: 2163633
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Oceanusvirus
+  Tax ID: 3044778
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Atlauavirus
+  Tax ID: 2733092
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Derbicusvirus
+  Tax ID: 2733102
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Llyrvirus
+  Tax ID: 2733111
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nerrivikvirus
+  Tax ID: 2733119
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kayfunavirus
+  Tax ID: 2732686
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cuauhtlivirus mEpX1
+  Tax ID: 2169927
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Rheavirus sinusmexicani
+  Tax ID: 3047716
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Betabaculovirus spofrugiperdae
+  Tax ID: 3048334
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Getalongvirus
+  Tax ID: 2733156
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alexandravirus
+  Tax ID: 2733088
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Rheavirus
+  Tax ID: 3044800
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Richievirus
+  Tax ID: 3044803
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Raoultella phage Ro1
+  Tax ID: 2053702
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tetraselmis virus 1
+  Tax ID: 2060617
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klebsiella phage vB_Kpn_F48
+  Tax ID: 2070028
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Stenotrophomonas phage vB_SmaS_DLP_5
+  Tax ID: 2044561
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage BENtherdunthat
+  Tax ID: 2047830
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Simplexvirus saimiriinealpha1
+  Tax ID: 3050348
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Lanavirus
+  Tax ID: 2733185
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Raleighvirus
+  Tax ID: 2733203
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alisovirus
+  Tax ID: 2946789
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Amginevirus
+  Tax ID: 2946794
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Antsirabevirus
+  Tax ID: 2946805
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Aptresvirus
+  Tax ID: 2946806
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Betafusarivirus
+  Tax ID: 2946823
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Streptomyces phage Alsaber
+  Tax ID: 2053672
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Siaravirus
+  Tax ID: 3044826
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tepukevirus
+  Tax ID: 3044840
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Wakandavirus
+  Tax ID: 3044854
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Fromanvirus U2
+  Tax ID: 1993862
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Fromanvirus trixie
+  Tax ID: 1993867
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Respirovirus ratufae
+  Tax ID: 3052732
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Baileybluvirus baileyblu
+  Tax ID: 3059755
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Beenievirus easley
+  Tax ID: 3059766
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Zetavirus
+  Tax ID: 2733222
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kayfunavirus Ro45lw
+  Tax ID: 2733643
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kisquattuordecimvirus KS14
+  Tax ID: 2734065
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gillianvirus
+  Tax ID: 2733177
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Goodmanvirus
+  Tax ID: 2733179
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage ECP1
+  Tax ID: 2015807
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage DarthP
+  Tax ID: 2015879
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Varicellovirus cervidalpha1
+  Tax ID: 3050259
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Oceanusvirus kaneohense
+  Tax ID: 3060432
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nerrivikvirus srim2
+  Tax ID: 2734125
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pseudomonas phage PspYZU05
+  Tax ID: 1983556
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Reyvirus rey
+  Tax ID: 1983751
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Agricanvirus
+  Tax ID: 1984776
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Oneupvirus oneup
+  Tax ID: 1982560
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Slopekvirus
+  Tax ID: 1985328
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pradovirus
+  Tax ID: 1985733
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pradovirus f30
+  Tax ID: 1985735
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pokkenvirus piffle
+  Tax ID: 3060635
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Richievirus auxilium
+  Tax ID: 3060667
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Siaravirus siara
+  Tax ID: 3060703
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gillianvirus oneinagillian
+  Tax ID: 2734236
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Goodmanvirus goodman
+  Tax ID: 2734238
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Lanavirus lana
+  Tax ID: 2734243
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alexandravirus AD1
+  Tax ID: 2734080
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Atlauavirus tusconc8
+  Tax ID: 2734085
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Derbicusvirus derbicus
+  Tax ID: 2734104
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Llyrvirus SSKS1
+  Tax ID: 2734116
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Webervirus
+  Tax ID: 1920860
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Raleighvirus raleigh
+  Tax ID: 2734267
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Zetavirus zeta1847
+  Tax ID: 2734292
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cytorhabdovirus betawuhaninsectum
+  Tax ID: 2734387
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Getalongvirus bentherdunthat
+  Tax ID: 2734199
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tepukevirus Psa21
+  Tax ID: 3060728
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Marthavirus
+  Tax ID: 1980936
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Marthavirus jawnski
+  Tax ID: 1980949
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tupanvirus altamarinense
+  Tax ID: 3060757
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Spodoptera frugiperda granulovirus
+  Tax ID: 307454
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Synechococcus phage S-CAM22
+  Tax ID: 1883365
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kehishuvirus
+  Tax ID: 2942980
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pseudomonas phage Persinger
+  Tax ID: 2749430
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage vB_EcoM_Ozark
+  Tax ID: 2750851
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gelderlandvirus
+  Tax ID: 1913653
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Certrevirus CR9
+  Tax ID: 1914899
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Streptomyces phage Raleigh
+  Tax ID: 1920312
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Litunavirus
+  Tax ID: 1920762
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Ravinvirus
+  Tax ID: 308911
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage GTE5
+  Tax ID: 319522
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage BritBrat
+  Tax ID: 1838064
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Eganvirus ev186
+  Tax ID: 29252
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Burkholderia phage Mana
+  Tax ID: 2767578
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Burkholderia phage Mica
+  Tax ID: 2767579
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+uncultured phage cr112_1
+  Tax ID: 2772072
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Ruminococcus phage phiRM10
+  Tax ID: 2772516
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klebsiella phage vB_Kpn_IME260
+  Tax ID: 1912318
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klebsiella phage KPV15
+  Tax ID: 1913572
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Respirovirus
+  Tax ID: 186938
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tenacibaculum phage pT24
+  Tax ID: 1880590
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Sinorhizobium phage PBC5
+  Tax ID: 179237
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Prasinovirus
+  Tax ID: 181084
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Synechococcus phage ACG-2014f_Syn7803C8
+  Tax ID: 2790336
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Keylargovirus JL001
+  Tax ID: 279383
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycoplasma phage phiMFV1
+  Tax ID: 280702
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Arthrobacter phage BaileyBlu
+  Tax ID: 2910754
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage Nyceirae
+  Tax ID: 1887651
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Hafyongvirus
+  Tax ID: 3152967
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Successvirus
+  Tax ID: 3152992
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Aceathervirus
+  Tax ID: 3153001
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Shangdongvirus
+  Tax ID: 3153078
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Stenotrophomonas phage vB_SM_ytsc_ply2008005c
+  Tax ID: 2894587
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Arthrobacter phage Jawnski
+  Tax ID: 1772327
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage GTE8
+  Tax ID: 1647475
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Phlei
+  Tax ID: 1690684
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Lactococcus phage PLgT-1
+  Tax ID: 1815955
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Haloarcula hispanica SH1 virus
+  Tax ID: 326574
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Gordonia phage OneUp
+  Tax ID: 1838074
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Xanthomonas phage f30-Xaj
+  Tax ID: 1784981
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alphacytorhabdovirus
+  Tax ID: 3424890
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Risoevirus
+  Tax ID: 3424972
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Jawnskivirus
+  Tax ID: 3425003
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Aceathervirus RM10
+  Tax ID: 3425976
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Alphacytorhabdovirus betawuhaninsectum
+  Tax ID: 3426122
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cuauhtlivirus
+  Tax ID: 2842619
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Stenotrophomonas phage Piffle
+  Tax ID: 2859656
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Stenotrophomonas phage Siara
+  Tax ID: 2859658
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klebsiella phage BUCT541
+  Tax ID: 2873352
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Charlievirus
+  Tax ID: 1623280
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Timquatrovirus
+  Tax ID: 1623306
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage 121Q
+  Tax ID: 1555202
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Aviadenovirus anatis
+  Tax ID: 3426517
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage ZoeJ
+  Tax ID: 1486427
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage OkiRoe
+  Tax ID: 1486473
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Aurantimonas phage AmM-1
+  Tax ID: 1503929
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cafeteria roenbergensis virus
+  Tax ID: 1513235
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Duck adenovirus 2
+  Tax ID: 1520006
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Duck aviadenovirus B
+  Tax ID: 1534553
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+giant squirrel virus
+  Tax ID: 2847092
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mydovirus
+  Tax ID: 2842888
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nochtlivirus
+  Tax ID: 2842908
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage N15
+  Tax ID: 1604876
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Wuhan Insect virus 5
+  Tax ID: 1608110
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pseudomonas phage ZC08
+  Tax ID: 1622116
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Risoevirus cronus
+  Tax ID: 3432166
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Zedzedvirus
+  Tax ID: 2843159
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Agmunavirus
+  Tax ID: 2843342
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Avanivirus
+  Tax ID: 2843352
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Streptomyces virus StarPlatinum
+  Tax ID: 2846404
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kungbxnavirus pT24
+  Tax ID: 2846436
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tequatrovirus zeen18
+  Tax ID: 2846681
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Chlorovirus conductrix
+  Tax ID: 3427928
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Efekovirus efeko
+  Tax ID: 3428447
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Julie1
+  Tax ID: 1463812
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Hafyongvirus yong1
+  Tax ID: 3429141
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Jawnskivirus jawnski
+  Tax ID: 3430002
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Shangdongvirus ply2008005c
+  Tax ID: 3432383
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Successvirus success
+  Tax ID: 3432624
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Paramecium bursaria Chlorella virus A1
+  Tax ID: 381899
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Ravinvirus N15
+  Tax ID: 40631
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Kungbxnavirus
+  Tax ID: 2843406
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Nesevirus
+  Tax ID: 2843429
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Parlovirus
+  Tax ID: 2843433
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pemunavirus
+  Tax ID: 2843434
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Wanchaivirus
+  Tax ID: 2843126
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Wongtaivirus
+  Tax ID: 2843141
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Yautsimvirus
+  Tax ID: 2843147
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Karimacvirus starplatinum
+  Tax ID: 3430114
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pectobacterium phage ZF40
+  Tax ID: 1127516
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cronobacter phage vB_CsaM_GAP32
+  Tax ID: 1141136
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Enterobacteria phage HK140
+  Tax ID: 1147143
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Zedzedvirus zz1
+  Tax ID: 2843640
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Klausavirus lymara
+  Tax ID: 2843728
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pemunavirus PM1
+  Tax ID: 2843778
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Agmunavirus AGM1
+  Tax ID: 2843882
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Zicotriavirus ZC08
+  Tax ID: 2845968
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mydovirus Ro1
+  Tax ID: 2846052
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Parlovirus parlo
+  Tax ID: 2846185
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Paramecium bursaria Chlorella virus CVA-1
+  Tax ID: 42683
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pbunavirus
+  Tax ID: 1198980
+  Rank: G
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Synechococcus phage S-SKS1
+  Tax ID: 754042
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Tequatrovirus ozark
+  Tax ID: 2844216
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Marfavirus F48
+  Tax ID: 2845079
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Pylasvirus KpCHEMY26
+  Tax ID: 2845089
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Marfavirus marfa
+  Tax ID: 2845092
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Trixie
+  Tax ID: 1071503
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Acinetobacter phage ZZ1
+  Tax ID: 1049283
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Enterobacteria phage mEp235
+  Tax ID: 1147150
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Escherichia phage mEpX1
+  Tax ID: 1147153
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Delepquintavirus DLP5
+  Tax ID: 2560782
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Noelle
+  Tax ID: 2572317
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Antsirabe
+  Tax ID: 2575610
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Caelumvirus issmi
+  Tax ID: 2955567
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Camvirus alsaber
+  Tax ID: 2955572
+  Rank: S
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Mycobacterium phage Rey
+  Tax ID: 1034115
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Saimiriine alphaherpesvirus 1
+  Tax ID: 10353
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cervid alphaherpesvirus 1
+  Tax ID: 79891
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Synechococcus phage S-RIM2 R1_1999
+  Tax ID: 869662
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Burkholderia phage KS14
+  Tax ID: 910475
+  Rank: S1
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+Cafeteria roenbergensis virus BV-PW1
+  Tax ID: 693272
+  Rank: S2
+  SPAdes: 1 contigs (0.00%)
+  MEGAHIT: 1 contigs (0.00%)
+  Total: 2 contigs
+  Agreement: 1.00
+
+================================================================================

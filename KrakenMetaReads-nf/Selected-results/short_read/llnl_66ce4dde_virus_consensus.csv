@@ -1,0 +1,1625 @@
+tax_id,rank,name,spades_reads,megahit_reads,total_reads,detection,agreement_ratio
+10239,R1,Viruses,2385.0,1341.0,3726.0,Consensus (Both),0.5622641509433962
+3420545,O,Pantevenvirales,99.0,37.0,136.0,Consensus (Both),0.37373737373737376
+2060084,G,Pandoravirus,51.0,19.0,70.0,Consensus (Both),0.37254901960784315
+186789,G,Punavirus,24.0,32.0,56.0,Consensus (Both),0.75
+1407493,S,Shigella phage SfIV,32.0,16.0,48.0,Consensus (Both),0.5
+548681,O,Herpesvirales,32.0,6.0,38.0,Consensus (Both),0.1875
+2842249,O,Timlovirales,20.0,14.0,34.0,Consensus (Both),0.7
+2843421,G,Menderavirus,19.0,13.0,32.0,Consensus (Both),0.6842105263157895
+2560452,S,Punavirus RCS47,15.0,15.0,30.0,Consensus (Both),1.0
+1590550,S1,Escherichia phage RCS47,15.0,15.0,30.0,Consensus (Both),1.0
+2732554,O,Imitervirales,22.0,7.0,29.0,Consensus (Both),0.3181818181818182
+1623286,G,Casadabanvirus,23.0,4.0,27.0,Consensus (Both),0.17391304347826086
+3044751,G,Ludhianavirus,18.0,8.0,26.0,Consensus (Both),0.4444444444444444
+2650877,S1,Stenotrophomonas phage Mendera,15.0,10.0,25.0,Consensus (Both),0.6666666666666666
+2846389,S,Menderavirus mendera,15.0,10.0,25.0,Consensus (Both),0.6666666666666666
+2510480,S1,Klebsiella phage ST147-VIM1phi7.1,15.0,9.0,24.0,Consensus (Both),0.6
+2843116,G,Vimunumvirus,15.0,9.0,24.0,Consensus (Both),0.6
+186794,G,Lederbergvirus,16.0,8.0,24.0,Consensus (Both),0.5
+2845097,S,Vimunumvirus ST147VIM1phi71,15.0,9.0,24.0,Consensus (Both),0.6
+10680,S,Enterobacteria phage P4,16.0,7.0,23.0,Consensus (Both),0.4375
+3420540,O,Autographivirales,15.0,7.0,22.0,Consensus (Both),0.4666666666666667
+2283028,S1,Pseudomonas phage YMC12/01/R24,19.0,3.0,22.0,Consensus (Both),0.15789473684210525
+3059848,S,Casadabanvirus R24,19.0,3.0,22.0,Consensus (Both),0.15789473684210525
+2956095,S,Kumaovirus kumao,14.0,7.0,21.0,Consensus (Both),0.5
+2786405,S1,ssRNA phage SRR5466369_2,11.0,10.0,21.0,Consensus (Both),0.9090909090909091
+2732978,G,Eganvirus,16.0,5.0,21.0,Consensus (Both),0.3125
+2041344,S1,Mycobacterium phage Kumao,14.0,7.0,21.0,Consensus (Both),0.5
+2948790,G,Kumaovirus,14.0,7.0,21.0,Consensus (Both),0.5
+2844652,S,Gihfavirus pelohabitans,11.0,10.0,21.0,Consensus (Both),0.9090909090909091
+2842702,G,Gihfavirus,11.0,10.0,21.0,Consensus (Both),0.9090909090909091
+140410,G,Peduovirus,16.0,4.0,20.0,Consensus (Both),0.25
+2733152,G,Bertelyvirus,14.0,6.0,20.0,Consensus (Both),0.42857142857142855
+3429951,S,Inibicvirus 613R3,15.0,4.0,19.0,Consensus (Both),0.26666666666666666
+2847061,S1,Escherichia phage ev099,13.0,6.0,19.0,Consensus (Both),0.46153846153846156
+2843442,G,Radostvirus,13.0,6.0,19.0,Consensus (Both),0.46153846153846156
+2946085,S1,Escherichia phage vB_EcoM-613R3,15.0,4.0,19.0,Consensus (Both),0.26666666666666666
+1982880,G,Likavirus,12.0,7.0,19.0,Consensus (Both),0.5833333333333334
+2844247,S,Radostvirus ev099,13.0,6.0,19.0,Consensus (Both),0.46153846153846156
+3153064,G,Inibicvirus,15.0,4.0,19.0,Consensus (Both),0.26666666666666666
+3152625,G,Pumpernickelvirus,11.0,7.0,18.0,Consensus (Both),0.6363636363636364
+2560178,G,Minunavirus,15.0,3.0,18.0,Consensus (Both),0.2
+3432031,S,Pumpernickelvirus pumpernickel,11.0,7.0,18.0,Consensus (Both),0.6363636363636364
+2885983,S1,Microbacterium phage Pumpernickel,11.0,7.0,18.0,Consensus (Both),0.6363636363636364
+2560595,S,Minunavirus Min1,15.0,3.0,18.0,Consensus (Both),0.2
+446529,S1,Microbacterium phage Min1,15.0,3.0,18.0,Consensus (Both),0.2
+2948833,G,Myrnavirus,15.0,2.0,17.0,Consensus (Both),0.13333333333333333
+2946797,G,Anayavirus,13.0,4.0,17.0,Consensus (Both),0.3076923076923077
+1980923,S,Mieseafarmvirus RSL1,10.0,6.0,16.0,Consensus (Both),0.6
+1980924,S1,Ralstonia phage phiRSL1,10.0,6.0,16.0,Consensus (Both),0.6
+1980921,G,Mieseafarmvirus,10.0,6.0,16.0,Consensus (Both),0.6
+10319,G,Varicellovirus,13.0,2.0,15.0,Consensus (Both),0.15384615384615385
+480808,S1,Mycobacterium phage Giles,9.0,5.0,14.0,Consensus (Both),0.5555555555555556
+2948724,G,Gemsvirus,7.0,7.0,14.0,Consensus (Both),1.0
+1349409,S,Pandoravirus dulcis,10.0,4.0,14.0,Consensus (Both),0.4
+1982150,G,Gilesvirus,9.0,5.0,14.0,Consensus (Both),0.5555555555555556
+1982151,S,Gilesvirus giles,9.0,5.0,14.0,Consensus (Both),0.5555555555555556
+2955946,S,Gemsvirus gv5004652,7.0,7.0,14.0,Consensus (Both),1.0
+2716352,S1,Escherichia phage 500465-2,7.0,7.0,14.0,Consensus (Both),1.0
+2843450,G,Sarumanvirus,9.0,4.0,13.0,Consensus (Both),0.4444444444444444
+3044690,G,Cobrasixvirus,5.0,8.0,13.0,Consensus (Both),0.625
+2107709,S,Pandoravirus quercus,9.0,4.0,13.0,Consensus (Both),0.4444444444444444
+2786389,S1,ssRNA phage SRR5466337_3,9.0,4.0,13.0,Consensus (Both),0.4444444444444444
+2894794,S1,Enterobacter phage vB_EclS_CobraSix,5.0,8.0,13.0,Consensus (Both),0.625
+2732555,O,Pimascovirales,8.0,5.0,13.0,Consensus (Both),0.625
+2845070,S,Kinglevirus lutadaptatum,9.0,4.0,13.0,Consensus (Both),0.4444444444444444
+2842802,G,Kinglevirus,9.0,4.0,13.0,Consensus (Both),0.4444444444444444
+3059893,S,Cobrasixvirus cobrasix,5.0,8.0,13.0,Consensus (Both),0.625
+2733153,G,Colossusvirus,9.0,4.0,13.0,Consensus (Both),0.4444444444444444
+1647458,S,Salmonella phage SEN22,6.0,6.0,12.0,Consensus (Both),1.0
+2734153,S,Wellingtonvirus wellington,8.0,4.0,12.0,Consensus (Both),0.5
+2733140,G,Wellingtonvirus,8.0,4.0,12.0,Consensus (Both),0.5
+2801477,S1,Flavobacterium phage vB_FspM_immuto_2-6A,7.0,5.0,12.0,Consensus (Both),0.7142857142857143
+186764,G,Fromanvirus,10.0,2.0,12.0,Consensus (Both),0.2
+2948764,G,Immutovirus,7.0,5.0,12.0,Consensus (Both),0.7142857142857143
+2732524,O,Algavirales,7.0,5.0,12.0,Consensus (Both),0.7142857142857143
+906669,S,Escherichia phage HK639,6.0,6.0,12.0,Consensus (Both),1.0
+10663,G,Tequatrovirus,8.0,4.0,12.0,Consensus (Both),0.5
+2955989,S,Immutovirus immuto,7.0,5.0,12.0,Consensus (Both),0.7142857142857143
+2599890,S1,Streptomyces phage Gilgamesh,8.0,3.0,11.0,Consensus (Both),0.375
+2732986,G,Phitrevirus,8.0,3.0,11.0,Consensus (Both),0.375
+2560286,S,Polybotosvirus Atuph07,8.0,3.0,11.0,Consensus (Both),0.375
+2560207,G,Polybotosvirus,8.0,3.0,11.0,Consensus (Both),0.375
+3060806,S,Wroclawvirus PA5oct,5.0,6.0,11.0,Consensus (Both),0.8333333333333334
+1754217,S1,Pseudomonas phage phi3,8.0,3.0,11.0,Consensus (Both),0.375
+2163605,S1,Pseudomonas phage vB_PaeM_PA5oct,5.0,6.0,11.0,Consensus (Both),0.8333333333333334
+3152619,G,Gilgameshvirus,8.0,3.0,11.0,Consensus (Both),0.375
+2734069,S,Phitrevirus phi3,8.0,3.0,11.0,Consensus (Both),0.375
+3429029,S,Gilgameshvirus gilgamesh,8.0,3.0,11.0,Consensus (Both),0.375
+2024264,S1,Agrobacterium phage Atu_ph07,8.0,3.0,11.0,Consensus (Both),0.375
+3059793,S,Branisovskavirus Kc263,5.0,6.0,11.0,Consensus (Both),0.8333333333333334
+2863194,S1,Kosakonia phage Kc263,5.0,6.0,11.0,Consensus (Both),0.8333333333333334
+3044857,G,Wroclawvirus,5.0,6.0,11.0,Consensus (Both),0.8333333333333334
+3044679,G,Branisovskavirus,5.0,6.0,11.0,Consensus (Both),0.8333333333333334
+2734193,S,Bertelyvirus SC,6.0,4.0,10.0,Consensus (Both),0.6666666666666666
+2844207,S,Marienburgvirus JLK2012,5.0,5.0,10.0,Consensus (Both),1.0
+2843420,G,Marienburgvirus,5.0,5.0,10.0,Consensus (Both),1.0
+2283271,S1,Caulobacter phage CcrPW,6.0,4.0,10.0,Consensus (Both),0.6666666666666666
+1147722,S1,Escherichia phage JLK-2012,5.0,5.0,10.0,Consensus (Both),1.0
+2283272,S1,Caulobacter phage CcrSC,6.0,4.0,10.0,Consensus (Both),0.6666666666666666
+2014434,S,Escherichia phage D6,6.0,4.0,10.0,Consensus (Both),0.6666666666666666
+1605721,S,Pandoravirus inopinatum,8.0,2.0,10.0,Consensus (Both),0.25
+2080449,S,Acanthamoeba castellanii medusavirus,7.0,3.0,10.0,Consensus (Both),0.42857142857142855
+2734195,S,Colossusvirus PW,6.0,4.0,10.0,Consensus (Both),0.6666666666666666
+1982557,G,Smoothievirus,7.0,3.0,10.0,Consensus (Both),0.42857142857142855
+2027899,S2,Mycobacterium phage Phabba,8.0,1.0,9.0,Consensus (Both),0.125
+2006684,S1,Pseudomonas phage Noxifer,6.0,3.0,9.0,Consensus (Both),0.5
+3421322,O1,Pimascovirales incertae sedis,5.0,4.0,9.0,Consensus (Both),0.8
+1623278,G,Bronvirus,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+181083,G,Chlorovirus,5.0,4.0,9.0,Consensus (Both),0.8
+10713,S,Enterobacteria phage phi80,4.0,5.0,9.0,Consensus (Both),0.8
+10294,G,Simplexvirus,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+3403061,R2,Viruses incertae sedis,8.0,1.0,9.0,Consensus (Both),0.125
+1623297,G,Stanholtvirus,8.0,1.0,9.0,Consensus (Both),0.125
+2956211,S1,Myranavirus phabba,8.0,1.0,9.0,Consensus (Both),0.125
+2716351,S1,Escherichia phage 500465-1,5.0,4.0,9.0,Consensus (Both),0.8
+2956672,S,Wadgaonvirus wv5004651,5.0,4.0,9.0,Consensus (Both),0.8
+680115,G,Phikzvirus,5.0,4.0,9.0,Consensus (Both),0.8
+1147158,S,Enterobacteria phage mEp390,5.0,4.0,9.0,Consensus (Both),0.8
+2560190,G,Noxifervirus,6.0,3.0,9.0,Consensus (Both),0.5
+1196844,G,Hpunavirus,4.0,5.0,9.0,Consensus (Both),0.8
+2170091,S,Pulverervirus PFR1,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+2107708,S,Pandoravirus neocaledonia,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+2948951,G,Wadgaonvirus,5.0,4.0,9.0,Consensus (Both),0.8
+2560671,S,Noxifervirus noxifer,6.0,3.0,9.0,Consensus (Both),0.5
+2733154,G,Poindextervirus,5.0,4.0,9.0,Consensus (Both),0.8
+2733155,G,Shapirovirus,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+2734192,S,Bertelyvirus BL9,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+3430982,S,Myrnavirus phabba,8.0,1.0,9.0,Consensus (Both),0.125
+2283270,S1,Caulobacter phage CcrBL9,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+2169655,G,Pulverervirus,7.0,2.0,9.0,Consensus (Both),0.2857142857142857
+3044696,G,Cuauhnahuacvirus,4.0,4.0,8.0,Consensus (Both),1.0
+2499072,S1,Streptomyces phage Hiyaa,6.0,2.0,8.0,Consensus (Both),0.3333333333333333
+1226260,S1,Stx2-converting phage Stx2a_WGPS2,5.0,3.0,8.0,Consensus (Both),0.6
+2560122,G,Dismasvirus,5.0,3.0,8.0,Consensus (Both),0.6
+2843451,G,Sawaravirus,5.0,3.0,8.0,Consensus (Both),0.6
+2948939,G,Unicornvirus,4.0,4.0,8.0,Consensus (Both),1.0
+2843343,G,Aguilavirus,4.0,4.0,8.0,Consensus (Both),1.0
+2733180,G,Hiyaavirus,6.0,2.0,8.0,Consensus (Both),0.3333333333333333
+2734239,S,Hiyaavirus hiyaa,6.0,2.0,8.0,Consensus (Both),0.3333333333333333
+3060017,S,Fadolivirus algeromassiliense,5.0,3.0,8.0,Consensus (Both),0.6
+3044772,G,Natevirus,5.0,3.0,8.0,Consensus (Both),0.6
+2843366,G,Cimandefvirus,6.0,2.0,8.0,Consensus (Both),0.3333333333333333
+3060406,S,Natevirus nate,5.0,3.0,8.0,Consensus (Both),0.6
+1674927,S1,Streptomyces phage Lannister,4.0,4.0,8.0,Consensus (Both),1.0
+1978007,O,Crassvirales,5.0,3.0,8.0,Consensus (Both),0.6
+2894788,S1,Bacillus phage vB_BanS_Nate,5.0,3.0,8.0,Consensus (Both),0.6
+1982889,S,Likavirus lannister,4.0,4.0,8.0,Consensus (Both),1.0
+1838138,S1,Propionibacterium phage PFR2,6.0,2.0,8.0,Consensus (Both),0.3333333333333333
+2763561,G,Fadolivirus,5.0,3.0,8.0,Consensus (Both),0.6
+2844234,S,Sawaravirus WGPS2,5.0,3.0,8.0,Consensus (Both),0.6
+2793708,S1,Streptomyces phage TurkishDelight,4.0,3.0,7.0,Consensus (Both),0.75
+2919549,S1,Aeromonas phage 65,5.0,2.0,7.0,Consensus (Both),0.4
+260149,S,Ishigurovirus osborne,5.0,2.0,7.0,Consensus (Both),0.4
+11157,O,Mononegavirales,5.0,2.0,7.0,Consensus (Both),0.4
+2842716,G,Hadassahvirus,4.0,3.0,7.0,Consensus (Both),0.75
+10678,S,Punavirus P1,4.0,3.0,7.0,Consensus (Both),0.75
+2015825,S1,Mycobacterium phage Unicorn,3.0,4.0,7.0,Consensus (Both),0.75
+2843008,G,Riverridervirus,5.0,2.0,7.0,Consensus (Both),0.4
+2842766,G,Ishigurovirus,5.0,2.0,7.0,Consensus (Both),0.4
+3059911,S,Cuauhnahuacvirus Y65,3.0,4.0,7.0,Consensus (Both),0.75
+2732929,G,Ampunavirus,6.0,1.0,7.0,Consensus (Both),0.16666666666666666
+2108116,S1,Xanthomonas phage RiverRider,5.0,2.0,7.0,Consensus (Both),0.4
+2732527,O,Chitovirales,5.0,2.0,7.0,Consensus (Both),0.4
+1349410,S,Pandoravirus salinus,5.0,2.0,7.0,Consensus (Both),0.4
+3428314,S,Dolmabahcevirus turkishdelight,4.0,3.0,7.0,Consensus (Both),0.75
+2846672,S,Riverridervirus riverrider,5.0,2.0,7.0,Consensus (Both),0.4
+2840070,O,Lefavirales,6.0,1.0,7.0,Consensus (Both),0.16666666666666666
+2509785,S1,Rhizobium phage RHph_Y65,3.0,4.0,7.0,Consensus (Both),0.75
+3152508,G,Dolmabahcevirus,4.0,3.0,7.0,Consensus (Both),0.75
+1198139,G,Bcepmuvirus,5.0,2.0,7.0,Consensus (Both),0.4
+2560111,G,Ceetrepovirus,6.0,1.0,7.0,Consensus (Both),0.16666666666666666
+2956580,S,Unicornvirus unicorn,3.0,4.0,7.0,Consensus (Both),0.75
+2169623,G,Erskinevirus,5.0,2.0,7.0,Consensus (Both),0.4
+3044697,G,Cyamitesvirus,4.0,2.0,6.0,Consensus (Both),0.5
+2734089,S,Baikalvirus PaBG,4.0,2.0,6.0,Consensus (Both),0.5
+2015851,S1,Corynebacterium phage Poushou,4.0,2.0,6.0,Consensus (Both),0.5
+1486472,S1,Mycobacterium phage Gaia,3.0,3.0,6.0,Consensus (Both),1.0
+2842661,G,Eceepunavirus,3.0,3.0,6.0,Consensus (Both),1.0
+942016,S1,Enterobacter phage EcP1,3.0,3.0,6.0,Consensus (Both),1.0
+1623281,G,Cheoctovirus,4.0,2.0,6.0,Consensus (Both),0.5
+2591025,S1,Aeromonas phage LAh10,4.0,2.0,6.0,Consensus (Both),0.5
+2590895,S1,Gordonia phage Mollymur,5.0,1.0,6.0,Consensus (Both),0.2
+2733094,G,Baikalvirus,4.0,2.0,6.0,Consensus (Both),0.5
+3044768,G,Mollymurvirus,5.0,1.0,6.0,Consensus (Both),0.2
+2733172,G,Daredevilvirus,5.0,1.0,6.0,Consensus (Both),0.2
+10257,G,Parapoxvirus,4.0,2.0,6.0,Consensus (Both),0.5
+1029988,S1,Erwinia phage phiEaH2,4.0,2.0,6.0,Consensus (Both),0.5
+2948922,G,Thalassavirus,4.0,2.0,6.0,Consensus (Both),0.5
+328615,S,Trichoplusia ni ascovirus 2c,3.0,3.0,6.0,Consensus (Both),1.0
+1720324,G,Hollowayvirus,5.0,1.0,6.0,Consensus (Both),0.2
+2560396,S,Poushouvirus Poushou,4.0,2.0,6.0,Consensus (Both),0.5
+2560732,S,Punavirus SJ46,3.0,3.0,6.0,Consensus (Both),1.0
+3153083,G,Finkelvirus,3.0,3.0,6.0,Consensus (Both),1.0
+2592223,S1,Salmonella phage SW9,4.0,2.0,6.0,Consensus (Both),0.5
+984175,S,Cronobacter phage ENT39118,3.0,3.0,6.0,Consensus (Both),1.0
+2734229,S,Daredevilvirus daredevil,5.0,1.0,6.0,Consensus (Both),0.2
+1335230,S1,Pseudomonas phage PaBG,4.0,2.0,6.0,Consensus (Both),0.5
+464095,O,Picornavirales,4.0,2.0,6.0,Consensus (Both),0.5
+1815968,S1,Salmonella phage SJ46,3.0,3.0,6.0,Consensus (Both),1.0
+1982148,S,Gaiavirus gaia,3.0,3.0,6.0,Consensus (Both),1.0
+3428776,S,Finkelvirus finkel,3.0,3.0,6.0,Consensus (Both),1.0
+1982898,G,Coopervirus,5.0,1.0,6.0,Consensus (Both),0.2
+2842814,G,Kwaitsingvirus,4.0,2.0,6.0,Consensus (Both),0.5
+2948665,G,Cinqassovirus,4.0,2.0,6.0,Consensus (Both),0.5
+1982113,G,Gaiavirus,3.0,3.0,6.0,Consensus (Both),1.0
+2283286,S1,Gordonia phage Daredevil,5.0,1.0,6.0,Consensus (Both),0.2
+2169883,S,Erskinevirus EaH2,4.0,2.0,6.0,Consensus (Both),0.5
+3080801,G,Moumouvirus,5.0,1.0,6.0,Consensus (Both),0.2
+2846110,S,Eganvirus SW9,4.0,2.0,6.0,Consensus (Both),0.5
+2926099,S1,Gordonia phage Finkle,3.0,3.0,6.0,Consensus (Both),1.0
+2844120,S,Eceepunavirus EcP1,3.0,3.0,6.0,Consensus (Both),1.0
+43680,G,Ascovirus,3.0,3.0,6.0,Consensus (Both),1.0
+2560209,G,Poushouvirus,4.0,2.0,6.0,Consensus (Both),0.5
+1983735,G,Phayoncevirus,4.0,2.0,6.0,Consensus (Both),0.5
+3060173,S,Ludhianavirus LAh10,4.0,2.0,6.0,Consensus (Both),0.5
+3060390,S,Mollymurvirus mollymur,5.0,1.0,6.0,Consensus (Both),0.2
+1813613,S,Picornavirales Bu-3,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+264729,S,Bcepmuvirus bcepMu,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2843457,G,Sleepyheadvirus,4.0,1.0,5.0,Consensus (Both),0.25
+2601632,S1,Pseudomonas phage vB_PaeM_PS119XW,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2560689,S,Chakrabartyvirus pf16,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+936054,S1,Enterobacteria phage VT2phi_272,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1147151,S,Enterobacteria phage mEp237,2.0,3.0,5.0,Consensus (Both),0.6666666666666666
+2834256,S1,Pseudomonas phage Medea1,2.0,3.0,5.0,Consensus (Both),0.6666666666666666
+1883366,S1,Synechococcus phage S-CAM3,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2843638,S,Hadassahvirus pht2,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1147140,S,Salmonella phage SPN3UB,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1910936,S,Agatevirus bobb,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1910931,G,Agatevirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+3431388,S,Parapoxvirus bovinestomatitis,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+3430767,S,Medeavirus medea1,2.0,3.0,5.0,Consensus (Both),0.6666666666666666
+546805,S1,Mycobacterium phage Myrna,4.0,1.0,5.0,Consensus (Both),0.25
+3151839,O,Hareavirales,4.0,1.0,5.0,Consensus (Both),0.25
+129727,S1,Bovine papular stomatitis virus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1647476,S,Tsukamurella phage TPA4,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1958965,S1,Ralstonia phage RS-PI-1,4.0,1.0,5.0,Consensus (Both),0.25
+2919553,S2,Mycobacterium phage LeBron,4.0,1.0,5.0,Consensus (Both),0.25
+2560094,G,Asteriusvirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2843376,G,Donellivirus,4.0,1.0,5.0,Consensus (Both),0.25
+3152510,G,Medeavirus,2.0,3.0,5.0,Consensus (Both),0.6666666666666666
+2690230,S1,Acinetobacter phage vB_AbaM_PhT2,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2956212,S,Myrnavirus myrna,4.0,1.0,5.0,Consensus (Both),0.25
+2560113,G,Chakrabartyvirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+39944,S1,Caprine alphaherpesvirus 1,4.0,1.0,5.0,Consensus (Both),0.25
+2846061,S,Sleepyheadvirus sleepyhead,4.0,1.0,5.0,Consensus (Both),0.25
+2530033,S1,Burkholderia phage BcepSauron,4.0,1.0,5.0,Consensus (Both),0.25
+2843897,S,Sarumanvirus bcepsauron,4.0,1.0,5.0,Consensus (Both),0.25
+2843400,G,Karimacvirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1678078,S,Mollivirus sibericum,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1815630,S1,Pseudomonas phage pf16,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+3060524,S,Pawinskivirus PS119XW,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1560342,S,Acinetobacter phage YMC13/03/R2096,2.0,3.0,5.0,Consensus (Both),0.6666666666666666
+2733100,G,Charybdisvirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+3044787,G,Pawinskivirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1981159,G,Oslovirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2734102,S,Charybdisvirus scam3,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2732559,O,Rowavirales,4.0,1.0,5.0,Consensus (Both),0.25
+1527469,S1,Bacillus phage Bobb,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2843432,G,Pankowvirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+1981168,S,Oslovirus PA2,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+3427627,S,Bronvirus bron,4.0,1.0,5.0,Consensus (Both),0.25
+2843161,G,Zicotriavirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2946815,G,Backyardiganvirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2884420,S1,Bacillus phage G,4.0,1.0,5.0,Consensus (Both),0.25
+2881392,S1,Burkholderia phage BcepMu,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+3050252,S,Varicellovirus caprinealpha1,4.0,1.0,5.0,Consensus (Both),0.25
+1983744,G,Bongovirus,4.0,1.0,5.0,Consensus (Both),0.25
+2733174,G,Feofaniavirus,3.0,2.0,5.0,Consensus (Both),0.6666666666666666
+2733200,G,Oneupvirus,4.0,1.0,5.0,Consensus (Both),0.25
+2733590,S,Ampunavirus RSPI1,4.0,1.0,5.0,Consensus (Both),0.25
+1623288,G,Liefievirus,4.0,1.0,5.0,Consensus (Both),0.25
+2591131,S1,Rhodococcus phage Sleepyhead,4.0,1.0,5.0,Consensus (Both),0.25
+1084719,S,Donellivirus gee,4.0,1.0,5.0,Consensus (Both),0.25
+861047,S1,Mycobacterium virus Bron,4.0,1.0,5.0,Consensus (Both),0.25
+1883379,S,Erwinia phage vB_EamM_Caitlin,2.0,2.0,4.0,Consensus (Both),1.0
+1147144,S,Enterobacteria phage HK225,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+998086,S1,Pseudomonas phage PhiPA3,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+10682,S1,Enterobacteria phage P7,2.0,2.0,4.0,Consensus (Both),1.0
+680114,G,Bixzunavirus,2.0,2.0,4.0,Consensus (Both),1.0
+984186,S,Cronobacter phage ENT47670,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+101570,S,Enterobacteria phage ES18,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2955944,S,Gegevirus ST437OXA245phi41,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2948816,G,Manovirus,2.0,2.0,4.0,Consensus (Both),1.0
+3044829,G,Siftrevirus,2.0,2.0,4.0,Consensus (Both),1.0
+2734062,S,Elveevirus 4LV2017,2.0,2.0,4.0,Consensus (Both),1.0
+2023057,S1,Orpheovirus IHUMI-LCC2,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2948773,G,Julieunavirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1175657,S2,Pseudomonas phage PaMx11,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1857844,G,Pecentumvirus,2.0,2.0,4.0,Consensus (Both),1.0
+180504,S,Stanholtvirus E125,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3425958,S,Abidjanvirus PaMx11,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3426221,S,Alphaorpheovirus massiliense,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2842641,G,Dendoorenvirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1483485,S,Ralstonia phage RS138,2.0,2.0,4.0,Consensus (Both),1.0
+2048977,S1,Pseudomonas phage nickie,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1714268,G,Alphasphaerolipovirus,2.0,2.0,4.0,Consensus (Both),1.0
+175950,S,Salmonella phage ST64B,2.0,2.0,4.0,Consensus (Both),1.0
+2927986,S1,Caulobacter phage CcrRogue,2.0,2.0,4.0,Consensus (Both),1.0
+1089132,S1,Mycobacterium virus SG4,2.0,2.0,4.0,Consensus (Both),1.0
+1109712,S,Rhodococcus phage REQ1,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2560188,G,Nickievirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2560220,G,Samistivirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2956185,S,Manovirus Mano,2.0,2.0,4.0,Consensus (Both),1.0
+2734103,S,Cymopoleiavirus swam2,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2733101,G,Cymopoleiavirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1985325,G,Jiaodavirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+432201,S1,Escherichia phage HK544,2.0,2.0,4.0,Consensus (Both),1.0
+2748760,S,Poindextervirus rogue,2.0,2.0,4.0,Consensus (Both),1.0
+2759727,S1,Ralstonia phage Gerry,2.0,2.0,4.0,Consensus (Both),1.0
+2767570,S1,Achromobacter phage Mano,2.0,2.0,4.0,Consensus (Both),1.0
+1914850,G,Certrevirus,2.0,2.0,4.0,Consensus (Both),1.0
+2923001,S2,Mycobacterium phage SG4,2.0,2.0,4.0,Consensus (Both),1.0
+1982095,G,Abidjanvirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1982098,S1,Pseudomonas virus PaMx11,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3427890,S,Cheoctovirus SG4,2.0,2.0,4.0,Consensus (Both),1.0
+2842972,G,Pokkenvirus,2.0,2.0,4.0,Consensus (Both),1.0
+3044765,G,Miltoncavirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1623301,G,Reyvirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2842993,G,Pylasvirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1220717,S,Rhizobium phage RHEph10,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2844071,S,Dendoorenvirus RG2014,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2843419,G,Marfavirus,2.0,2.0,4.0,Consensus (Both),1.0
+2845816,S1,Gordonia phage VanLee,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2846046,S,Cimandefvirus Ggerry,2.0,2.0,4.0,Consensus (Both),1.0
+2510486,S1,Klebsiella phage ST437-OXA245phi4.1,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2510943,S1,Lactobacillus phage 3-521,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3038364,S1,Gordonia phage Commandaria,2.0,2.0,4.0,Consensus (Both),1.0
+1960658,S1,Klebsiella phage 4LV2017,2.0,2.0,4.0,Consensus (Both),1.0
+2733120,G,Nodensvirus,2.0,2.0,4.0,Consensus (Both),1.0
+2733123,G,Phabquatrovirus,2.0,2.0,4.0,Consensus (Both),1.0
+2169624,G,Machinavirus,2.0,2.0,4.0,Consensus (Both),1.0
+2029657,S1,Bordetella phage vB_BbrM_PHB04,2.0,2.0,4.0,Consensus (Both),1.0
+1982879,G,Camvirus,2.0,2.0,4.0,Consensus (Both),1.0
+3060307,S,Miltoncavirus PhiPA3,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1563661,S1,Delftia phage RG-2014,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1690818,S1,Streptomyces phage SF3,2.0,2.0,4.0,Consensus (Both),1.0
+3428071,S,Commandariavirus commandaria,2.0,2.0,4.0,Consensus (Both),1.0
+2843129,G,Watanabevirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+238854,S1,Synechococcus phage S-PM2,2.0,2.0,4.0,Consensus (Both),1.0
+2732011,O,Halopanivirales,2.0,2.0,4.0,Consensus (Both),1.0
+3044688,G,Citricivirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3060706,S,Siftrevirus SF3,2.0,2.0,4.0,Consensus (Both),1.0
+1917232,S,Only Syngen Nebraska virus 5,2.0,2.0,4.0,Consensus (Both),1.0
+3152630,G,Vanleevirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3152691,G,Commandariavirus,2.0,2.0,4.0,Consensus (Both),1.0
+1813771,S,Salmonella phage 118970_sal3,2.0,2.0,4.0,Consensus (Both),1.0
+1815522,S1,Synechococcus phage S-WAM2,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+1357825,S1,Enterobacteria phage fiAA91-ss,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3433098,S,Vanleevirus vanlee,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2948695,G,Elveevirus,2.0,2.0,4.0,Consensus (Both),1.0
+2948723,G,Gegevirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2169923,S,Kwaitsingvirus HK544,2.0,2.0,4.0,Consensus (Both),1.0
+3153020,G,Alphaorpheovirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2560688,S,Nickievirus nickie,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2948936,G,Turbidovirus,2.0,2.0,4.0,Consensus (Both),1.0
+2560457,S,Peduovirus fiAA91ss,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+3059891,S,Citricivirus chongqinense,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2734126,S,Nodensvirus spm2,2.0,2.0,4.0,Consensus (Both),1.0
+2734129,S,Phabquatrovirus PHB04,2.0,2.0,4.0,Consensus (Both),1.0
+2883940,S1,Burkholderia phage phiE125,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2599343,S1,Aphis citricidus bunyavirus,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2845126,S,Watanabevirus wv3521,3.0,1.0,4.0,Consensus (Both),0.3333333333333333
+2955700,S,Chrysonvirus as5,2.0,1.0,3.0,Consensus (Both),0.5
+2565502,S1,Shigella phage DS8,1.0,2.0,3.0,Consensus (Both),0.5
+879630,S1,Aeromonas phage phiAS5,2.0,1.0,3.0,Consensus (Both),0.5
+10366,S1,Murid betaherpesvirus 1,2.0,1.0,3.0,Consensus (Both),0.5
+2955710,S,Coatlandelriovirus RSP,2.0,1.0,3.0,Consensus (Both),0.5
+2955496,S,Bippervirus bipper,2.0,1.0,3.0,Consensus (Both),0.5
+2955382,S,Aurodevirus hiberniae,2.0,1.0,3.0,Consensus (Both),0.5
+2560848,S1,Xylella virus Sano,2.0,1.0,3.0,Consensus (Both),0.5
+2560731,S,Brunovirus SEN34,2.0,1.0,3.0,Consensus (Both),0.5
+2843896,S,Sarumanvirus bcepsaruman,2.0,1.0,3.0,Consensus (Both),0.5
+2845649,S,Cukevirus cuke,2.0,1.0,3.0,Consensus (Both),0.5
+3059794,S,Brussowvirus 20617,2.0,1.0,3.0,Consensus (Both),0.5
+3059778,S,Bigmanorsvirus bgmanors32,2.0,1.0,3.0,Consensus (Both),0.5
+1985329,G,Moonvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2948946,G,Veracruzvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2560726,S1,Stockinghallvirus FSLSP004,2.0,1.0,3.0,Consensus (Both),0.5
+2955752,S,Deseoctovirus DS8,1.0,2.0,3.0,Consensus (Both),0.5
+3152968,G,Haihevirus,2.0,1.0,3.0,Consensus (Both),0.5
+1647302,S1,Mycobacterium phage Phayonce,2.0,1.0,3.0,Consensus (Both),0.5
+1623303,G,Brussowvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2894367,S1,Aeromonas phage vB_AsaM_LPM4,2.0,1.0,3.0,Consensus (Both),0.5
+2894335,S1,Burkholderia phage BgManors32,2.0,1.0,3.0,Consensus (Both),0.5
+2886926,S1,Escherichia phage P1,2.0,1.0,3.0,Consensus (Both),0.5
+2846393,S,Borockvirus brock,2.0,1.0,3.0,Consensus (Both),0.5
+2843371,G,Cukevirus,2.0,1.0,3.0,Consensus (Both),0.5
+2094720,G,Tupanvirus,2.0,1.0,3.0,Consensus (Both),0.5
+3044675,G,Bigmanorsvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2283269,S1,Caulobacter phage CcrBL10,2.0,1.0,3.0,Consensus (Both),0.5
+2948710,G,Foxborovirus,2.0,1.0,3.0,Consensus (Both),0.5
+2948678,G,Deseoctovirus,1.0,2.0,3.0,Consensus (Both),0.5
+2948668,G,Coatlandelriovirus,2.0,1.0,3.0,Consensus (Both),0.5
+2948662,G,Chrysonvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2948647,G,Caelumvirus,2.0,1.0,3.0,Consensus (Both),0.5
+227470,S,Cinqassovirus aeh1,2.0,1.0,3.0,Consensus (Both),0.5
+2315544,S1,Mycobacterium phage Paito,2.0,1.0,3.0,Consensus (Both),0.5
+2301697,S1,Gordonia phage Schmidt,2.0,1.0,3.0,Consensus (Both),0.5
+3432251,S,Sanovirus sano,2.0,1.0,3.0,Consensus (Both),0.5
+3431429,S,Peduovirus FSLSP004,2.0,1.0,3.0,Consensus (Both),0.5
+1392231,S1,Streptococcus phage 20617,2.0,1.0,3.0,Consensus (Both),0.5
+1647463,S1,Salmonella phage SEN34,2.0,1.0,3.0,Consensus (Both),0.5
+2734215,S,Appavirus appa,2.0,1.0,3.0,Consensus (Both),0.5
+2734196,S,Poindextervirus BL10,2.0,1.0,3.0,Consensus (Both),0.5
+2739681,S1,Yaravirus sp. 'brasiliensis',2.0,1.0,3.0,Consensus (Both),0.5
+3430047,S,Jerseyvirus JD01,2.0,1.0,3.0,Consensus (Both),0.5
+3044749,G,Kumottavirus,1.0,2.0,3.0,Consensus (Both),0.5
+3044731,G,Hiroshimavirus,2.0,1.0,3.0,Consensus (Both),0.5
+2201420,S1,Ralstonia phage phiRSP,2.0,1.0,3.0,Consensus (Both),0.5
+2182350,S1,Microbacterium phage Appa,2.0,1.0,3.0,Consensus (Both),0.5
+1415148,S2,Xylella phage Sano,2.0,1.0,3.0,Consensus (Both),0.5
+2847060,S1,Escherichia phage ev017,2.0,1.0,3.0,Consensus (Both),0.5
+3060690,S,Scyllavirus aitchnine,2.0,1.0,3.0,Consensus (Both),0.5
+3060630,S,Piscesmortuivirus LPM4,2.0,1.0,3.0,Consensus (Both),0.5
+1982355,G,Pamexvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2880362,S1,Aeromonas phage Aeh1,2.0,1.0,3.0,Consensus (Both),0.5
+2842727,G,Henunavirus,2.0,1.0,3.0,Consensus (Both),0.5
+1540090,S1,Bacillus phage Mater,2.0,1.0,3.0,Consensus (Both),0.5
+2079417,S1,Mycobacterium phage Cuke,2.0,1.0,3.0,Consensus (Both),0.5
+2169658,G,Wizardvirus,2.0,1.0,3.0,Consensus (Both),0.5
+3080759,S,Moumouvirus australiense,2.0,1.0,3.0,Consensus (Both),0.5
+322019,S,Chlorovirus heliozoae,2.0,1.0,3.0,Consensus (Both),0.5
+2986419,S1,uncultured phage cr23_1,2.0,1.0,3.0,Consensus (Both),0.5
+2510585,S1,Mycobacterium phage Nibb,2.0,1.0,3.0,Consensus (Both),0.5
+2843401,G,Klausavirus,2.0,1.0,3.0,Consensus (Both),0.5
+2843396,G,Jouyvirus,2.0,1.0,3.0,Consensus (Both),0.5
+411359,S1,Acanthocystis turfacea chlorella virus 1,2.0,1.0,3.0,Consensus (Both),0.5
+1279082,S1,Pseudomonas phage PPpW-3,2.0,1.0,3.0,Consensus (Both),0.5
+1273738,S1,Escherichia phage PBECO4,2.0,1.0,3.0,Consensus (Both),0.5
+12407,S,Eganvirus PsP3,2.0,1.0,3.0,Consensus (Both),0.5
+2956401,S,Schmidtvirus schmidt,2.0,1.0,3.0,Consensus (Both),0.5
+2844135,S,Pankowvirus YYZ2008,2.0,1.0,3.0,Consensus (Both),0.5
+1220601,S1,Rhizobium phage RHEph01,2.0,1.0,3.0,Consensus (Both),0.5
+2783674,S1,Synechococcus phage S-H9-1,2.0,1.0,3.0,Consensus (Both),0.5
+1982900,G,Rosebushvirus,1.0,2.0,3.0,Consensus (Both),0.5
+3060034,S,Hiroshimavirus PPpW3,2.0,1.0,3.0,Consensus (Both),0.5
+2109587,S1,Moumouvirus australiensis,2.0,1.0,3.0,Consensus (Both),0.5
+2843361,G,Borockvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2842856,G,Matervirus,2.0,1.0,3.0,Consensus (Both),0.5
+3427838,S,Ceetrepovirus darwin,2.0,1.0,3.0,Consensus (Both),0.5
+2731961,G,Paadamvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2530032,S1,Burkholderia phage BcepSaruman,2.0,1.0,3.0,Consensus (Both),0.5
+2733196,G,Montyvirus,2.0,1.0,3.0,Consensus (Both),0.5
+3044815,G,Scyllavirus,2.0,1.0,3.0,Consensus (Both),0.5
+3044793,G,Piscesmortuivirus,2.0,1.0,3.0,Consensus (Both),0.5
+2733091,G,Aokuangvirus,1.0,2.0,3.0,Consensus (Both),0.5
+2733165,G,Appavirus,2.0,1.0,3.0,Consensus (Both),0.5
+2946828,G,Bippervirus,2.0,1.0,3.0,Consensus (Both),0.5
+2734084,S,Aokuangvirus SCBWM1,1.0,2.0,3.0,Consensus (Both),0.5
+2560108,G,Brunovirus,2.0,1.0,3.0,Consensus (Both),0.5
+2956705,S,Yaravirus brasiliense,2.0,1.0,3.0,Consensus (Both),0.5
+2560222,G,Sanovirus,2.0,1.0,3.0,Consensus (Both),0.5
+103807,S,Enterobacteria phage phiP27,2.0,1.0,3.0,Consensus (Both),0.5
+2053701,S1,Aeromonas phage Ah1,2.0,1.0,3.0,Consensus (Both),0.5
+2053653,S1,Synechococcus phage S-CBWM1,1.0,2.0,3.0,Consensus (Both),0.5
+2047869,S2,Corynebacterium phage Darwin,2.0,1.0,3.0,Consensus (Both),0.5
+2946811,G,Aurodevirus,2.0,1.0,3.0,Consensus (Both),0.5
+3429152,S,Haihevirus PP9W2,2.0,1.0,3.0,Consensus (Both),0.5
+2733208,G,Samwavirus,2.0,1.0,3.0,Consensus (Both),0.5
+2733202,G,Quhwahvirus,2.0,1.0,3.0,Consensus (Both),0.5
+1805457,S1,Mycobacterium phage Bipper,2.0,1.0,3.0,Consensus (Both),0.5
+1785960,S,Ralstonia phage RSP15,1.0,2.0,3.0,Consensus (Both),0.5
+1173769,S2,Salmonella phage FSLSP004,2.0,1.0,3.0,Consensus (Both),0.5
+1168549,S,Salmonella phage vB_SosS_Oslo,2.0,1.0,3.0,Consensus (Both),0.5
+2948771,G,Jolieduovirus,2.0,1.0,3.0,Consensus (Both),0.5
+2948896,G,Schmidtvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2956114,S,Liefievirus paito,2.0,1.0,3.0,Consensus (Both),0.5
+2560394,S1,Corynebacterium virus Darwin,2.0,1.0,3.0,Consensus (Both),0.5
+2560332,S,Matervirus mater,2.0,1.0,3.0,Consensus (Both),0.5
+564886,S1,Enterobacteria phage YYZ-2008,2.0,1.0,3.0,Consensus (Both),0.5
+55884,S,Enterobacteria phage SfV,1.0,2.0,3.0,Consensus (Both),0.5
+558017,G,Betabaculovirus,2.0,1.0,3.0,Consensus (Both),0.5
+10365,G,Muromegalovirus,2.0,1.0,3.0,Consensus (Both),0.5
+1983742,S,Phayoncevirus phayonce,2.0,1.0,3.0,Consensus (Both),0.5
+3050323,S,Muromegalovirus muridbeta1,2.0,1.0,3.0,Consensus (Both),0.5
+2733939,S,Paadamvirus RHEph01,2.0,1.0,3.0,Consensus (Both),0.5
+2948807,G,Luchadorvirus,2.0,1.0,3.0,Consensus (Both),0.5
+2948958,G,Yaravirus,2.0,1.0,3.0,Consensus (Both),0.5
+2560463,S,Asteriusvirus PBECO4,2.0,1.0,3.0,Consensus (Both),0.5
+2844245,S,Jouyvirus ev017,2.0,1.0,3.0,Consensus (Both),0.5
+2955346,S,Anayavirus nibb,2.0,1.0,3.0,Consensus (Both),0.5
+10552,G,Aviadenovirus,2.0,1.0,3.0,Consensus (Both),0.5
+1623292,G,Omegavirus,2.0,1.0,3.0,Consensus (Both),0.5
+1623284,G,Kostyavirus,2.0,1.0,3.0,Consensus (Both),0.5
+2955704,S,Cinqassovirus ah1,2.0,1.0,3.0,Consensus (Both),0.5
+2914450,S1,Pseudomonas phage PP9W2,2.0,1.0,3.0,Consensus (Both),0.5
+2831178,S1,Salmonella phage JD01,2.0,1.0,3.0,Consensus (Both),0.5
+2907836,S1,Salmonella phage PSP3,2.0,1.0,3.0,Consensus (Both),0.5
+1913650,G,Karamvirus,2.0,1.0,3.0,Consensus (Both),0.5
+1913591,S1,Streptomyces phage BRock,2.0,1.0,3.0,Consensus (Both),0.5
+1910991,G,Jerseyvirus,2.0,1.0,3.0,Consensus (Both),0.5
+1007869,S,Rhodococcus phage E3,1.0,1.0,2.0,Consensus (Both),1.0
+764562,S,Brochothrix phage BL3,1.0,1.0,2.0,Consensus (Both),1.0
+563769,S1,Stx2-converting phage 1717,1.0,1.0,2.0,Consensus (Both),1.0
+573591,S,Stenotrophomonas phage S1,1.0,1.0,2.0,Consensus (Both),1.0
+2844127,S,Yautsimvirus HK140,1.0,1.0,2.0,Consensus (Both),1.0
+2844138,S,Nochtlivirus mEp235,1.0,1.0,2.0,Consensus (Both),1.0
+2844165,S,Henunavirus SNUABM01,1.0,1.0,2.0,Consensus (Both),1.0
+2844169,S,Pankowvirus pv1717,1.0,1.0,2.0,Consensus (Both),1.0
+2844189,S,Wongtaivirus ECP1,1.0,1.0,2.0,Consensus (Both),1.0
+2843628,S,Hadassahvirus azbtza1,1.0,1.0,2.0,Consensus (Both),1.0
+547228,S1,Bacillus phage PM1,1.0,1.0,2.0,Consensus (Both),1.0
+1162290,S1,Cronobacter phage CR9,1.0,1.0,2.0,Consensus (Both),1.0
+1168280,S,Cronobacter phage phiES15,1.0,1.0,2.0,Consensus (Both),1.0
+2955343,S,Anayavirus markphew,1.0,1.0,2.0,Consensus (Both),1.0
+2587809,S1,Klebsiella phage Marfa,1.0,1.0,2.0,Consensus (Both),1.0
+2591411,S1,Brevibacterium phage AGM1,1.0,1.0,2.0,Consensus (Both),1.0
+2596966,S1,Klebsiella phage KpCHEMY26,1.0,1.0,2.0,Consensus (Both),1.0
+2599828,S1,Arthrobacter phage Lymara,1.0,1.0,2.0,Consensus (Both),1.0
+2955364,S,Antsirabevirus antsirabe,1.0,1.0,2.0,Consensus (Both),1.0
+2955375,S,Aptresvirus mana,1.0,1.0,2.0,Consensus (Both),1.0
+2955405,S,Backyardiganvirus noelle,1.0,1.0,2.0,Consensus (Both),1.0
+2955447,S,Betafusarivirus brasiliensis,1.0,1.0,2.0,Consensus (Both),1.0
+2560506,S,Nyceiraevirus nyceirae,1.0,1.0,2.0,Consensus (Both),1.0
+2560539,S,Sugarlandvirus IME260,1.0,1.0,2.0,Consensus (Both),1.0
+2560436,S,Asteriusvirus av121Q,1.0,1.0,2.0,Consensus (Both),1.0
+2955845,S1,Efkovirus efeko,1.0,1.0,2.0,Consensus (Both),1.0
+2955912,S,Foxborovirus GTE8,1.0,1.0,2.0,Consensus (Both),1.0
+2955961,S,Gruunavirus GTE5,1.0,1.0,2.0,Consensus (Both),1.0
+2955983,S,Harrisonburgvirus persinger,1.0,1.0,2.0,Consensus (Both),1.0
+2956010,S,Jiangsuvirus pspyzu05,1.0,1.0,2.0,Consensus (Both),1.0
+2599954,S1,Rhizoctonia solani fusarivirus 2,1.0,1.0,2.0,Consensus (Both),1.0
+260120,S1,Mycobacterium phage U2,1.0,1.0,2.0,Consensus (Both),1.0
+2601643,S1,Erwinia phage pEp_SNUABM_01,1.0,1.0,2.0,Consensus (Both),1.0
+2955237,S,Alisovirus socal22,1.0,1.0,2.0,Consensus (Both),1.0
+2955318,S,Alphasphaerolipovirus serpentinense,1.0,1.0,2.0,Consensus (Both),1.0
+2955326,S,Amginevirus darthP,1.0,1.0,2.0,Consensus (Both),1.0
+2955339,S,Anayavirus curiosium,1.0,1.0,2.0,Consensus (Both),1.0
+2560400,S,Mimasvirus GAP32,1.0,1.0,2.0,Consensus (Both),1.0
+2956012,S,Jiaodavirus kppv15,1.0,1.0,2.0,Consensus (Both),1.0
+2956025,S,Jolieduovirus lemuria,1.0,1.0,2.0,Consensus (Both),1.0
+2956033,S,Julieunavirus julie1,1.0,1.0,2.0,Consensus (Both),1.0
+2956054,S,Kehishuvirus splanchnicus,1.0,1.0,2.0,Consensus (Both),1.0
+2560176,G,Mimasvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948864,G,Phleivirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948904,G,Shandvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2599859,S1,Mycobacterium phage Curiosium,1.0,1.0,2.0,Consensus (Both),1.0
+2599868,S1,Mycobacterium phage Lemuria,1.0,1.0,2.0,Consensus (Both),1.0
+2560489,S,Britbratvirus britbrat,1.0,1.0,2.0,Consensus (Both),1.0
+2560233,G,Sugarlandvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2956191,S,Micavirus Mica,1.0,1.0,2.0,Consensus (Both),1.0
+2956314,S,Phleivirus Phlei,1.0,1.0,2.0,Consensus (Both),1.0
+2956382,S1,Roskildevirus cronus,1.0,1.0,2.0,Consensus (Both),1.0
+2691085,S1,Yersinia phage vB_YepM_ZN18,1.0,1.0,2.0,Consensus (Both),1.0
+2719181,S1,Hafnia phage yong1,1.0,1.0,2.0,Consensus (Both),1.0
+2725625,S1,Mycobacterium phage MarkPhew,1.0,1.0,2.0,Consensus (Both),1.0
+2725628,S1,Streptomyces phage Issmi,1.0,1.0,2.0,Consensus (Both),1.0
+2725640,S1,Mycobacterium phage MA5,1.0,1.0,2.0,Consensus (Both),1.0
+2948782,G,Keylargovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948788,G,Kratiovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948789,G,Kroosvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948822,G,Micavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2560256,G,Winklervirus,1.0,1.0,2.0,Consensus (Both),1.0
+2560107,G,Britbratvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2560121,G,Delepquintavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2560134,G,Galaxyvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2530023,S1,Pseudomonas phage Psa21,1.0,1.0,2.0,Consensus (Both),1.0
+2948731,G,Gruunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948755,G,Harrisonburgvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948770,G,Jiangsuvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948781,G,Keshuvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2681607,S1,Alphaproteobacteria phage PhiJL001,1.0,1.0,2.0,Consensus (Both),1.0
+2681630,S1,Escherichia phage 186,1.0,1.0,2.0,Consensus (Both),1.0
+2560192,G,Nyceiraevirus,1.0,1.0,2.0,Consensus (Both),1.0
+2560210,G,Priunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2498616,S1,Escherichia phage Ro45lw,1.0,1.0,2.0,Consensus (Both),1.0
+2500827,S1,Acinetobacter phage AbTZA1,1.0,1.0,2.0,Consensus (Both),1.0
+2999013,S1,Streptomyces phage Success,1.0,1.0,2.0,Consensus (Both),1.0
+2530172,S1,Pseudomonas phage Lana,1.0,1.0,2.0,Consensus (Both),1.0
+2557554,S1,Serratia phage Parlo,1.0,1.0,2.0,Consensus (Both),1.0
+2956501,S,Tequatrovirus mlf4,1.0,1.0,2.0,Consensus (Both),1.0
+2956533,S,Timquatrovirus zoeJ,1.0,1.0,2.0,Consensus (Both),1.0
+2956637,S,Veracruzvirus MA5,1.0,1.0,2.0,Consensus (Both),1.0
+2301604,S1,Microbacterium phage OneinaGillian,1.0,1.0,2.0,Consensus (Both),1.0
+2315704,S2,Microbacterium phage Efeko,1.0,1.0,2.0,Consensus (Both),1.0
+2201444,S1,Microbacterium phage Zeta1847,1.0,1.0,2.0,Consensus (Both),1.0
+2267653,S1,Erwinia phage Wellington,1.0,1.0,2.0,Consensus (Both),1.0
+2732549,O,Durnavirales,1.0,1.0,2.0,Consensus (Both),1.0
+2732017,G,Epseptimavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2419948,S1,Arthrobacter phage Auxilium,1.0,1.0,2.0,Consensus (Both),1.0
+2448909,S1,Escherichia phage MLF4,1.0,1.0,2.0,Consensus (Both),1.0
+2484206,S1,Microbacterium phage Goodman,1.0,1.0,2.0,Consensus (Both),1.0
+2182395,S1,Gordonia phage Easley,1.0,1.0,2.0,Consensus (Both),1.0
+2732982,G,Kisquattuordecimvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2948691,G,Efekovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2283029,S1,Dickeya phage vB_DsoM_AD1,1.0,1.0,2.0,Consensus (Both),1.0
+2283265,S2,Streptomyces phage StarPlatinum,1.0,1.0,2.0,Consensus (Both),1.0
+3044668,G,Baileybluvirus,1.0,1.0,2.0,Consensus (Both),1.0
+3044670,G,Basiliskvirus,1.0,1.0,2.0,Consensus (Both),1.0
+3044673,G,Beenievirus,1.0,1.0,2.0,Consensus (Both),1.0
+2126984,S1,Tupanvirus deep ocean,1.0,1.0,2.0,Consensus (Both),1.0
+2163633,S2,Erwinia phage Cronus,1.0,1.0,2.0,Consensus (Both),1.0
+3044778,G,Oceanusvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733092,G,Atlauavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733102,G,Derbicusvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733111,G,Llyrvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733119,G,Nerrivikvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2732686,G,Kayfunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2169927,S,Cuauhtlivirus mEpX1,1.0,1.0,2.0,Consensus (Both),1.0
+3047716,S,Rheavirus sinusmexicani,1.0,1.0,2.0,Consensus (Both),1.0
+3048334,S,Betabaculovirus spofrugiperdae,1.0,1.0,2.0,Consensus (Both),1.0
+2733156,G,Getalongvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733088,G,Alexandravirus,1.0,1.0,2.0,Consensus (Both),1.0
+3044800,G,Rheavirus,1.0,1.0,2.0,Consensus (Both),1.0
+3044803,G,Richievirus,1.0,1.0,2.0,Consensus (Both),1.0
+2053702,S1,Raoultella phage Ro1,1.0,1.0,2.0,Consensus (Both),1.0
+2060617,S1,Tetraselmis virus 1,1.0,1.0,2.0,Consensus (Both),1.0
+2070028,S1,Klebsiella phage vB_Kpn_F48,1.0,1.0,2.0,Consensus (Both),1.0
+2044561,S1,Stenotrophomonas phage vB_SmaS_DLP_5,1.0,1.0,2.0,Consensus (Both),1.0
+2047830,S1,Gordonia phage BENtherdunthat,1.0,1.0,2.0,Consensus (Both),1.0
+3050348,S,Simplexvirus saimiriinealpha1,1.0,1.0,2.0,Consensus (Both),1.0
+2733185,G,Lanavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733203,G,Raleighvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2946789,G,Alisovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2946794,G,Amginevirus,1.0,1.0,2.0,Consensus (Both),1.0
+2946805,G,Antsirabevirus,1.0,1.0,2.0,Consensus (Both),1.0
+2946806,G,Aptresvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2946823,G,Betafusarivirus,1.0,1.0,2.0,Consensus (Both),1.0
+2053672,S1,Streptomyces phage Alsaber,1.0,1.0,2.0,Consensus (Both),1.0
+3044826,G,Siaravirus,1.0,1.0,2.0,Consensus (Both),1.0
+3044840,G,Tepukevirus,1.0,1.0,2.0,Consensus (Both),1.0
+3044854,G,Wakandavirus,1.0,1.0,2.0,Consensus (Both),1.0
+1993862,S,Fromanvirus U2,1.0,1.0,2.0,Consensus (Both),1.0
+1993867,S,Fromanvirus trixie,1.0,1.0,2.0,Consensus (Both),1.0
+3052732,S,Respirovirus ratufae,1.0,1.0,2.0,Consensus (Both),1.0
+3059755,S,Baileybluvirus baileyblu,1.0,1.0,2.0,Consensus (Both),1.0
+3059766,S,Beenievirus easley,1.0,1.0,2.0,Consensus (Both),1.0
+2733222,G,Zetavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733643,S,Kayfunavirus Ro45lw,1.0,1.0,2.0,Consensus (Both),1.0
+2734065,S,Kisquattuordecimvirus KS14,1.0,1.0,2.0,Consensus (Both),1.0
+2733177,G,Gillianvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2733179,G,Goodmanvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2015807,S1,Escherichia phage ECP1,1.0,1.0,2.0,Consensus (Both),1.0
+2015879,S1,Mycobacterium phage DarthP,1.0,1.0,2.0,Consensus (Both),1.0
+3050259,S,Varicellovirus cervidalpha1,1.0,1.0,2.0,Consensus (Both),1.0
+3060432,S,Oceanusvirus kaneohense,1.0,1.0,2.0,Consensus (Both),1.0
+2734125,S,Nerrivikvirus srim2,1.0,1.0,2.0,Consensus (Both),1.0
+1983556,S1,Pseudomonas phage PspYZU05,1.0,1.0,2.0,Consensus (Both),1.0
+1983751,S,Reyvirus rey,1.0,1.0,2.0,Consensus (Both),1.0
+1984776,G,Agricanvirus,1.0,1.0,2.0,Consensus (Both),1.0
+1982560,S,Oneupvirus oneup,1.0,1.0,2.0,Consensus (Both),1.0
+1985328,G,Slopekvirus,1.0,1.0,2.0,Consensus (Both),1.0
+1985733,G,Pradovirus,1.0,1.0,2.0,Consensus (Both),1.0
+1985735,S,Pradovirus f30,1.0,1.0,2.0,Consensus (Both),1.0
+3060635,S,Pokkenvirus piffle,1.0,1.0,2.0,Consensus (Both),1.0
+3060667,S,Richievirus auxilium,1.0,1.0,2.0,Consensus (Both),1.0
+3060703,S,Siaravirus siara,1.0,1.0,2.0,Consensus (Both),1.0
+2734236,S,Gillianvirus oneinagillian,1.0,1.0,2.0,Consensus (Both),1.0
+2734238,S,Goodmanvirus goodman,1.0,1.0,2.0,Consensus (Both),1.0
+2734243,S,Lanavirus lana,1.0,1.0,2.0,Consensus (Both),1.0
+2734080,S,Alexandravirus AD1,1.0,1.0,2.0,Consensus (Both),1.0
+2734085,S,Atlauavirus tusconc8,1.0,1.0,2.0,Consensus (Both),1.0
+2734104,S,Derbicusvirus derbicus,1.0,1.0,2.0,Consensus (Both),1.0
+2734116,S,Llyrvirus SSKS1,1.0,1.0,2.0,Consensus (Both),1.0
+1920860,G,Webervirus,1.0,1.0,2.0,Consensus (Both),1.0
+2734267,S,Raleighvirus raleigh,1.0,1.0,2.0,Consensus (Both),1.0
+2734292,S,Zetavirus zeta1847,1.0,1.0,2.0,Consensus (Both),1.0
+2734387,S1,Cytorhabdovirus betawuhaninsectum,1.0,1.0,2.0,Consensus (Both),1.0
+2734199,S,Getalongvirus bentherdunthat,1.0,1.0,2.0,Consensus (Both),1.0
+3060728,S,Tepukevirus Psa21,1.0,1.0,2.0,Consensus (Both),1.0
+1980936,G,Marthavirus,1.0,1.0,2.0,Consensus (Both),1.0
+1980949,S1,Marthavirus jawnski,1.0,1.0,2.0,Consensus (Both),1.0
+3060757,S,Tupanvirus altamarinense,1.0,1.0,2.0,Consensus (Both),1.0
+307454,S1,Spodoptera frugiperda granulovirus,1.0,1.0,2.0,Consensus (Both),1.0
+1883365,S1,Synechococcus phage S-CAM22,1.0,1.0,2.0,Consensus (Both),1.0
+2942980,G,Kehishuvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2749430,S1,Pseudomonas phage Persinger,1.0,1.0,2.0,Consensus (Both),1.0
+2750851,S1,Escherichia phage vB_EcoM_Ozark,1.0,1.0,2.0,Consensus (Both),1.0
+1913653,G,Gelderlandvirus,1.0,1.0,2.0,Consensus (Both),1.0
+1914899,S,Certrevirus CR9,1.0,1.0,2.0,Consensus (Both),1.0
+1920312,S1,Streptomyces phage Raleigh,1.0,1.0,2.0,Consensus (Both),1.0
+1920762,G,Litunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+308911,G,Ravinvirus,1.0,1.0,2.0,Consensus (Both),1.0
+319522,S1,Gordonia phage GTE5,1.0,1.0,2.0,Consensus (Both),1.0
+1838064,S1,Gordonia phage BritBrat,1.0,1.0,2.0,Consensus (Both),1.0
+29252,S,Eganvirus ev186,1.0,1.0,2.0,Consensus (Both),1.0
+2767578,S1,Burkholderia phage Mana,1.0,1.0,2.0,Consensus (Both),1.0
+2767579,S1,Burkholderia phage Mica,1.0,1.0,2.0,Consensus (Both),1.0
+2772072,S1,uncultured phage cr112_1,1.0,1.0,2.0,Consensus (Both),1.0
+2772516,S1,Ruminococcus phage phiRM10,1.0,1.0,2.0,Consensus (Both),1.0
+1912318,S1,Klebsiella phage vB_Kpn_IME260,1.0,1.0,2.0,Consensus (Both),1.0
+1913572,S1,Klebsiella phage KPV15,1.0,1.0,2.0,Consensus (Both),1.0
+186938,G,Respirovirus,1.0,1.0,2.0,Consensus (Both),1.0
+1880590,S1,Tenacibaculum phage pT24,1.0,1.0,2.0,Consensus (Both),1.0
+179237,S,Sinorhizobium phage PBC5,1.0,1.0,2.0,Consensus (Both),1.0
+181084,G,Prasinovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2790336,S1,Synechococcus phage ACG-2014f_Syn7803C8,1.0,1.0,2.0,Consensus (Both),1.0
+279383,S,Keylargovirus JL001,1.0,1.0,2.0,Consensus (Both),1.0
+280702,S,Mycoplasma phage phiMFV1,1.0,1.0,2.0,Consensus (Both),1.0
+2910754,S1,Arthrobacter phage BaileyBlu,1.0,1.0,2.0,Consensus (Both),1.0
+1887651,S1,Gordonia phage Nyceirae,1.0,1.0,2.0,Consensus (Both),1.0
+3152967,G,Hafyongvirus,1.0,1.0,2.0,Consensus (Both),1.0
+3152992,G,Successvirus,1.0,1.0,2.0,Consensus (Both),1.0
+3153001,G,Aceathervirus,1.0,1.0,2.0,Consensus (Both),1.0
+3153078,G,Shangdongvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2894587,S1,Stenotrophomonas phage vB_SM_ytsc_ply2008005c,1.0,1.0,2.0,Consensus (Both),1.0
+1772327,S2,Arthrobacter phage Jawnski,1.0,1.0,2.0,Consensus (Both),1.0
+1647475,S1,Gordonia phage GTE8,1.0,1.0,2.0,Consensus (Both),1.0
+1690684,S1,Mycobacterium phage Phlei,1.0,1.0,2.0,Consensus (Both),1.0
+1815955,S,Lactococcus phage PLgT-1,1.0,1.0,2.0,Consensus (Both),1.0
+326574,S1,Haloarcula hispanica SH1 virus,1.0,1.0,2.0,Consensus (Both),1.0
+1838074,S1,Gordonia phage OneUp,1.0,1.0,2.0,Consensus (Both),1.0
+1784981,S1,Xanthomonas phage f30-Xaj,1.0,1.0,2.0,Consensus (Both),1.0
+3424890,G,Alphacytorhabdovirus,1.0,1.0,2.0,Consensus (Both),1.0
+3424972,G,Risoevirus,1.0,1.0,2.0,Consensus (Both),1.0
+3425003,G,Jawnskivirus,1.0,1.0,2.0,Consensus (Both),1.0
+3425976,S,Aceathervirus RM10,1.0,1.0,2.0,Consensus (Both),1.0
+3426122,S,Alphacytorhabdovirus betawuhaninsectum,1.0,1.0,2.0,Consensus (Both),1.0
+2842619,G,Cuauhtlivirus,1.0,1.0,2.0,Consensus (Both),1.0
+2859656,S1,Stenotrophomonas phage Piffle,1.0,1.0,2.0,Consensus (Both),1.0
+2859658,S1,Stenotrophomonas phage Siara,1.0,1.0,2.0,Consensus (Both),1.0
+2873352,S,Klebsiella phage BUCT541,1.0,1.0,2.0,Consensus (Both),1.0
+1623280,G,Charlievirus,1.0,1.0,2.0,Consensus (Both),1.0
+1623306,G,Timquatrovirus,1.0,1.0,2.0,Consensus (Both),1.0
+1555202,S1,Escherichia phage 121Q,1.0,1.0,2.0,Consensus (Both),1.0
+3426517,S,Aviadenovirus anatis,1.0,1.0,2.0,Consensus (Both),1.0
+1486427,S1,Mycobacterium phage ZoeJ,1.0,1.0,2.0,Consensus (Both),1.0
+1486473,S,Mycobacterium phage OkiRoe,1.0,1.0,2.0,Consensus (Both),1.0
+1503929,S,Aurantimonas phage AmM-1,1.0,1.0,2.0,Consensus (Both),1.0
+1513235,S1,Cafeteria roenbergensis virus,1.0,1.0,2.0,Consensus (Both),1.0
+1520006,S2,Duck adenovirus 2,1.0,1.0,2.0,Consensus (Both),1.0
+1534553,S1,Duck aviadenovirus B,1.0,1.0,2.0,Consensus (Both),1.0
+2847092,S1,giant squirrel virus,1.0,1.0,2.0,Consensus (Both),1.0
+2842888,G,Mydovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2842908,G,Nochtlivirus,1.0,1.0,2.0,Consensus (Both),1.0
+1604876,S1,Escherichia phage N15,1.0,1.0,2.0,Consensus (Both),1.0
+1608110,S2,Wuhan Insect virus 5,1.0,1.0,2.0,Consensus (Both),1.0
+1622116,S1,Pseudomonas phage ZC08,1.0,1.0,2.0,Consensus (Both),1.0
+3432166,S,Risoevirus cronus,1.0,1.0,2.0,Consensus (Both),1.0
+2843159,G,Zedzedvirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843342,G,Agmunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843352,G,Avanivirus,1.0,1.0,2.0,Consensus (Both),1.0
+2846404,S1,Streptomyces virus StarPlatinum,1.0,1.0,2.0,Consensus (Both),1.0
+2846436,S,Kungbxnavirus pT24,1.0,1.0,2.0,Consensus (Both),1.0
+2846681,S,Tequatrovirus zeen18,1.0,1.0,2.0,Consensus (Both),1.0
+3427928,S,Chlorovirus conductrix,1.0,1.0,2.0,Consensus (Both),1.0
+3428447,S,Efekovirus efeko,1.0,1.0,2.0,Consensus (Both),1.0
+1463812,S1,Mycobacterium phage Julie1,1.0,1.0,2.0,Consensus (Both),1.0
+3429141,S,Hafyongvirus yong1,1.0,1.0,2.0,Consensus (Both),1.0
+3430002,S,Jawnskivirus jawnski,1.0,1.0,2.0,Consensus (Both),1.0
+3432383,S,Shangdongvirus ply2008005c,1.0,1.0,2.0,Consensus (Both),1.0
+3432624,S,Successvirus success,1.0,1.0,2.0,Consensus (Both),1.0
+381899,S1,Paramecium bursaria Chlorella virus A1,1.0,1.0,2.0,Consensus (Both),1.0
+40631,S,Ravinvirus N15,1.0,1.0,2.0,Consensus (Both),1.0
+2843406,G,Kungbxnavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843429,G,Nesevirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843433,G,Parlovirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843434,G,Pemunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843126,G,Wanchaivirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843141,G,Wongtaivirus,1.0,1.0,2.0,Consensus (Both),1.0
+2843147,G,Yautsimvirus,1.0,1.0,2.0,Consensus (Both),1.0
+3430114,S,Karimacvirus starplatinum,1.0,1.0,2.0,Consensus (Both),1.0
+1127516,S,Pectobacterium phage ZF40,1.0,1.0,2.0,Consensus (Both),1.0
+1141136,S1,Cronobacter phage vB_CsaM_GAP32,1.0,1.0,2.0,Consensus (Both),1.0
+1147143,S1,Enterobacteria phage HK140,1.0,1.0,2.0,Consensus (Both),1.0
+2843640,S,Zedzedvirus zz1,1.0,1.0,2.0,Consensus (Both),1.0
+2843728,S,Klausavirus lymara,1.0,1.0,2.0,Consensus (Both),1.0
+2843778,S,Pemunavirus PM1,1.0,1.0,2.0,Consensus (Both),1.0
+2843882,S,Agmunavirus AGM1,1.0,1.0,2.0,Consensus (Both),1.0
+2845968,S,Zicotriavirus ZC08,1.0,1.0,2.0,Consensus (Both),1.0
+2846052,S,Mydovirus Ro1,1.0,1.0,2.0,Consensus (Both),1.0
+2846185,S,Parlovirus parlo,1.0,1.0,2.0,Consensus (Both),1.0
+42683,S2,Paramecium bursaria Chlorella virus CVA-1,1.0,1.0,2.0,Consensus (Both),1.0
+1198980,G,Pbunavirus,1.0,1.0,2.0,Consensus (Both),1.0
+754042,S1,Synechococcus phage S-SKS1,1.0,1.0,2.0,Consensus (Both),1.0
+2844216,S,Tequatrovirus ozark,1.0,1.0,2.0,Consensus (Both),1.0
+2845079,S,Marfavirus F48,1.0,1.0,2.0,Consensus (Both),1.0
+2845089,S,Pylasvirus KpCHEMY26,1.0,1.0,2.0,Consensus (Both),1.0
+2845092,S,Marfavirus marfa,1.0,1.0,2.0,Consensus (Both),1.0
+1071503,S1,Mycobacterium phage Trixie,1.0,1.0,2.0,Consensus (Both),1.0
+1049283,S1,Acinetobacter phage ZZ1,1.0,1.0,2.0,Consensus (Both),1.0
+1147150,S1,Enterobacteria phage mEp235,1.0,1.0,2.0,Consensus (Both),1.0
+1147153,S1,Escherichia phage mEpX1,1.0,1.0,2.0,Consensus (Both),1.0
+2560782,S,Delepquintavirus DLP5,1.0,1.0,2.0,Consensus (Both),1.0
+2572317,S1,Mycobacterium phage Noelle,1.0,1.0,2.0,Consensus (Both),1.0
+2575610,S1,Mycobacterium phage Antsirabe,1.0,1.0,2.0,Consensus (Both),1.0
+2955567,S,Caelumvirus issmi,1.0,1.0,2.0,Consensus (Both),1.0
+2955572,S,Camvirus alsaber,1.0,1.0,2.0,Consensus (Both),1.0
+1034115,S1,Mycobacterium phage Rey,1.0,1.0,2.0,Consensus (Both),1.0
+10353,S1,Saimiriine alphaherpesvirus 1,1.0,1.0,2.0,Consensus (Both),1.0
+79891,S1,Cervid alphaherpesvirus 1,1.0,1.0,2.0,Consensus (Both),1.0
+869662,S1,Synechococcus phage S-RIM2 R1_1999,1.0,1.0,2.0,Consensus (Both),1.0
+910475,S1,Burkholderia phage KS14,1.0,1.0,2.0,Consensus (Both),1.0
+693272,S2,Cafeteria roenbergensis virus BV-PW1,1.0,1.0,2.0,Consensus (Both),1.0
+754056,S,Rhodovulum phage RS1,0.0,2.0,2.0,MEGAHIT only,
+3152629,G,Santhisvirus,0.0,2.0,2.0,MEGAHIT only,
+3432254,S,Santhisvirus reyja,0.0,2.0,2.0,MEGAHIT only,
+2571250,S1,Gordonia phage Reyja,0.0,2.0,2.0,MEGAHIT only,
+1147152,S,Enterobacteria phage mEp460,0.0,1.0,1.0,MEGAHIT only,
+1177632,S,Salmonella phage SSU5,0.0,1.0,1.0,MEGAHIT only,
+2844179,S,Xuanwuvirus xv520873,0.0,1.0,1.0,MEGAHIT only,
+2836086,S1,Rhizobium phage RHph_X2_28B,0.0,1.0,1.0,MEGAHIT only,
+2908744,S1,Aeromonas phage pAEv1810,0.0,1.0,1.0,MEGAHIT only,
+2905963,S1,Salmonella phage ST64T,0.0,1.0,1.0,MEGAHIT only,
+2734273,S,Samwavirus samW,0.0,1.0,1.0,MEGAHIT only,
+2734251,S,Maxrubnervirus PMBT3,0.0,1.0,1.0,MEGAHIT only,
+2943002,G,Broinstvirus,0.0,1.0,1.0,MEGAHIT only,
+2734241,S,Juiceboxvirus juicebox,0.0,1.0,1.0,MEGAHIT only,
+2740182,S1,Streptomyces phage Endor2,0.0,1.0,1.0,MEGAHIT only,
+2733127,G,Rosemountvirus,0.0,1.0,1.0,MEGAHIT only,
+2948610,S1,Janthinobacterium phage vB_JliS-Donnerlittchen,0.0,1.0,1.0,MEGAHIT only,
+2733193,G,Maxrubnervirus,0.0,1.0,1.0,MEGAHIT only,
+2733182,G,Juiceboxvirus,0.0,1.0,1.0,MEGAHIT only,
+2733085,G,Xuanwuvirus,0.0,1.0,1.0,MEGAHIT only,
+2716354,S1,Escherichia phage 520873,0.0,1.0,1.0,MEGAHIT only,
+2955537,S,Broinstvirus pCB2051A,0.0,1.0,1.0,MEGAHIT only,
+2588502,S1,Corynebacterium phage Lederberg,0.0,1.0,1.0,MEGAHIT only,
+2955574,S,Camvirus endor2,0.0,1.0,1.0,MEGAHIT only,
+2560443,S,Jilinvirus ECOO78,0.0,1.0,1.0,MEGAHIT only,
+2560727,S,Gelderlandvirus melville,0.0,1.0,1.0,MEGAHIT only,
+2956092,S,Kroosvirus ribeye,0.0,1.0,1.0,MEGAHIT only,
+2419619,S1,Bacillus phage vB_BcoS-136,0.0,1.0,1.0,MEGAHIT only,
+2985324,S1,Microbacterium phage OscarSo,0.0,1.0,1.0,MEGAHIT only,
+2301600,S1,Corynebacterium phage Juicebox,0.0,1.0,1.0,MEGAHIT only,
+2250417,S1,Gordonia phage Ribeye,0.0,1.0,1.0,MEGAHIT only,
+3044744,G,Kenyattavirus,0.0,1.0,1.0,MEGAHIT only,
+3044715,G,Ferozepurvirus,0.0,1.0,1.0,MEGAHIT only,
+2059856,S1,Pseudomonas phage PMBT3,0.0,1.0,1.0,MEGAHIT only,
+3044858,G,Xoxocotlavirus,0.0,1.0,1.0,MEGAHIT only,
+2049890,S,Alphasphaerolipovirus viikkii,0.0,1.0,1.0,MEGAHIT only,
+2041413,S1,Salmonella phage Melville,0.0,1.0,1.0,MEGAHIT only,
+3050256,S,Simplexvirus cercopithecinealpha2,0.0,1.0,1.0,MEGAHIT only,
+1985725,S1,Przondovirus Kp1,0.0,1.0,1.0,MEGAHIT only,
+1985720,G,Przondovirus,0.0,1.0,1.0,MEGAHIT only,
+1985711,G,Friunavirus,0.0,1.0,1.0,MEGAHIT only,
+1984781,S,Agricanvirus specialG,0.0,1.0,1.0,MEGAHIT only,
+3059998,S,Ferozepurvirus pAEv1810,0.0,1.0,1.0,MEGAHIT only,
+3060064,S,Kenyattavirus kv136,0.0,1.0,1.0,MEGAHIT only,
+1970797,S1,Escherichia phage vB_EcoM_ECOO78,0.0,1.0,1.0,MEGAHIT only,
+1982256,S,Pahexavirus kubed,0.0,1.0,1.0,MEGAHIT only,
+1982251,G,Pahexavirus,0.0,1.0,1.0,MEGAHIT only,
+3060807,S,Xoxocotlavirus X228B,0.0,1.0,1.0,MEGAHIT only,
+3152600,G,Donnerlittchenvirus,0.0,1.0,1.0,MEGAHIT only,
+3152507,G,Bonzeevirus,0.0,1.0,1.0,MEGAHIT only,
+3152624,G,Oscarsovirus,0.0,1.0,1.0,MEGAHIT only,
+1918725,G,Jilinvirus,0.0,1.0,1.0,MEGAHIT only,
+3152994,G,Chewyvirus,0.0,1.0,1.0,MEGAHIT only,
+1887657,S1,Rhodococcus phage ChewyVIII,0.0,1.0,1.0,MEGAHIT only,
+173443,S,Lederbergvirus ST64T,0.0,1.0,1.0,MEGAHIT only,
+1718278,S,Brucella phage BiPBO1,0.0,1.0,1.0,MEGAHIT only,
+1815989,S1,Erwinia phage vB_EamM_Special G,0.0,1.0,1.0,MEGAHIT only,
+1701804,S2,Klebsiella phage vB_Kp1,0.0,1.0,1.0,MEGAHIT only,
+1655014,S1,Propionibacterium phage Kubed,0.0,1.0,1.0,MEGAHIT only,
+1735722,S1,Haloarcula californiae icosahedral virus 1,0.0,1.0,1.0,MEGAHIT only,
+1586714,S,Yellowstone lake phycodnavirus 2,0.0,1.0,1.0,MEGAHIT only,
+3428316,S,Donnerlittchenvirus donnerlittchenvirus,0.0,1.0,1.0,MEGAHIT only,
+3427903,S,Chewyvirus chewyVIII,0.0,1.0,1.0,MEGAHIT only,
+3431992,S,Przondovirus pv066024,0.0,1.0,1.0,MEGAHIT only,
+3431516,S,Oscarsovirus oscarso,0.0,1.0,1.0,MEGAHIT only,
+1161927,S,Pseudomonas phage Lu11,0.0,1.0,1.0,MEGAHIT only,
+1150991,S,Sphingomonas phage PAU,0.0,1.0,1.0,MEGAHIT only,
+491893,S,Abalone shriveling syndrome-associated virus,0.0,1.0,1.0,MEGAHIT only,
+10317,S1,Cercopithecine alphaherpesvirus 2,0.0,1.0,1.0,MEGAHIT only,
+754044,S1,Loktanella phage pCB2051-A,0.0,1.0,1.0,MEGAHIT only,
+10492,G,Ranavirus,0.0,1.0,1.0,MEGAHIT only,
+2014586,S1,Erwinia phage EtG,6.0,0.0,6.0,SPAdes only,
+2734059,S,Eganvirus EtG,6.0,0.0,6.0,SPAdes only,
+2732977,G,Citexvirus,6.0,0.0,6.0,SPAdes only,
+2948656,G,Celiavirus,5.0,0.0,5.0,SPAdes only,
+2560128,G,Eneladusvirus,5.0,0.0,5.0,SPAdes only,
+2590946,S1,Streptomyces phage Celia,5.0,0.0,5.0,SPAdes only,
+2955597,S,Celiavirus celia,5.0,0.0,5.0,SPAdes only,
+2560485,S,Betterkatzvirus betterkatz,4.0,0.0,4.0,SPAdes only,
+3050355,S,Varicellovirus suidalpha1,4.0,0.0,4.0,SPAdes only,
+10345,S1,Suid alphaherpesvirus 1,4.0,0.0,4.0,SPAdes only,
+558016,G,Alphabaculovirus,4.0,0.0,4.0,SPAdes only,
+2560101,G,Betterkatzvirus,4.0,0.0,4.0,SPAdes only,
+1821551,S1,Gordonia phage BetterKatz,4.0,0.0,4.0,SPAdes only,
+3044761,G,Megavirus,4.0,0.0,4.0,SPAdes only,
+1921407,G,Pakpunavirus,4.0,0.0,4.0,SPAdes only,
+2560849,S,Eneladusvirus Yen904,3.0,0.0,3.0,SPAdes only,
+2948917,G,Sukkupivirus,3.0,0.0,3.0,SPAdes only,
+2107707,S,Pandoravirus macleodensis,3.0,0.0,3.0,SPAdes only,
+2483611,S1,Pseudomonas phage Dobby,3.0,0.0,3.0,SPAdes only,
+2733117,G,Neptunevirus,3.0,0.0,3.0,SPAdes only,
+3044714,G,Faustvirus,3.0,0.0,3.0,SPAdes only,
+2734121,S,Neptunevirus srim18,3.0,0.0,3.0,SPAdes only,
+2169611,G,Brujitavirus,3.0,0.0,3.0,SPAdes only,
+2560109,G,Busanvirus,3.0,0.0,3.0,SPAdes only,
+2733170,G,Bridgettevirus,3.0,0.0,3.0,SPAdes only,
+2946834,G,Bosavirus,3.0,0.0,3.0,SPAdes only,
+2010329,S1,Acidovorax phage ACP17,3.0,0.0,3.0,SPAdes only,
+1720323,G,Lessievirus,3.0,0.0,3.0,SPAdes only,
+2052742,S1,Yersinia phage fHe-Yen9-04,3.0,0.0,3.0,SPAdes only,
+1777064,S,Pseudomonas phage YMC11/07/P54_PAE_BP,3.0,0.0,3.0,SPAdes only,
+2948776,G,Kablunavirus,3.0,0.0,3.0,SPAdes only,
+1983750,S,Bongovirus bongo,3.0,0.0,3.0,SPAdes only,
+2734058,S,Citexvirus dobby,3.0,0.0,3.0,SPAdes only,
+2560261,S,Busanvirus ACP17,3.0,0.0,3.0,SPAdes only,
+548689,G,Proboscivirus,2.0,0.0,2.0,SPAdes only,
+548914,S,Elephant endotheliotropic herpesvirus 4,2.0,0.0,2.0,SPAdes only,
+2844173,S,Glaedevirus gv2H10,2.0,0.0,2.0,SPAdes only,
+1195073,S,Lessievirus bcepmigl,2.0,0.0,2.0,SPAdes only,
+2560751,S,Eneladusvirus BF,2.0,0.0,2.0,SPAdes only,
+2955705,S,Citexvirus BR319A,2.0,0.0,2.0,SPAdes only,
+2560406,S,Ionavirus W14,2.0,0.0,2.0,SPAdes only,
+2560409,S,Gofduovirus GF2,2.0,0.0,2.0,SPAdes only,
+2955942,S,Gediminasvirus AchV4,2.0,0.0,2.0,SPAdes only,
+2955964,S,Gualtarvirus mp1,2.0,0.0,2.0,SPAdes only,
+2560244,G,Tulanevirus,2.0,0.0,2.0,SPAdes only,
+2955332,S,Anayavirus adonis,2.0,0.0,2.0,SPAdes only,
+2956059,S,Kimonavirus kimona,2.0,0.0,2.0,SPAdes only,
+2948828,G,Mosugukvirus,2.0,0.0,2.0,SPAdes only,
+2656541,S1,Gordonia phage Stormageddon,2.0,0.0,2.0,SPAdes only,
+2948914,G,Stormageddonvirus,2.0,0.0,2.0,SPAdes only,
+2560492,S,Eyrevirus eyre,2.0,0.0,2.0,SPAdes only,
+2956206,S,Mosugukvirus pm2,2.0,0.0,2.0,SPAdes only,
+2948784,G,Kimonavirus,2.0,0.0,2.0,SPAdes only,
+2560129,G,Eyrevirus,2.0,0.0,2.0,SPAdes only,
+2560141,G,Gofduovirus,2.0,0.0,2.0,SPAdes only,
+2560152,G,Ionavirus,2.0,0.0,2.0,SPAdes only,
+2948732,G,Gualtarvirus,2.0,0.0,2.0,SPAdes only,
+2509728,S1,Rhizobium phage RHph_I1_6,2.0,0.0,2.0,SPAdes only,
+2732094,O,Tubulavirales,2.0,0.0,2.0,SPAdes only,
+2530116,S1,Gordonia phage BrutonGaster,2.0,0.0,2.0,SPAdes only,
+2956470,S,Stormageddonvirus Stormageddon,2.0,0.0,2.0,SPAdes only,
+2315619,S1,Streptomyces phage Kromp,2.0,0.0,2.0,SPAdes only,
+2419965,S1,Arthrobacter phage Peas,2.0,0.0,2.0,SPAdes only,
+2169967,S1,Escherichia virus DE3,2.0,0.0,2.0,SPAdes only,
+2182360,S1,Gordonia phage Jace,2.0,0.0,2.0,SPAdes only,
+3044698,G,Cyvirus,2.0,0.0,2.0,SPAdes only,
+3044725,G,Grutrevirus,2.0,0.0,2.0,SPAdes only,
+3044733,G,Howevirus,2.0,0.0,2.0,SPAdes only,
+2115967,S1,Burkholderia phage vB_BmuP_KL4,2.0,0.0,2.0,SPAdes only,
+3044753,G,Magiavirus,2.0,0.0,2.0,SPAdes only,
+3044773,G,Nevillevirus,2.0,0.0,2.0,SPAdes only,
+2733097,G,Brigitvirus,2.0,0.0,2.0,SPAdes only,
+2169636,G,Nymphadoravirus,2.0,0.0,2.0,SPAdes only,
+2733145,G,Kelquatrovirus,2.0,0.0,2.0,SPAdes only,
+2733083,G,Tigrvirus,2.0,0.0,2.0,SPAdes only,
+3044824,G,Shenzhenivirus,2.0,0.0,2.0,SPAdes only,
+2070181,S1,Faecalibacterium phage FP_Brigit,2.0,0.0,2.0,SPAdes only,
+2108121,S1,Mycobacterium phage Adonis,2.0,0.0,2.0,SPAdes only,
+3050271,S,Cyvirus cyprinidallo3,2.0,0.0,2.0,SPAdes only,
+2733181,G,Jacevirus,2.0,0.0,2.0,SPAdes only,
+2946813,G,Avocadovirus,2.0,0.0,2.0,SPAdes only,
+3044830,G,Silentrexvirus,2.0,0.0,2.0,SPAdes only,
+2733589,S,Ampunavirus BpAMP1,2.0,0.0,2.0,SPAdes only,
+2024295,S1,Mycobacterium phage Kimona,2.0,0.0,2.0,SPAdes only,
+3060431,S,Nymphadoravirus thankyoujordi,2.0,0.0,2.0,SPAdes only,
+1982086,G,Laroyevirus,2.0,0.0,2.0,SPAdes only,
+2734160,S,Kelquatrovirus KL4,2.0,0.0,2.0,SPAdes only,
+3059912,S,Cyamitesvirus I16,2.0,0.0,2.0,SPAdes only,
+3059976,S,Eganvirus BIS20,2.0,0.0,2.0,SPAdes only,
+3060701,S,Shenzhenivirus sszbm1,2.0,0.0,2.0,SPAdes only,
+2734240,S,Jacevirus jace,2.0,0.0,2.0,SPAdes only,
+2734096,S,Brigitvirus brigit,2.0,0.0,2.0,SPAdes only,
+3060177,S,Magiavirus magia,2.0,0.0,2.0,SPAdes only,
+3060301,S,Megavirus chilense,2.0,0.0,2.0,SPAdes only,
+3060302,S,Megavirus powaiense,2.0,0.0,2.0,SPAdes only,
+1934252,S,Lederbergvirus BTP1,2.0,0.0,2.0,SPAdes only,
+2734263,S,Oneupvirus brutongaster,2.0,0.0,2.0,SPAdes only,
+2734226,S,Bridgettevirus peas,2.0,0.0,2.0,SPAdes only,
+3060710,S,Silentrexvirus silentrx,2.0,0.0,2.0,SPAdes only,
+1962671,S1,Serratia phage BF,2.0,0.0,2.0,SPAdes only,
+2759720,S1,Ralstonia phage Cimandef,2.0,0.0,2.0,SPAdes only,
+2943007,G,Gediminasvirus,2.0,0.0,2.0,SPAdes only,
+1918522,G,Lightbulbvirus,2.0,0.0,2.0,SPAdes only,
+2926475,S1,Synechococcus phage S-SZBM1,2.0,0.0,2.0,SPAdes only,
+2767577,S1,Burkholderia phage Magia,2.0,0.0,2.0,SPAdes only,
+2942676,O,Kirjokansivirales,2.0,0.0,2.0,SPAdes only,
+1913652,G,Mosigvirus,2.0,0.0,2.0,SPAdes only,
+186765,G,Lambdavirus,2.0,0.0,2.0,SPAdes only,
+180230,S1,Cyprinid herpesvirus 3,2.0,0.0,2.0,SPAdes only,
+2796514,S1,Achromobacter phage vB_AchrS_AchV4,2.0,0.0,2.0,SPAdes only,
+2909581,S1,Stenotrophomonas phage vB_SmaS-AXL_1,2.0,0.0,2.0,SPAdes only,
+1887646,S1,Gordonia phage Eyre,2.0,0.0,2.0,SPAdes only,
+3152997,G,Krompvirus,2.0,0.0,2.0,SPAdes only,
+2836091,S1,Arthrobacter phage SilentRX,2.0,0.0,2.0,SPAdes only,
+2886899,S1,Burkholderia phage BcepMigl,2.0,0.0,2.0,SPAdes only,
+335797,S,Burkholderia phage KS9,2.0,0.0,2.0,SPAdes only,
+1842663,S1,Powai lake megavirus,2.0,0.0,2.0,SPAdes only,
+1852628,S1,Morganella phage vB_MmoM_MP1,2.0,0.0,2.0,SPAdes only,
+2861008,S1,Salmonella phage BIS20,2.0,0.0,2.0,SPAdes only,
+1623285,G,Corndogvirus,2.0,0.0,2.0,SPAdes only,
+1537091,S1,Edwardsiella phage GF-2,2.0,0.0,2.0,SPAdes only,
+3427564,S,Bosavirus Axl1,2.0,0.0,2.0,SPAdes only,
+3430323,S,Lambdavirus DE3,2.0,0.0,2.0,SPAdes only,
+2847058,S1,Escherichia phage 2H10,2.0,0.0,2.0,SPAdes only,
+1429794,S1,Pectobacterium bacteriophage PM2,2.0,0.0,2.0,SPAdes only,
+1432428,S1,Burkholderia phage Bp-AMP1,2.0,0.0,2.0,SPAdes only,
+1269028,S1,Acanthamoeba polyphaga moumouvirus,2.0,0.0,2.0,SPAdes only,
+3430283,S,Krompvirus kromp,2.0,0.0,2.0,SPAdes only,
+1128137,S,Moumouvirus moumou,2.0,0.0,2.0,SPAdes only,
+2846040,S,Cimandefvirus cimandef,2.0,0.0,2.0,SPAdes only,
+2843387,G,Glaedevirus,2.0,0.0,2.0,SPAdes only,
+482822,S2,Escherichia phage DE3,2.0,0.0,2.0,SPAdes only,
+66284,S,Shigella phage SfII,2.0,0.0,2.0,SPAdes only,
+665032,S1,Delftia phage PhiW-14,2.0,0.0,2.0,SPAdes only,
+1094892,S1,Megavirus chiliensis,2.0,0.0,2.0,SPAdes only,
+2563525,S1,Pseudomonas phage vB_Pae_BR319a,2.0,0.0,2.0,SPAdes only,
+2571252,S1,Gordonia phage ThankyouJordi,2.0,0.0,2.0,SPAdes only,
+10509,G,Mastadenovirus,2.0,0.0,2.0,SPAdes only,
+10258,S1,Orf virus,1.0,0.0,1.0,SPAdes only,
+10298,S1,Human alphaherpesvirus 1,1.0,0.0,1.0,SPAdes only,
+1089121,S,Mycobacterium phage Dori,1.0,0.0,1.0,SPAdes only,
+1089115,S,Brujitavirus babsiella,1.0,0.0,1.0,SPAdes only,
+10861,G,Inovirus,1.0,0.0,1.0,SPAdes only,
+1076136,S,Fromanvirus perseus,1.0,0.0,1.0,SPAdes only,
+1074309,S1,Mycobacterium phage BigNuz,1.0,0.0,1.0,SPAdes only,
+675063,O,Tymovirales,1.0,0.0,1.0,SPAdes only,
+56947,S1,Choristoneura fumiferana granulovirus,1.0,0.0,1.0,SPAdes only,
+548688,G,Percavirus,1.0,0.0,1.0,SPAdes only,
+1147145,S1,Escherichia phage HK446,1.0,0.0,1.0,SPAdes only,
+1136535,S,Lessievirus DC1,1.0,0.0,1.0,SPAdes only,
+1125653,S1,Salmonella phage SPN1S,1.0,0.0,1.0,SPAdes only,
+1124578,S1,Bacillus phage phIS3501,1.0,0.0,1.0,SPAdes only,
+1195070,S,Keshuvirus macncheese,1.0,0.0,1.0,SPAdes only,
+1175663,S2,Pseudomonas phage PaMx74,1.0,0.0,1.0,SPAdes only,
+2843403,G,Konstantinevirus,1.0,0.0,1.0,SPAdes only,
+2846182,S,Muldoonvirus muldoon,1.0,0.0,1.0,SPAdes only,
+2846069,S,Aoqinvirus RD1410W101,1.0,0.0,1.0,SPAdes only,
+2846038,S,Anchaingvirus anchaing,1.0,0.0,1.0,SPAdes only,
+2845969,S,Zurivirus zuri,1.0,0.0,1.0,SPAdes only,
+2845734,S,Dragolirvirus dragolir,1.0,0.0,1.0,SPAdes only,
+2845706,S,Ollusvirus coleopteri,1.0,0.0,1.0,SPAdes only,
+2845690,S,Ravarandavirus kac68v161,1.0,0.0,1.0,SPAdes only,
+2843789,S,Camtrevirus S3501,1.0,0.0,1.0,SPAdes only,
+2843734,S,Laroyevirus wheelbite,1.0,0.0,1.0,SPAdes only,
+2843733,S,Vibakivirus vibaki,1.0,0.0,1.0,SPAdes only,
+2843724,S,Klausavirus dryang,1.0,0.0,1.0,SPAdes only,
+2843630,S,Acajnonavirus acj9,1.0,0.0,1.0,SPAdes only,
+2843471,G,Vibakivirus,1.0,0.0,1.0,SPAdes only,
+2843444,G,Ravarandavirus,1.0,0.0,1.0,SPAdes only,
+2842921,G,Ollusvirus,1.0,0.0,1.0,SPAdes only,
+2842820,G,Lazarusvirus,1.0,0.0,1.0,SPAdes only,
+2842786,G,Kaypoctavirus,1.0,0.0,1.0,SPAdes only,
+2842776,G,Jhansiroadvirus,1.0,0.0,1.0,SPAdes only,
+2842730,G,Hicfunavirus,1.0,0.0,1.0,SPAdes only,
+2849972,S1,Klebsiella phage BUCT_47333,1.0,0.0,1.0,SPAdes only,
+2849700,S1,Citrobacter phage HCF1,1.0,0.0,1.0,SPAdes only,
+2848082,S2,simian adenovirus 55,1.0,0.0,1.0,SPAdes only,
+2847059,S1,Escherichia phage 4A7,1.0,0.0,1.0,SPAdes only,
+2846602,S,Jhansiroadvirus gwaliVC1,1.0,0.0,1.0,SPAdes only,
+2846407,S1,Streptomyces virus Wofford,1.0,0.0,1.0,SPAdes only,
+2843363,G,Camtrevirus,1.0,0.0,1.0,SPAdes only,
+2843360,G,Bievrevirus,1.0,0.0,1.0,SPAdes only,
+2843162,G,Zurivirus,1.0,0.0,1.0,SPAdes only,
+2843122,G,Waedenswilvirus,1.0,0.0,1.0,SPAdes only,
+2843425,G,Muldoonvirus,1.0,0.0,1.0,SPAdes only,
+2841302,S,Tedavirus A829,1.0,0.0,1.0,SPAdes only,
+2841280,G,Tedavirus,1.0,0.0,1.0,SPAdes only,
+2883942,S1,Burkholderia phage phiE255,1.0,0.0,1.0,SPAdes only,
+2881400,S1,Burkholderia phage phi644-2,1.0,0.0,1.0,SPAdes only,
+2881398,S1,Burkholderia phage DC1,1.0,0.0,1.0,SPAdes only,
+2877946,S1,Alcaligenes phage vB_Af_QDWS595,1.0,0.0,1.0,SPAdes only,
+2874886,S,Klebsiella phage VLCpiS13b,1.0,0.0,1.0,SPAdes only,
+2871538,S1,Gordonia phage ChisanaKitsune,1.0,0.0,1.0,SPAdes only,
+2866684,S1,Shewanella phage vB_SspM_M16-3,1.0,0.0,1.0,SPAdes only,
+2842657,G,Dragolirvirus,1.0,0.0,1.0,SPAdes only,
+2842544,G,Aoqinvirus,1.0,0.0,1.0,SPAdes only,
+2842539,G,Acajnonavirus,1.0,0.0,1.0,SPAdes only,
+2843015,G,Saikungvirus,1.0,0.0,1.0,SPAdes only,
+2811091,S1,Cotonvirus japonicus,1.0,0.0,1.0,SPAdes only,
+2806547,S1,Klebsiella phage vB_KpnP_P184,1.0,0.0,1.0,SPAdes only,
+2801895,S1,Mycobacterium phage OhShagHennessy,1.0,0.0,1.0,SPAdes only,
+2794947,S1,Gordonia phage Lilbeanie,1.0,0.0,1.0,SPAdes only,
+2907833,S1,Mycobacterium phage Corndog,1.0,0.0,1.0,SPAdes only,
+2907832,S1,Mycobacterium phage Che9c,1.0,0.0,1.0,SPAdes only,
+2905945,S1,Pseudomonas phage phiKZ,1.0,0.0,1.0,SPAdes only,
+2902842,S1,Mycobacterium phage Babsiella,1.0,0.0,1.0,SPAdes only,
+2885909,S1,Bordetella phage BPP-1,1.0,0.0,1.0,SPAdes only,
+2842373,G,Anchaingvirus,1.0,0.0,1.0,SPAdes only,
+2781608,S1,Synechococcus phage S-SRM01,1.0,0.0,1.0,SPAdes only,
+2776868,S,Microbacterium phage Quenya,1.0,0.0,1.0,SPAdes only,
+2775045,S1,Mycobacterium phage phiT46-1,1.0,0.0,1.0,SPAdes only,
+2772077,S1,uncultured phage cr127_1,1.0,0.0,1.0,SPAdes only,
+2772023,S,Microbacterium phage AnnaLie,1.0,0.0,1.0,SPAdes only,
+2767587,S1,Streptomyces phage Sitrop,1.0,0.0,1.0,SPAdes only,
+2767576,S1,Streptomyces phage Salutena,1.0,0.0,1.0,SPAdes only,
+2927984,S1,Caulobacter phage CcrSwift,1.0,0.0,1.0,SPAdes only,
+2927982,S1,Mycobacterium phage MacnCheese,1.0,0.0,1.0,SPAdes only,
+2923007,S1,Mycobacterium phage Saintus,1.0,0.0,1.0,SPAdes only,
+2922996,S1,Mycobacterium phage Perseus,1.0,0.0,1.0,SPAdes only,
+2918926,S1,Yersinia phage vB_YenM_42.18,1.0,0.0,1.0,SPAdes only,
+2914172,S1,Burkholderia phage PhiBP82.2,1.0,0.0,1.0,SPAdes only,
+2914024,S1,Yersinia phage vB_YenM_324,1.0,0.0,1.0,SPAdes only,
+2836048,S1,Microbacterium phage Footloose,1.0,0.0,1.0,SPAdes only,
+2762280,S1,Gordonia phage Rabbitrun,1.0,0.0,1.0,SPAdes only,
+2759719,S1,Ralstonia phage Anchaing,1.0,0.0,1.0,SPAdes only,
+2748235,S1,Zaliv Terpeniya virus,1.0,0.0,1.0,SPAdes only,
+2747320,S,Alphapleolipovirus thailandense,1.0,0.0,1.0,SPAdes only,
+2743994,S2,Mycobacterium phage Gail,1.0,0.0,1.0,SPAdes only,
+2939131,S1,Xanthomonas phage Mallos,1.0,0.0,1.0,SPAdes only,
+2939039,S1,Salmonella phage STYP1,1.0,0.0,1.0,SPAdes only,
+2939038,S,Peduovirus STYP1,1.0,0.0,1.0,SPAdes only,
+2933796,S1,Olene mendosa nucleopolyhedrovirus,1.0,0.0,1.0,SPAdes only,
+2930315,S1,Stenotrophomonas phage A1432,1.0,0.0,1.0,SPAdes only,
+2928683,S1,Pseudomonas phage H66,1.0,0.0,1.0,SPAdes only,
+2927991,S1,Mycobacterium phage Rebeuca,1.0,0.0,1.0,SPAdes only,
+2783673,S1,Synechococcus phage S-H38,1.0,0.0,1.0,SPAdes only,
+2734594,G,Uukuvirus,1.0,0.0,1.0,SPAdes only,
+2734288,S1,Bordetella virus CN2,1.0,0.0,1.0,SPAdes only,
+2734278,S,Seussvirus seuss,1.0,0.0,1.0,SPAdes only,
+2734276,S,Schnabeltiervirus schnabeltier,1.0,0.0,1.0,SPAdes only,
+2734261,S,Neferthenavirus neferthena,1.0,0.0,1.0,SPAdes only,
+2734258,S,Montyvirus stevefrench,1.0,0.0,1.0,SPAdes only,
+2943014,G,Phobosvirus,1.0,0.0,1.0,SPAdes only,
+2767565,S1,Streptomyces phage Faust,1.0,0.0,1.0,SPAdes only,
+2763102,S1,Enterococcus phage 9183,1.0,0.0,1.0,SPAdes only,
+2762281,S1,Mycobacterium phage Aziz,1.0,0.0,1.0,SPAdes only,
+2734074,S,Simpcentumvirus Smp131,1.0,0.0,1.0,SPAdes only,
+2734064,S,Felsduovirus SEN8,1.0,0.0,1.0,SPAdes only,
+2734061,S,Entnonagintavirus ENT90,1.0,0.0,1.0,SPAdes only,
+2733950,S,Powvirus S08C41,1.0,0.0,1.0,SPAdes only,
+2733363,S,Tunggulvirus f2,1.0,0.0,1.0,SPAdes only,
+2733220,G,Vojvodinavirus,1.0,0.0,1.0,SPAdes only,
+2734237,S,Godonkavirus godonK,1.0,0.0,1.0,SPAdes only,
+2734214,S,Andrewvirus andrew,1.0,0.0,1.0,SPAdes only,
+2734194,S,Colossusvirus colossus,1.0,0.0,1.0,SPAdes only,
+2743803,S1,Flavobacterium phage vB_FspP_elemoC_14-1A,1.0,0.0,1.0,SPAdes only,
+2739834,S1,Streptomyces phage Coruscant,1.0,0.0,1.0,SPAdes only,
+2733164,G,Andrewvirus,1.0,0.0,1.0,SPAdes only,
+2733139,G,Vellamovirus,1.0,0.0,1.0,SPAdes only,
+2733128,G,Saclayvirus,1.0,0.0,1.0,SPAdes only,
+2733124,G,Phapecoctavirus,1.0,0.0,1.0,SPAdes only,
+2948640,G,Bristolvirus,1.0,0.0,1.0,SPAdes only,
+2948639,G,Bragavirus,1.0,0.0,1.0,SPAdes only,
+2946818,G,Beejeyvirus,1.0,0.0,1.0,SPAdes only,
+2946800,G,Angelvirus,1.0,0.0,1.0,SPAdes only,
+2733213,G,Seussvirus,1.0,0.0,1.0,SPAdes only,
+2733211,G,Schnabeltiervirus,1.0,0.0,1.0,SPAdes only,
+2733198,G,Neferthenavirus,1.0,0.0,1.0,SPAdes only,
+2733178,G,Godonkavirus,1.0,0.0,1.0,SPAdes only,
+2948694,G,Elemovirus,1.0,0.0,1.0,SPAdes only,
+2948690,G,Efbeekayvirus,1.0,0.0,1.0,SPAdes only,
+2948679,G,Dexdertvirus,1.0,0.0,1.0,SPAdes only,
+2948677,G,Denvervirus,1.0,0.0,1.0,SPAdes only,
+2948672,G,Dagavirus,1.0,0.0,1.0,SPAdes only,
+2948653,G,Catfishvirus,1.0,0.0,1.0,SPAdes only,
+2732980,G,Felsduovirus,1.0,0.0,1.0,SPAdes only,
+2732979,G,Entnonagintavirus,1.0,0.0,1.0,SPAdes only,
+2732973,G,Baylorvirus,1.0,0.0,1.0,SPAdes only,
+2732972,G,Aresaunavirus,1.0,0.0,1.0,SPAdes only,
+2732968,G,Schiekvirus,1.0,0.0,1.0,SPAdes only,
+2732909,G,Tunggulvirus,1.0,0.0,1.0,SPAdes only,
+2733081,G,Simpcentumvirus,1.0,0.0,1.0,SPAdes only,
+2686080,S1,Arthrobacter phage DrYang,1.0,0.0,1.0,SPAdes only,
+2948778,G,Kahucivirus,1.0,0.0,1.0,SPAdes only,
+2948775,G,Justusliebigvirus,1.0,0.0,1.0,SPAdes only,
+2948772,G,Jujuvirus,1.0,0.0,1.0,SPAdes only,
+2948765,G,Imvubuvirus,1.0,0.0,1.0,SPAdes only,
+2948757,G,Hautrevirus,1.0,0.0,1.0,SPAdes only,
+2948729,G,Greenvirus,1.0,0.0,1.0,SPAdes only,
+2731971,G,Powvirus,1.0,0.0,1.0,SPAdes only,
+2732533,O,Zurhausenvirales,1.0,0.0,1.0,SPAdes only,
+2732451,O,Haloruvirales,1.0,0.0,1.0,SPAdes only,
+2652882,S1,Gordonia phage NadineRae,1.0,0.0,1.0,SPAdes only,
+2652881,S1,Gordonia phage Mcklovin,1.0,0.0,1.0,SPAdes only,
+2652423,S1,Mycobacterium phage Marshawn,1.0,0.0,1.0,SPAdes only,
+2652422,S1,Mycobacterium phage LilMcDreamy,1.0,0.0,1.0,SPAdes only,
+2604899,S1,Pseudomonas phage Zuri,1.0,0.0,1.0,SPAdes only,
+2948847,G,Omarvirus,1.0,0.0,1.0,SPAdes only,
+2948829,G,Mycoabscvirus,1.0,0.0,1.0,SPAdes only,
+2948808,G,Lumosvirus,1.0,0.0,1.0,SPAdes only,
+2948802,G,Lilmcdreamyvirus,1.0,0.0,1.0,SPAdes only,
+2948801,G,Lilbeanievirus,1.0,0.0,1.0,SPAdes only,
+2948800,G,Leonardvirus,1.0,0.0,1.0,SPAdes only,
+273133,S1,Pseudomonas phage EL,1.0,0.0,1.0,SPAdes only,
+2723773,S1,Agrobacterium phage OLIVR5,1.0,0.0,1.0,SPAdes only,
+2711179,S1,Pseudomonas phage MR15,1.0,0.0,1.0,SPAdes only,
+2686233,S1,Mycobacterium phage Imvubu,1.0,0.0,1.0,SPAdes only,
+2599866,S1,Mycobacterium phage IdentityCrisis,1.0,0.0,1.0,SPAdes only,
+2948935,G,Tsukubavirus,1.0,0.0,1.0,SPAdes only,
+2948925,G,Thonkovirus,1.0,0.0,1.0,SPAdes only,
+2948891,G,Samsavirus,1.0,0.0,1.0,SPAdes only,
+2948890,G,Salutenavirus,1.0,0.0,1.0,SPAdes only,
+2948887,G,Saguarovirus,1.0,0.0,1.0,SPAdes only,
+2948884,G,Rosariovirus,1.0,0.0,1.0,SPAdes only,
+2948880,G,Retbasiphovirus,1.0,0.0,1.0,SPAdes only,
+2678601,S1,Erwinia phage Hena1,1.0,0.0,1.0,SPAdes only,
+2662277,S1,Escherichia phage ES17,1.0,0.0,1.0,SPAdes only,
+2660689,S1,Pseudomonas phage vB_Pae-SS2019XII,1.0,0.0,1.0,SPAdes only,
+2656551,S1,Microbacterium phage Megan,1.0,0.0,1.0,SPAdes only,
+2656540,S1,Gordonia phage MelBins,1.0,0.0,1.0,SPAdes only,
+2653747,S1,Gordonia phage Sukkupi,1.0,0.0,1.0,SPAdes only,
+2653507,S,Hicfunavirus HCF1,1.0,0.0,1.0,SPAdes only,
+2653271,S1,Gordonia phage Sixama,1.0,0.0,1.0,SPAdes only,
+2575612,S1,Mycobacterium phage Mercurio,1.0,0.0,1.0,SPAdes only,
+2955352,S,Anayavirus yuna,1.0,0.0,1.0,SPAdes only,
+2955344,S,Anayavirus marshawn,1.0,0.0,1.0,SPAdes only,
+2955340,S,Anayavirus kisi,1.0,0.0,1.0,SPAdes only,
+2955317,S,Alphasphaerolipovirus pinkense,1.0,0.0,1.0,SPAdes only,
+2955229,S,Acadianvirus serendipitous,1.0,0.0,1.0,SPAdes only,
+2948963,G,Zitchvirus,1.0,0.0,1.0,SPAdes only,
+2948960,G,Yosifvirus,1.0,0.0,1.0,SPAdes only,
+2604330,S1,Southern Psittacara leucophthalmus aviadenovirus,1.0,0.0,1.0,SPAdes only,
+2601678,S1,Serratia phage Muldoon,1.0,0.0,1.0,SPAdes only,
+2601610,S1,Mycobacterium phage Weirdo19,1.0,0.0,1.0,SPAdes only,
+2599888,S1,Streptomyces phage Alvy,1.0,0.0,1.0,SPAdes only,
+2599885,S1,Mycobacterium phage Yuna,1.0,0.0,1.0,SPAdes only,
+2599884,S1,Mycobacterium phage Xula,1.0,0.0,1.0,SPAdes only,
+2599870,S1,Mycobacterium phage MalagasyRose,1.0,0.0,1.0,SPAdes only,
+2562192,S1,Gordonia phage GodonK,1.0,0.0,1.0,SPAdes only,
+2560761,S,Tequatrovirus sf24,1.0,0.0,1.0,SPAdes only,
+2955546,S,Brujitavirus xula,1.0,0.0,1.0,SPAdes only,
+2955543,S,Bronvirus ohshaghennessy,1.0,0.0,1.0,SPAdes only,
+2955536,S,Bristolvirus rhodeisland,1.0,0.0,1.0,SPAdes only,
+2955413,S1,Beejeyvirus BJ1,1.0,0.0,1.0,SPAdes only,
+2955392,S,Avocadovirus flagstaff,1.0,0.0,1.0,SPAdes only,
+2955390,S,Avocadovirus avocado,1.0,0.0,1.0,SPAdes only,
+2955388,S,Aviadenovirus leucophthalmi,1.0,0.0,1.0,SPAdes only,
+2955378,S,Arequatrovirus paedore,1.0,0.0,1.0,SPAdes only,
+2955358,S,Angelvirus px29,1.0,0.0,1.0,SPAdes only,
+2593333,S1,Arthrobacter phage Vibaki,1.0,0.0,1.0,SPAdes only,
+2591212,S1,Gordonia phage Zipp,1.0,0.0,1.0,SPAdes only,
+2591204,S1,Corynebacterium phage StAB,1.0,0.0,1.0,SPAdes only,
+2560706,S,Weaselvirus weasel,1.0,0.0,1.0,SPAdes only,
+2560629,S,Peatvirus peat2,1.0,0.0,1.0,SPAdes only,
+2560608,S1,Mycobacterium virus Tortellini,1.0,0.0,1.0,SPAdes only,
+2560599,S1,Monodontid alphaherpesvirus 1,1.0,0.0,1.0,SPAdes only,
+2560569,S1,macacine gammaherpesvirus 10,1.0,0.0,1.0,SPAdes only,
+2560514,S1,Gordonia virus Yvonnetastic,1.0,0.0,1.0,SPAdes only,
+2955750,S,Denvervirus dv9183,1.0,0.0,1.0,SPAdes only,
+2955736,S,Dagavirus ST13OXA48phi121,1.0,0.0,1.0,SPAdes only,
+2955723,S,Corndogvirus catdawg,1.0,0.0,1.0,SPAdes only,
+2955631,S,Cheoctovirus eleanorgeorge,1.0,0.0,1.0,SPAdes only,
+2955592,S,Catfishvirus catfish,1.0,0.0,1.0,SPAdes only,
+2955577,S,Camvirus sitrop,1.0,0.0,1.0,SPAdes only,
+2955564,S,Caelumvirus alvy,1.0,0.0,1.0,SPAdes only,
+2570911,S1,Streptomyces phage ZL12,1.0,0.0,1.0,SPAdes only,
+2560250,G,Vieuvirus,1.0,0.0,1.0,SPAdes only,
+2560245,G,Unahavirus,1.0,0.0,1.0,SPAdes only,
+2956011,S,Jiaodavirus kp179,1.0,0.0,1.0,SPAdes only,
+2955990,S,Imvubuvirus imvubu,1.0,0.0,1.0,SPAdes only,
+2955958,S,Greenvirus ssm4,1.0,0.0,1.0,SPAdes only,
+2955850,S,Elemovirus elemoC,1.0,0.0,1.0,SPAdes only,
+2955844,S,Efbeekayvirus P184,1.0,0.0,1.0,SPAdes only,
+2955755,S,Dexdertvirus tiamoceli,1.0,0.0,1.0,SPAdes only,
+2560501,S,Gustavvirus gustav,1.0,0.0,1.0,SPAdes only,
+2560499,S,Ghobesvirus ghobes,1.0,0.0,1.0,SPAdes only,
+2560486,S,Wilnyevirus billnye,1.0,0.0,1.0,SPAdes only,
+2560435,S,Risingsunvirus risingsun,1.0,0.0,1.0,SPAdes only,
+2560422,S,Schiekvirus EFDG1,1.0,0.0,1.0,SPAdes only,
+2560407,S,Nanhaivirus D5C,1.0,0.0,1.0,SPAdes only,
+2560183,G,Nanhaivirus,1.0,0.0,1.0,SPAdes only,
+2956123,S,Lilmcdreamyvirus lilmcdreamy,1.0,0.0,1.0,SPAdes only,
+2956122,S,Lilbeanievirus lilbeanie,1.0,0.0,1.0,SPAdes only,
+2956116,S,Liefievirus taheera,1.0,0.0,1.0,SPAdes only,
+2956112,S,Leonardvirus melbins,1.0,0.0,1.0,SPAdes only,
+2956089,S,Kroosvirus gaea,1.0,0.0,1.0,SPAdes only,
+2956048,S,Kahucivirus intestinalis,1.0,0.0,1.0,SPAdes only,
+2956026,S,Jolieduovirus mercurio,1.0,0.0,1.0,SPAdes only,
+2956013,S,Jiaodavirus kpv477,1.0,0.0,1.0,SPAdes only,
+2560395,S1,Corynebacterium virus P1201,1.0,0.0,1.0,SPAdes only,
+2560297,S,Aqualcavirus P14,1.0,0.0,1.0,SPAdes only,
+2560257,G,Yvonnevirus,1.0,0.0,1.0,SPAdes only,
+2560255,G,Wilnyevirus,1.0,0.0,1.0,SPAdes only,
+2560253,G,Weaselvirus,1.0,0.0,1.0,SPAdes only,
+2560251,G,Vividuovirus,1.0,0.0,1.0,SPAdes only,
+2560144,G,Gustavvirus,1.0,0.0,1.0,SPAdes only,
+2560140,G,Ghobesvirus,1.0,0.0,1.0,SPAdes only,
+2560115,G,Chunghsingvirus,1.0,0.0,1.0,SPAdes only,
+2956396,S1,Samsavirus HCTV2,1.0,0.0,1.0,SPAdes only,
+2956389,S,Salutenavirus salutena,1.0,0.0,1.0,SPAdes only,
+2956386,S,Saguarovirus saguaro,1.0,0.0,1.0,SPAdes only,
+2956376,S,Rosariovirus Weirdo19ES,1.0,0.0,1.0,SPAdes only,
+2956365,S,Reyvirus aziz,1.0,0.0,1.0,SPAdes only,
+2956364,S1,Retbasiphovirus HFTV1,1.0,0.0,1.0,SPAdes only,
+2956315,S,Phobosvirus PspYZU01,1.0,0.0,1.0,SPAdes only,
+2956208,S,Mycoabscvirus phiT46-1,1.0,0.0,1.0,SPAdes only,
+2956132,S1,Lucadorvirus gail,1.0,0.0,1.0,SPAdes only,
+2560240,G,Tortellinivirus,1.0,0.0,1.0,SPAdes only,
+2560216,G,Risingsunvirus,1.0,0.0,1.0,SPAdes only,
+2560201,G,Peatvirus,1.0,0.0,1.0,SPAdes only,
+2560189,G,Novosibvirus,1.0,0.0,1.0,SPAdes only,
+2507575,S2,Haloferax tailed virus 1,1.0,0.0,1.0,SPAdes only,
+2500789,S1,Gordonia phage Mutzi,1.0,0.0,1.0,SPAdes only,
+2499407,O,Jingchuvirales,1.0,0.0,1.0,SPAdes only,
+2956707,S,Yosifvirus yosif,1.0,0.0,1.0,SPAdes only,
+2956689,S,Wizardvirus mutzi,1.0,0.0,1.0,SPAdes only,
+2956638,S,Veracruzvirus babyboy,1.0,0.0,1.0,SPAdes only,
+2956562,S,Tulanevirus 60ahydrpp,1.0,0.0,1.0,SPAdes only,
+2956560,S,Tsukubavirus XPV1,1.0,0.0,1.0,SPAdes only,
+2956529,S,Thonkovirus thonko,1.0,0.0,1.0,SPAdes only,
+2956477,S,Sukkupivirus sukkupi,1.0,0.0,1.0,SPAdes only,
+2956476,S,Sukkupivirus nadinerae,1.0,0.0,1.0,SPAdes only,
+2560093,G,Aqualcavirus,1.0,0.0,1.0,SPAdes only,
+2560086,G,Alcyoneusvirus,1.0,0.0,1.0,SPAdes only,
+2557582,S1,Nodularia phage vB_NspS-kac68v161,1.0,0.0,1.0,SPAdes only,
+253702,S1,Opuntia virus X,1.0,0.0,1.0,SPAdes only,
+2419682,S1,Klebsiella phage Pylas,1.0,0.0,1.0,SPAdes only,
+3035369,S1,Gordonia phage Azira,1.0,0.0,1.0,SPAdes only,
+2994057,S1,Mycobacterium phage I3,1.0,0.0,1.0,SPAdes only,
+2992928,S1,Microbacterium phage Paschalis,1.0,0.0,1.0,SPAdes only,
+2992578,S1,Yersinia phage L-413C,1.0,0.0,1.0,SPAdes only,
+2991867,S1,Ralstonia phage RsoM1USA,1.0,0.0,1.0,SPAdes only,
+2956712,S,Zitchvirus zipp,1.0,0.0,1.0,SPAdes only,
+2510508,S1,Gordonia phage Tiamoceli,1.0,0.0,1.0,SPAdes only,
+2510464,S1,Klebsiella phage ST13-OXA48phi12.1,1.0,0.0,1.0,SPAdes only,
+2509764,S1,Rhizobium phage RHph_TM30,1.0,0.0,1.0,SPAdes only,
+2507856,S1,Mycobacterium phage KiSi,1.0,0.0,1.0,SPAdes only,
+2315616,S1,Mycobacterium phage Saguaro,1.0,0.0,1.0,SPAdes only,
+2301619,S1,Mycobacterium phage Serendipitous,1.0,0.0,1.0,SPAdes only,
+2301563,S1,Mycobacterium phage EleanorGeorge,1.0,0.0,1.0,SPAdes only,
+2301539,S1,Microbacterium phage Neferthena,1.0,0.0,1.0,SPAdes only,
+2301538,S1,Gordonia phage Catfish,1.0,0.0,1.0,SPAdes only,
+2483669,S1,Gordonia phage Gaea,1.0,0.0,1.0,SPAdes only,
+2419957,S1,Arthrobacter phage Faja,1.0,0.0,1.0,SPAdes only,
+2419952,S1,Arthrobacter phage Corgi,1.0,0.0,1.0,SPAdes only,
+2419946,S1,Arthrobacter phage Andrew,1.0,0.0,1.0,SPAdes only,
+2169879,S,Dyokappapapillomavirus 4,1.0,0.0,1.0,SPAdes only,
+2169730,S1,Baxtervirus baxterfox,1.0,0.0,1.0,SPAdes only,
+3044693,G,Cotonvirus,1.0,0.0,1.0,SPAdes only,
+3044692,G,Coruscantvirus,1.0,0.0,1.0,SPAdes only,
+3044687,G,Chidieberevirus,1.0,0.0,1.0,SPAdes only,
+3044672,G,Baxterfoxvirus,1.0,0.0,1.0,SPAdes only,
+3044663,G,Arvduovirus,1.0,0.0,1.0,SPAdes only,
+3044662,G,Arsenicumvirus,1.0,0.0,1.0,SPAdes only,
+2283267,S2,Streptomyces phage Wofford,1.0,0.0,1.0,SPAdes only,
+2282910,S1,Mycobacterium phage Thonko,1.0,0.0,1.0,SPAdes only,
+227940,S,Peduovirus L413C,1.0,0.0,1.0,SPAdes only,
+221029,S,Enterobacteria phage ST104,1.0,0.0,1.0,SPAdes only,
+2201421,S1,Streptomyces phage Yosif,1.0,0.0,1.0,SPAdes only,
+2315700,S1,Klebsiella phage KP179,1.0,0.0,1.0,SPAdes only,
+2169532,G,Agtrevirus,1.0,0.0,1.0,SPAdes only,
+2163979,S1,Aeromonas phage 60AhydR15PP,1.0,0.0,1.0,SPAdes only,
+3044747,G,Kratosvirus,1.0,0.0,1.0,SPAdes only,
+3044730,G,Heverleevirus,1.0,0.0,1.0,SPAdes only,
+3044716,G,Firavirus,1.0,0.0,1.0,SPAdes only,
+3044713,G,Fajavirus,1.0,0.0,1.0,SPAdes only,
+3044712,G,Ericdabvirus,1.0,0.0,1.0,SPAdes only,
+3044699,G,Dalianvirus,1.0,0.0,1.0,SPAdes only,
+2182400,S,Quhwahvirus paschalis,1.0,0.0,1.0,SPAdes only,
+2170002,S1,Simian mastadenovirus I,1.0,0.0,1.0,SPAdes only,
+2169921,S,Kwaitsingvirus HK446,1.0,0.0,1.0,SPAdes only,
+2169882,S,Erskinevirus asesino,1.0,0.0,1.0,SPAdes only,
+2079281,S1,Gordonia phage SteveFrench,1.0,0.0,1.0,SPAdes only,
+2079257,S,Aresaunavirus RsoM1USA,1.0,0.0,1.0,SPAdes only,
+2070190,S1,Paenibacillus phage Dragolir,1.0,0.0,1.0,SPAdes only,
+2059867,S1,Vibrio phage Vp_R1,1.0,0.0,1.0,SPAdes only,
+205880,S1,Mycobacterium phage Barnyard,1.0,0.0,1.0,SPAdes only,
+205875,S,Corndogvirus corndog,1.0,0.0,1.0,SPAdes only,
+205872,S,Chenonavirus Che9c,1.0,0.0,1.0,SPAdes only,
+3044820,G,Serangoonvirus,1.0,0.0,1.0,SPAdes only,
+3044789,G,Petruschkyvirus,1.0,0.0,1.0,SPAdes only,
+3044770,G,Namazuvirus,1.0,0.0,1.0,SPAdes only,
+2108134,S1,Streptomyces phage Paedore,1.0,0.0,1.0,SPAdes only,
+2099860,S1,Xanthomonas phage XPV1,1.0,0.0,1.0,SPAdes only,
+2099850,S1,Klebsiella phage KP8,1.0,0.0,1.0,SPAdes only,
+2169704,S,Anatolevirus anatole,1.0,0.0,1.0,SPAdes only,
+2169651,G,Anatolevirus,1.0,0.0,1.0,SPAdes only,
+2015873,S1,Arthrobacter phage Wheelbite,1.0,0.0,1.0,SPAdes only,
+3050138,S,Simplexvirus atelinealpha1,1.0,0.0,1.0,SPAdes only,
+3047366,S,Alphabaculovirus anpernyi,1.0,0.0,1.0,SPAdes only,
+3047352,S,Alphabaculovirus agipsilonis,1.0,0.0,1.0,SPAdes only,
+3044861,G,Yellowseavirus,1.0,0.0,1.0,SPAdes only,
+3044847,G,Tresduoquattuorvirus,1.0,0.0,1.0,SPAdes only,
+3044832,G,Skulduggeryvirus,1.0,0.0,1.0,SPAdes only,
+3044831,G,Sixamavirus,1.0,0.0,1.0,SPAdes only,
+2053078,S1,Pectobacterium phage PEAT2,1.0,0.0,1.0,SPAdes only,
+2047872,S1,Gordonia phage Gustav,1.0,0.0,1.0,SPAdes only,
+2026080,S1,Erwinia phage vB_EamM_RisingSun,1.0,0.0,1.0,SPAdes only,
+208013,S1,Agrotis ipsilon multiple nucleopolyhedrovirus,1.0,0.0,1.0,SPAdes only,
+2079426,S1,Streptomyces phage BillNye,1.0,0.0,1.0,SPAdes only,
+1985693,S,Sripuvirus almpiwar,1.0,0.0,1.0,SPAdes only,
+1985692,G,Sripuvirus,1.0,0.0,1.0,SPAdes only,
+3051997,S,Betabaculovirus chofumiferanae,1.0,0.0,1.0,SPAdes only,
+3050336,S,Simplexvirus papiinealpha2,1.0,0.0,1.0,SPAdes only,
+3050322,S,Varicellovirus monodontidalpha1,1.0,0.0,1.0,SPAdes only,
+3050315,S,Rhadinovirus macacinegamma5,1.0,0.0,1.0,SPAdes only,
+3050311,S,Lymphocryptovirus macacinegamma10,1.0,0.0,1.0,SPAdes only,
+3050305,S,Simplexvirus macacinealpha1,1.0,0.0,1.0,SPAdes only,
+3050292,S,Simplexvirus humanalpha1,1.0,0.0,1.0,SPAdes only,
+3050281,S,Percavirus equidgamma2,1.0,0.0,1.0,SPAdes only,
+3050260,S,Varicellovirus cervidalpha2,1.0,0.0,1.0,SPAdes only,
+2024309,S1,Shigella phage Sf24,1.0,0.0,1.0,SPAdes only,
+2024302,S1,Mycobacterium phage Avocado,1.0,0.0,1.0,SPAdes only,
+3059904,S,Cotonvirus japonicum,1.0,0.0,1.0,SPAdes only,
+3059903,S,Coruscantvirus coruscant,1.0,0.0,1.0,SPAdes only,
+3059874,S,Chidieberevirus chisanakitsune,1.0,0.0,1.0,SPAdes only,
+3059844,S,Casadabanvirus JD024,1.0,0.0,1.0,SPAdes only,
+3059739,S,Arvduovirus ArV2,1.0,0.0,1.0,SPAdes only,
+3059738,S,Arsenicumvirus M163,1.0,0.0,1.0,SPAdes only,
+3059714,S,Alphabaculovirus olmendosae,1.0,0.0,1.0,SPAdes only,
+3052809,S,Uukuvirus tyulenyense,1.0,0.0,1.0,SPAdes only,
+3052245,S,Heverleevirus OLIVR5,1.0,0.0,1.0,SPAdes only,
+2006671,S1,Pseudomonas phage Skulduggery,1.0,0.0,1.0,SPAdes only,
+2006137,S,Bixzunavirus I3,1.0,0.0,1.0,SPAdes only,
+2006134,S,Bixzunavirus Bxz1,1.0,0.0,1.0,SPAdes only,
+1987123,S1,Hepatovirus B,1.0,0.0,1.0,SPAdes only,
+1984787,S,Elvirus EL,1.0,0.0,1.0,SPAdes only,
+1984786,G,Elvirus,1.0,0.0,1.0,SPAdes only,
+1983736,S,Bignuzvirus bignuz,1.0,0.0,1.0,SPAdes only,
+1983555,S1,Pseudomonas phage PspYZU01,1.0,0.0,1.0,SPAdes only,
+1983118,S,Coopervirus nigel,1.0,0.0,1.0,SPAdes only,
+1983110,S,Coopervirus vincenzo,1.0,0.0,1.0,SPAdes only,
+3060026,S,Grutrevirus GRU3,1.0,0.0,1.0,SPAdes only,
+3060025,S,Grutrevirus GMA5,1.0,0.0,1.0,SPAdes only,
+3060000,S,Firavirus YenM4218,1.0,0.0,1.0,SPAdes only,
+3059994,S,Faustvirus faust,1.0,0.0,1.0,SPAdes only,
+3059993,S,Fajavirus faja,1.0,0.0,1.0,SPAdes only,
+3059992,S,Ericdabvirus ericdab,1.0,0.0,1.0,SPAdes only,
+3059961,S,Dalianvirus R1,1.0,0.0,1.0,SPAdes only,
+3059910,S,Cuauhnahuacvirus TM30,1.0,0.0,1.0,SPAdes only,
+1982076,G,Korravirus,1.0,0.0,1.0,SPAdes only,
+3060414,S,Nevillevirus rabbitrun,1.0,0.0,1.0,SPAdes only,
+3060404,S,Namazuvirus POI1126,1.0,0.0,1.0,SPAdes only,
+3060077,S,Kuravirus ES17,1.0,0.0,1.0,SPAdes only,
+3060070,S,Kratosvirus quantuckense,1.0,0.0,1.0,SPAdes only,
+3060039,S,Howevirus mcklovin,1.0,0.0,1.0,SPAdes only,
+3060038,S,Howevirus howe,1.0,0.0,1.0,SPAdes only,
+1982897,G,Acadianvirus,1.0,0.0,1.0,SPAdes only,
+1982895,S,Hautrevirus hau3,1.0,0.0,1.0,SPAdes only,
+1982892,S,Likavirus zemlya,1.0,0.0,1.0,SPAdes only,
+1982881,G,Arequatrovirus,1.0,0.0,1.0,SPAdes only,
+1982745,G,Woodruffvirus,1.0,0.0,1.0,SPAdes only,
+1982581,S,Uetakevirus SPN1S,1.0,0.0,1.0,SPAdes only,
+1982561,S,Smoothievirus smoothie,1.0,0.0,1.0,SPAdes only,
+1985181,G,Tsarbombavirus,1.0,0.0,1.0,SPAdes only,
+1981049,S1,Pseudomonas virus MP1412,1.0,0.0,1.0,SPAdes only,
+1978922,S1,Aeromonas phage phiA8-29,1.0,0.0,1.0,SPAdes only,
+1977402,S,Inovirus M13,1.0,0.0,1.0,SPAdes only,
+1965368,S1,Dinoroseobacter phage vB_DshS-R5C,1.0,0.0,1.0,SPAdes only,
+3060742,S,Tigrvirus BP822,1.0,0.0,1.0,SPAdes only,
+3060714,S,Skulduggeryvirus skulduggery,1.0,0.0,1.0,SPAdes only,
+3060713,S,Sixamavirus sixama,1.0,0.0,1.0,SPAdes only,
+3060712,S,Simplexvirus pteropodidalpha2,1.0,0.0,1.0,SPAdes only,
+3060697,S,Serangoonvirus essarone,1.0,0.0,1.0,SPAdes only,
+3060549,S,Petruschkyvirus QDWS595,1.0,0.0,1.0,SPAdes only,
+1982363,S,Barnyardvirus barnyard,1.0,0.0,1.0,SPAdes only,
+1982358,S1,Pamexvirus PaMx74,1.0,0.0,1.0,SPAdes only,
+1982239,G,Nipunavirus,1.0,0.0,1.0,SPAdes only,
+194699,S,Rauchvirus BPP1,1.0,0.0,1.0,SPAdes only,
+1932118,S1,Ochrobactrum phage POI1126,1.0,0.0,1.0,SPAdes only,
+1927013,S1,Aquamicrobium phage P14,1.0,0.0,1.0,SPAdes only,
+1923695,S,Wuhan coneheads virus 1,1.0,0.0,1.0,SPAdes only,
+1922862,S1,Hubei coleoptera virus 3,1.0,0.0,1.0,SPAdes only,
+1922328,S,Wphvirus WPh,1.0,0.0,1.0,SPAdes only,
+1922327,G,Wphvirus,1.0,0.0,1.0,SPAdes only,
+1921704,G,Tegunavirus,1.0,0.0,1.0,SPAdes only,
+1921530,S,Tulanevirus aes12,1.0,0.0,1.0,SPAdes only,
+3118716,S1,pteropodid alphaherpesvirus 2,1.0,0.0,1.0,SPAdes only,
+3080760,S,Moumouvirus goulettemassiliense,1.0,0.0,1.0,SPAdes only,
+3070616,S1,Gordonia phage EricDab,1.0,0.0,1.0,SPAdes only,
+3060818,S,Yellowseavirus thirtyeight,1.0,0.0,1.0,SPAdes only,
+3060747,S,Tresduoquattuorvirus YenM324,1.0,0.0,1.0,SPAdes only,
+1918718,G,Cbastvirus,1.0,0.0,1.0,SPAdes only,
+1917990,G,Bequatrovirus,1.0,0.0,1.0,SPAdes only,
+1916124,S2,Bordetella phage CN2,1.0,0.0,1.0,SPAdes only,
+1914165,G,Dhakavirus,1.0,0.0,1.0,SPAdes only,
+1914161,S,Mosigvirus RB69,1.0,0.0,1.0,SPAdes only,
+1914160,S,Mosigvirus JS09,1.0,0.0,1.0,SPAdes only,
+1913655,S,Karamvirus pg7,1.0,0.0,1.0,SPAdes only,
+3152602,G,Ghuizhouvirus,1.0,0.0,1.0,SPAdes only,
+3152598,G,Cinvestavvirus,1.0,0.0,1.0,SPAdes only,
+3152509,G,Ignaciovirus,1.0,0.0,1.0,SPAdes only,
+1962299,S1,Simian mastadenovirus B,1.0,0.0,1.0,SPAdes only,
+1897531,S1,Propionibacterium phage Anatole,1.0,0.0,1.0,SPAdes only,
+1897497,S2,Mycobacterium phage Tortellini,1.0,0.0,1.0,SPAdes only,
+1897486,S1,Mycobacterium phage BabyRay,1.0,0.0,1.0,SPAdes only,
+3152965,G,Footloosevirus,1.0,0.0,1.0,SPAdes only,
+3152964,G,Aziravirus,1.0,0.0,1.0,SPAdes only,
+3152962,G,Meganvirus,1.0,0.0,1.0,SPAdes only,
+3152914,G,Zewailvirus,1.0,0.0,1.0,SPAdes only,
+3152912,G,Ringroadvirus,1.0,0.0,1.0,SPAdes only,
+3152899,G,Mechnikovvirus,1.0,0.0,1.0,SPAdes only,
+3152699,G,Corgivirus,1.0,0.0,1.0,SPAdes only,
+3152626,G,Readingvirus,1.0,0.0,1.0,SPAdes only,
+3152615,G,Bugaksanvirus,1.0,0.0,1.0,SPAdes only,
+3152603,G,Mallosvirus,1.0,0.0,1.0,SPAdes only,
+1918720,S,Cbastvirus ST,1.0,0.0,1.0,SPAdes only,
+1815984,S1,Roseobacter phage RD-1410W1-01,1.0,0.0,1.0,SPAdes only,
+318843,S1,Almpiwar virus,1.0,0.0,1.0,SPAdes only,
+3153080,G,Malagasyrosevirus,1.0,0.0,1.0,SPAdes only,
+3152990,G,Losannavirus,1.0,0.0,1.0,SPAdes only,
+3152970,G,Identitycrisisvirus,1.0,0.0,1.0,SPAdes only,
+3152966,G,Fuzanglongvirus,1.0,0.0,1.0,SPAdes only,
+1897437,S1,Rhodococcus phage Weasels2,1.0,0.0,1.0,SPAdes only,
+1887647,S1,Gordonia phage Ghobes,1.0,0.0,1.0,SPAdes only,
+1887216,S1,Bos taurus papillomavirus 18,1.0,0.0,1.0,SPAdes only,
+1883370,S1,Erwinia phage vB_EamM_Asesino,1.0,0.0,1.0,SPAdes only,
+1868596,S,Pseudomonas phage MD8,1.0,0.0,1.0,SPAdes only,
+1911604,G,Alphapleolipovirus,1.0,0.0,1.0,SPAdes only,
+1897549,S1,Mycobacterium phage Taheera,1.0,0.0,1.0,SPAdes only,
+1718171,S,Mycobacterium phage Pari,1.0,0.0,1.0,SPAdes only,
+1708572,S2,hepatovirus B1,1.0,0.0,1.0,SPAdes only,
+340907,S1,Papiine alphaherpesvirus 2,1.0,0.0,1.0,SPAdes only,
+3241429,S,Mastadenovirus longumcaudae,1.0,0.0,1.0,SPAdes only,
+3241427,S,Mastadenovirus flavi,1.0,0.0,1.0,SPAdes only,
+1777061,S1,Gordonia phage Howe,1.0,0.0,1.0,SPAdes only,
+1852625,S1,Klebsiella phage vB_KpnM_KpV477,1.0,0.0,1.0,SPAdes only,
+1838078,S1,Gordonia phage Smoothie,1.0,0.0,1.0,SPAdes only,
+1821566,S2,Gordonia phage Yvonnetastic,1.0,0.0,1.0,SPAdes only,
+1821563,S,Gordonia phage UmaThurman,1.0,0.0,1.0,SPAdes only,
+1821561,S1,Gordonia phage Schnabeltier,1.0,0.0,1.0,SPAdes only,
+1821549,S2,Gordonia phage BaxterFox,1.0,0.0,1.0,SPAdes only,
+1647304,S1,Mycobacterium phage FlagStaff,1.0,0.0,1.0,SPAdes only,
+1647301,S1,Mycobacterium phage Vincenzo,1.0,0.0,1.0,SPAdes only,
+1623282,G,Chenonavirus,1.0,0.0,1.0,SPAdes only,
+169683,S,Phikzvirus phiKZ,1.0,0.0,1.0,SPAdes only,
+1675601,S1,Caulobacter phage Seuss,1.0,0.0,1.0,SPAdes only,
+1647473,S1,Gordonia phage GRU3,1.0,0.0,1.0,SPAdes only,
+1647472,S1,Gordonia phage GMA5,1.0,0.0,1.0,SPAdes only,
+1647468,S1,Salmonella phage SEN8,1.0,0.0,1.0,SPAdes only,
+1775140,S,Bacillus phage vB_BhaS-171,1.0,0.0,1.0,SPAdes only,
+1755689,S1,Pseudomonas phage YMC11/02/R656,1.0,0.0,1.0,SPAdes only,
+1755682,S,Streptomyces phage phiSAJS1,1.0,0.0,1.0,SPAdes only,
+173566,S,Equid herpesvirus 6,1.0,0.0,1.0,SPAdes only,
+1513238,G,Dyokappapapillomavirus,1.0,0.0,1.0,SPAdes only,
+1481224,S1,Pseudomonas phage JD024,1.0,0.0,1.0,SPAdes only,
+1481186,S,Acinetobacter phage vB_AbaM_Acibel004,1.0,0.0,1.0,SPAdes only,
+3426661,S,Beejeyvirus bagaejinnorense,1.0,0.0,1.0,SPAdes only,
+3426655,S,Baxterfoxvirus baxterfox,1.0,0.0,1.0,SPAdes only,
+3426584,S,Aziravirus azira,1.0,0.0,1.0,SPAdes only,
+3425757,G,Reqipinevirus,1.0,0.0,1.0,SPAdes only,
+1623277,G,Bignuzvirus,1.0,0.0,1.0,SPAdes only,
+1623276,G,Barnyardvirus,1.0,0.0,1.0,SPAdes only,
+161494,S1,Antheraea pernyi nucleopolyhedrovirus,1.0,0.0,1.0,SPAdes only,
+1597976,S1,Enterococcus phage EFDG1,1.0,0.0,1.0,SPAdes only,
+1586715,S,Yellowstone lake phycodnavirus 3,1.0,0.0,1.0,SPAdes only,
+1573458,S,Pseudomonas phage PS-1,1.0,0.0,1.0,SPAdes only,
+154334,S1,Macacine gammaherpesvirus 5,1.0,0.0,1.0,SPAdes only,
+1458724,S,Mycobacterium phage Alsfro,1.0,0.0,1.0,SPAdes only,
+1455074,S1,Enterobacter phage PG7,1.0,0.0,1.0,SPAdes only,
+1450169,S1,Pseudomonas phage phi2,1.0,0.0,1.0,SPAdes only,
+1434720,S2,Beluga whale alphaherpesvirus 1,1.0,0.0,1.0,SPAdes only,
+1430444,S1,Escherichia phage vB_EcoM_JS09,1.0,0.0,1.0,SPAdes only,
+1421067,S1,Tunisvirus fontaine2,1.0,0.0,1.0,SPAdes only,
+1414742,S1,Arthrobacter phage vB_ArS-ArV2,1.0,0.0,1.0,SPAdes only,
+3428121,S,Crocodylidpoxvirus nilecrocodilepox,1.0,0.0,1.0,SPAdes only,
+3428080,S,Corgivirus corgi,1.0,0.0,1.0,SPAdes only,
+3427948,S,Cinvestavvirus PaMx74,1.0,0.0,1.0,SPAdes only,
+3427939,S,Chunghsingvirus P1201,1.0,0.0,1.0,SPAdes only,
+3427925,S,Chloriridovirus simulium2,1.0,0.0,1.0,SPAdes only,
+3427643,S,Bugaksanvirus R656,1.0,0.0,1.0,SPAdes only,
+1524882,S,Sinorhizobium phage phiLM21,1.0,0.0,1.0,SPAdes only,
+1327935,S,Cronobacter phage S13,1.0,0.0,1.0,SPAdes only,
+1327760,S1,Streptomyces phage Zemlya,1.0,0.0,1.0,SPAdes only,
+1301280,S1,Invertebrate iridovirus 25,1.0,0.0,1.0,SPAdes only,
+1299429,G,Yuavirus,1.0,0.0,1.0,SPAdes only,
+1298634,G,Betaguttavirus,1.0,0.0,1.0,SPAdes only,
+1285600,S1,Nile crocodilepox virus,1.0,0.0,1.0,SPAdes only,
+3430115,S,Karimacvirus wofford,1.0,0.0,1.0,SPAdes only,
+3429898,S,Identitycrisisvirus identitycrisis,1.0,0.0,1.0,SPAdes only,
+3429213,S,Hepatovirus bephopi,1.0,0.0,1.0,SPAdes only,
+3429002,S,Ghuizhouvirus A1432,1.0,0.0,1.0,SPAdes only,
+3428900,S,Fuzanglongvirus ZL12,1.0,0.0,1.0,SPAdes only,
+3428804,S,Footloosevirus footloose,1.0,0.0,1.0,SPAdes only,
+1480731,S1,Vibrio phage Vc1,1.0,0.0,1.0,SPAdes only,
+1474867,S1,Aureococcus anophagefferens virus,1.0,0.0,1.0,SPAdes only,
+1458846,S,Mycobacterium phage RhynO,1.0,0.0,1.0,SPAdes only,
+3432165,S,Ringroadvirus BUCT47333,1.0,0.0,1.0,SPAdes only,
+3432154,S,Retbasiphovirus hantatum,1.0,0.0,1.0,SPAdes only,
+3432151,S,Reqipinevirus reqipine5,1.0,0.0,1.0,SPAdes only,
+3432142,S,Readingvirus MR15,1.0,0.0,1.0,SPAdes only,
+3431389,S,Parapoxvirus orf,1.0,0.0,1.0,SPAdes only,
+3430775,S,Meganvirus megan,1.0,0.0,1.0,SPAdes only,
+3430752,S,Mechnikovvirus SS2019XII,1.0,0.0,1.0,SPAdes only,
+3430621,S,Mallosvirus mallos,1.0,0.0,1.0,SPAdes only,
+3430611,S,Malagasyrosevirus malagasyrose,1.0,0.0,1.0,SPAdes only,
+3430508,S,Luchadorvirus gail,1.0,0.0,1.0,SPAdes only,
+1352227,S,Ralstonia phage RSS30,1.0,0.0,1.0,SPAdes only,
+1340830,S,Mycobacterium phage KayaCho,1.0,0.0,1.0,SPAdes only,
+1340819,S1,Mycobacterium phage Catdawg,1.0,0.0,1.0,SPAdes only,
+1327936,S1,Mycobacterium phage Gizmo,1.0,0.0,1.0,SPAdes only,
+1282967,S1,Haloarcula hispanica virus PH1,1.0,0.0,1.0,SPAdes only,
+1278479,S1,Cyanophage S-RIM32,1.0,0.0,1.0,SPAdes only,
+1273747,S2,Haloarcula californiae tailed virus 2,1.0,0.0,1.0,SPAdes only,
+1273707,S,Hollowayvirus H66,1.0,0.0,1.0,SPAdes only,
+12657,S1,Equid gammaherpesvirus 2,1.0,0.0,1.0,SPAdes only,
+1255301,S,Losannavirus tunisense,1.0,0.0,1.0,SPAdes only,
+1247379,S1,Moumouvirus goulette,1.0,0.0,1.0,SPAdes only,
+12353,S1,Escherichia phage RB69,1.0,0.0,1.0,SPAdes only,
+12336,S,Clostridium phage c-st,1.0,0.0,1.0,SPAdes only,
+348058,S,Salmonella phage epsilon34,1.0,0.0,1.0,SPAdes only,
+3433833,S,Potexvirus ecsopuntiae,1.0,0.0,1.0,SPAdes only,
+3433590,S,Yvonnevirus yvonnetastic,1.0,0.0,1.0,SPAdes only,
+3433575,S,Yuavirus MP1412,1.0,0.0,1.0,SPAdes only,
+3433288,S,Vojvodinavirus CN2,1.0,0.0,1.0,SPAdes only,
+3432938,S,Tortellinivirus tortellini,1.0,0.0,1.0,SPAdes only,
+3432247,S,Samsavirus crystalli,1.0,0.0,1.0,SPAdes only,
+1211644,S,Shapirovirus swift,1.0,0.0,1.0,SPAdes only,
+1211642,S,Caulobacter virus Magneto,1.0,0.0,1.0,SPAdes only,
+1211640,S1,Caulobacter phage CcrColossus,1.0,0.0,1.0,SPAdes only,
+12091,G,Hepatovirus,1.0,0.0,1.0,SPAdes only,
+1204524,S1,Streptomyces phage phiHau3,1.0,0.0,1.0,SPAdes only,
+1204517,S2,Pseudomonas phage MP1412,1.0,0.0,1.0,SPAdes only,
+1198014,S1,Aeromonas phage Aes012,1.0,0.0,1.0,SPAdes only,
+431894,S,Bcepmuvirus E255,1.0,0.0,1.0,SPAdes only,
+431891,S,Stanholtvirus sv6442,1.0,0.0,1.0,SPAdes only,
+416419,S2,Halorubrum virus BJ1,1.0,0.0,1.0,SPAdes only,
+384848,S2,Corynebacterium phage P1201,1.0,0.0,1.0,SPAdes only,
+365327,S1,Cervid alphaherpesvirus 2,1.0,0.0,1.0,SPAdes only,
+35243,S1,Ateline alphaherpesvirus 1,1.0,0.0,1.0,SPAdes only,
+348137,S,Burkholderia phage Bcep176,1.0,0.0,1.0,SPAdes only,
+1285599,G,Crocodylidpoxvirus,1.0,0.0,1.0,SPAdes only,
+1168563,S1,Stenotrophomonas phage Smp131,1.0,0.0,1.0,SPAdes only,
+1168548,S,Salmonella phage vB_SemP_Emek,1.0,0.0,1.0,SPAdes only,
+1156719,S1,Halorubrum pleomorphic virus 2,1.0,0.0,1.0,SPAdes only,
+543152,S1,Mycobacterium phage Nigel,1.0,0.0,1.0,SPAdes only,
+542960,G,Uetakevirus,1.0,0.0,1.0,SPAdes only,
+542959,G,Rauchvirus,1.0,0.0,1.0,SPAdes only,
+536466,S1,Synechococcus phage S-SSM4,1.0,0.0,1.0,SPAdes only,
+455364,S,Chrysochromulina ericina virus,1.0,0.0,1.0,SPAdes only,
+447897,S,Mythimna unipuncta nucleopolyhedrovirus,1.0,0.0,1.0,SPAdes only,
+1225862,S,Fromanvirus rebeuca,1.0,0.0,1.0,SPAdes only,
+12176,G,Potexvirus,1.0,0.0,1.0,SPAdes only,
+764595,S1,Bacillus phage W.Ph.,1.0,0.0,1.0,SPAdes only,
+760939,S1,Acinetobacter phage Acj9,1.0,0.0,1.0,SPAdes only,
+756282,S1,Cellulophaga phage phiST,1.0,0.0,1.0,SPAdes only,
+743578,S1,uncultured phage MedDCM-OCT-S08-C41,1.0,0.0,1.0,SPAdes only,
+691963,S1,Rhodococcus phage ReqiPine5,1.0,0.0,1.0,SPAdes only,
+680277,G,Kuravirus,1.0,0.0,1.0,SPAdes only,
+10679,S,Peduovirus P2,1.0,0.0,1.0,SPAdes only,
+1051675,S1,Erwinia phage vB_EamP-S6,1.0,0.0,1.0,SPAdes only,
+10491,G,Chloriridovirus,1.0,0.0,1.0,SPAdes only,
+1109711,S,Nocardia phage NBR1,1.0,0.0,1.0,SPAdes only,
+1097754,S,Fromanvirus saintus,1.0,0.0,1.0,SPAdes only,
+2844174,S,Bievrevirus bv4A7,1.0,0.0,1.0,SPAdes only,
+2844164,S,Waedenswilvirus S6,1.0,0.0,1.0,SPAdes only,
+2844163,S,Henunavirus hena1,1.0,0.0,1.0,SPAdes only,
+2844018,S,Samwavirus StAB,1.0,0.0,1.0,SPAdes only,
+2845095,S,Pylasvirus pylas,1.0,0.0,1.0,SPAdes only,
+2845088,S,Kaypoctavirus KP8,1.0,0.0,1.0,SPAdes only,
+2844218,S,Peduovirus P22H4,1.0,0.0,1.0,SPAdes only,
+947843,S1,Erwinia phage ENT90,1.0,0.0,1.0,SPAdes only,
+929834,S,Rhizobium phage RR1-B,1.0,0.0,1.0,SPAdes only,
+929833,S,Rhizobium phage RR1-A,1.0,0.0,1.0,SPAdes only,
+926067,S1,Aeromonas phage PX29,1.0,0.0,1.0,SPAdes only,
+10379,G,Rhadinovirus,1.0,0.0,1.0,SPAdes only,
+10375,G,Lymphocryptovirus,1.0,0.0,1.0,SPAdes only,
+10325,S1,Macacine alphaherpesvirus 1,1.0,0.0,1.0,SPAdes only,
+1032474,S,Betaguttavirus kodakarajimaense,1.0,0.0,1.0,SPAdes only,
