@@ -20,7 +20,7 @@ CLARK (Classification of metagenomic and genomic sequences) is an efficient meta
 
 
 [![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)
-[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.2-42b983)](https://apptainer.org/)
+[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
 
 ---
 
