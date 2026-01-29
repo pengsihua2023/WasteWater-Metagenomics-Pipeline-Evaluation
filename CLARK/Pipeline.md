@@ -9,6 +9,8 @@ This document describes the virus classification pipeline implemented in `slurm_
 
 [![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)
 
+[![Python](https://img.shields.io/badge/python-%3D%203.10-blue.svg)](https://www.python.org/)
+
 ---
 
 ## Pipeline Workflow
