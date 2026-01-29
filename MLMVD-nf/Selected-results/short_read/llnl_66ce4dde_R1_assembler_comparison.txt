@@ -1,0 +1,40 @@
+====================================================================================================
+Assembler Comparison Report - Viral Identification Results
+MEGAHIT vs metaSPAdes
+Sample: llnl_66ce4dde_R1
+====================================================================================================
+
+[Overall Statistics]
+----------------------------------------------------------------------------------------------------
+MEGAHIT identified viral sequences:    1,600
+SPAdes identified viral sequences:     236
+Total unique viral sequences:          1,836
+
+Consensus viral sequences (both assemblies detected): 1,836
+MEGAHIT viral sequences:                1,600
+SPAdes viral sequences:                236
+
+Assembler consistency:                 100.00%
+
+====================================================================================================
+[Recommendation]
+----------------------------------------------------------------------------------------------------
+High-confidence viral sequences (identified by both methods): 1,836
+Recommend prioritizing these consensus sequences for downstream analysis.
+
+[Detailed Analysis]
+----------------------------------------------------------------------------------------------------
+
+MEGAHIT-specific sequences (1600):
+  - May represent low-coverage or high-complexity regions
+  - MEGAHIT has stronger assembly capability for complex structures
+
+SPAdes-specific sequences (236):
+  - May represent high-coverage regions
+  - SPAdes kmer strategy may capture more details
+
+====================================================================================================
+[Statistical Summary]
+----------------------------------------------------------------------------------------------------
+Consensus ratio in MEGAHIT sequences:  114.75%
+Consensus ratio in SPAdes sequences:   777.97%
