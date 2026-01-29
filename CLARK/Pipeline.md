@@ -18,19 +18,19 @@ The pipeline takes paired-end FASTQ reads (R1 and R2), classifies them against a
                     optionally gzip-compressed
                                 │
                                 ▼
-    ┌─────────────────────────────────────────────────────────┐
-    │  Step 1: Preprocessing & validation                      │
-    │  • Validate CLARK database (db_central_k*.tsk.*)        │
-    │  • Validate input files (existence, size, gzip integrity)│
-    │  • Decompress .gz to output dir if needed; cleanup later│
-    └─────────────────────────────────────────────────────────┘
+    ┌───────────────────────────────────────────────────────────┐
+    │  Step 1: Preprocessing & validation                       │
+    │  • Validate CLARK database (db_central_k*.tsk.*)          │
+    │  • Validate input files (existence, size, gzip integrity) │
+    │  • Decompress .gz to output dir if needed; cleanup later  │
+    └───────────────────────────────────────────────────────────┘
                                 │
                                 ▼
     ┌─────────────────────────────────────────────────────────┐
     │  Step 2: Virus classification (CLARK)                   │
     │  • classify_metagenome.sh -P R1 R2 -R <prefix> ...      │
     │  • k-mer–based assignment to viral taxa                 │
-    │  • Retry with fewer threads on segmentation fault      │
+    │  • Retry with fewer threads on segmentation fault       │
     └─────────────────────────────────────────────────────────┘
                                 │
                                 ▼
@@ -43,7 +43,7 @@ The pipeline takes paired-end FASTQ reads (R1 and R2), classifies them against a
                                  │  Step 3: Abundance estimation (opt) │
                                  │  • estimate_abundance.sh if present │
                                  │  • else Python script on CSV        │
-                                 │  • Adds proportion/abundance columns │
+                                 │  • Adds proportion/abundance columns│
                                  └─────────────────────────────────────┘
                                                 │
                                                 ▼
