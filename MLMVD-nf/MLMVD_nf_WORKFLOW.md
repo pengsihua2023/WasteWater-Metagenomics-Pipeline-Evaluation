@@ -1,4 +1,4 @@
-# Metagenome Viral Classification Workflow (Nextflow DSL2)
+## Metagenome Viral Classification Workflow (Nextflow DSL2)
 
 [![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
