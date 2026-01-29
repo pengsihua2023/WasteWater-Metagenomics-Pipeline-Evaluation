@@ -7,8 +7,8 @@ This repository provides a **Nextflow DSL2** pipeline for metagenome assembly an
 
 The pipeline runs on an HPC scheduler (e.g., **SLURM**) and primarily uses **Conda** environments (some assemblers can be provided via pre-installed environments added to `PATH`). **Apptainer/Singularity is optional and not enabled by default** in the provided config.
 
-[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
-[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
+[![Nextflow](https://img.shields.io/badge/nextflow-%3D%2024.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%3D%203.9-blue.svg)](https://www.python.org/)
 
 ---
 
