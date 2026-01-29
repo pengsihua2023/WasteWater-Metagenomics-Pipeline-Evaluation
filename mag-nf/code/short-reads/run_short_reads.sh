@@ -4,7 +4,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=32
 #SBATCH --mem=256G
-#SBATCH --time=72:00:00
+#SBATCH --time=9-00:00:00
 #SBATCH --output=nfcore_mag_short_%j.out
 #SBATCH --error=nfcore_mag_short_%j.err
 
