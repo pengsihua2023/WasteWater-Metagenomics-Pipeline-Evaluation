@@ -2,6 +2,9 @@
 
 This repository contains SLURM scripts for running sourmash sketch and gather analysis on metagenomic contig files from different assembly methods.
 
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)
+---
+
 ## Overview
 
 Sourmash is a tool for quickly searching, comparing, and analyzing genomic and metagenomic sequence data using MinHash sketches. This pipeline includes scripts for:
