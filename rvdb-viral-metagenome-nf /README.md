@@ -1,4 +1,4 @@
-# RVDB-Based Dual-Method Viral Metagenome Analysis Pipeline
+## RVDB-Based Dual-Method Viral Metagenome Analysis Pipeline
 
 ## Project Overview
 
