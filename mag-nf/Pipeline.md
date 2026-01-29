@@ -7,6 +7,12 @@ This document summarizes the **workflows provided in this repository** for metag
 
 It also lists **major tools used**, including data pre-processing and **taxonomy/abundance-style** reporting, and highlights the **key output files**.
 
+[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
+[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
+
+---
+
 ## What is implemented here (scripts)
 
 ### nf-core/mag (Nextflow) runs
@@ -206,5 +212,6 @@ Many scripts in this repository explicitly disable time-consuming MAG-oriented s
 - `--skip_quast`
 
 This is intended when the goal is **assembly + viral taxonomy profiling** rather than full MAG reconstruction.
+
 
 
