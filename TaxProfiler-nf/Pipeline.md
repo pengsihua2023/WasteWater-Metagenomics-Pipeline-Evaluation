@@ -2,6 +2,10 @@
 
 This document describes the end-to-end workflow of MetaTaxProfiler: software used at each stage (including data preprocessing and abundance analysis) and the final result files produced.
 
+[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
+[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
+
 ---
 
 ## 1. Overview
@@ -200,5 +204,6 @@ After removal of RPKM, the main abundance TSVs typically contain:
 - **Main deliverables:** Kraken2 reports, Bracken tables (short-read), **abundance/*.tsv** (RPM), and **multiqc/multiqc_report.html**.
 
 For sample sheets, database setup, and options, see **README.md**, **SHORTREAD_ABUNDANCE_GUIDE.md**, and **LONGREAD_GUIDE.md**.
+
 
 
