@@ -6,7 +6,10 @@ This is a Nextflow-based viral metagenome analysis pipeline using **dual-method 
 
 **Version**: 4.2.0  
 **Author**: Sihua Peng  
-**Last Updated**: 2025-11-17
+**Last Updated**: 2026-01-20
+
+[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
 
 ---
 
