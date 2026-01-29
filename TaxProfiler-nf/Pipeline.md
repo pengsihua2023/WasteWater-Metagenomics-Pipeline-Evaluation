@@ -43,7 +43,7 @@ Raw FASTQ (e.g. *_1.fastq.gz, *_2.fastq.gz)
 ┌───────────────────────────────────────────────────────────────────────┐
 │  ABUNDANCE ANALYSIS (MetaTaxProfiler)                                 │
 │  • batch_calculate_abundance_en.sh  – batch driver                    │
-│  • calculate_abundance_en.py        – Bracken → RPM (or fallback│
+│  • calculate_abundance_en.py        – Bracken → RPM (or fallback      │
 │  • calculate_abundance_longread_en.py – Kraken2 → RPM if no Bracken)  │
 └───────────────────────────────────────────────────────────────────────┘
          │
@@ -200,4 +200,5 @@ After removal of RPKM, the main abundance TSVs typically contain:
 - **Main deliverables:** Kraken2 reports, Bracken tables (short-read), **abundance/*.tsv** (RPM), and **multiqc/multiqc_report.html**.
 
 For sample sheets, database setup, and options, see **README.md**, **SHORTREAD_ABUNDANCE_GUIDE.md**, and **LONGREAD_GUIDE.md**.
+
 
