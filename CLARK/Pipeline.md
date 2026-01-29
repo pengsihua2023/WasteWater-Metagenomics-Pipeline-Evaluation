@@ -2,6 +2,9 @@
 
 This document describes the virus classification pipeline implemented in `slurm_virus_classification_paired.sh`: its workflow, the software used, and the final result files.
 
+[![Apptainer](https://img.shields.io/badge/Apptainer-%E2%89%A51.3-42b983)](https://apptainer.org/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)
+
 ---
 
 ## Pipeline Workflow
