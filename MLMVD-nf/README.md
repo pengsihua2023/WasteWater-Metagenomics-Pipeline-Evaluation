@@ -15,7 +15,7 @@ A comprehensive Nextflow workflow for discovering and validating viral sequences
 - **Long-read mode**: Three-tool parallel analysis (VirSorter2 + DeepVirFinder + viralFlye) 
 
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
-[![Python](https://img.shields.io/badge/python-%E2%89%A53.7-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
 
 ---
 
