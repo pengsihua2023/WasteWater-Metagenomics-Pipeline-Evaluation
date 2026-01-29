@@ -1,4 +1,4 @@
-# Hybrid Metagenome Assembly and Kraken2 Taxonomic Classification Pipeline
+## Hybrid Metagenome Assembly and Kraken2 Taxonomic Classification Pipeline
 
 **Version:** 3.0.0  
 **Workflow engine:** Nextflow (DSL2)  
