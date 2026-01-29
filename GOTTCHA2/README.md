@@ -2,7 +2,7 @@
 
 This repository contains SLURM job submission scripts for performing taxonomic profiling and viral classification using GOTTCHA2 on metagenomic sequencing data.
 
-[![Python](https://img.shields.io/badge/python-%E2%89%A53.10-blue.svg)](https://www.python.org/)
+
 
 ---
 
