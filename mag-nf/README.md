@@ -9,6 +9,11 @@ This repository contains two independent workflows for analyzing viral metagenom
 1. **Short Reads Analysis** - Using nf-core/mag v2.5.4 (Illumina paired-end data)
 2. **Long Reads Analysis** - Using direct Flye + Kraken2 containers (Nanopore/PacBio data)
 
+
+[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A524.10.1-brightgreen.svg)](https://www.nextflow.io/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.9-blue.svg)](https://www.python.org/)
+---
+
 ## Quick Start
 
 ### Prerequisites
