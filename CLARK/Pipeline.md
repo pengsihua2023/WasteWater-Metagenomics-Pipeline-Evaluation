@@ -1,4 +1,4 @@
-# CLARK Virus Classification Pipeline
+# CLARK Pipeline Overview
 
 This document describes the virus classification pipeline implemented in `slurm_virus_classification_paired.sh`: its workflow, the software used, and the final result files.
 
