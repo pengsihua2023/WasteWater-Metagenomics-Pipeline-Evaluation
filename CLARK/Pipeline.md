@@ -38,16 +38,16 @@ The pipeline takes paired-end FASTQ reads (R1 and R2), classifies them against a
                     Classification successful?
                           /           \
                         No             Yes
-                         │               │
-                         ▼               ▼
+                         │              │
+                         ▼              ▼
                     Job exits    ┌─────────────────────────────────────┐
                                  │  Step 3: Abundance estimation (opt) │
                                  │  • estimate_abundance.sh if present │
                                  │  • else Python script on CSV        │
                                  │  • Adds proportion/abundance columns│
                                  └─────────────────────────────────────┘
-                                                │
-                                                ▼
+                                                  │
+                                                  ▼
                                          Final result files
 ```
 
