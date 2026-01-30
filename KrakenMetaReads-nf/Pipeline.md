@@ -23,8 +23,8 @@ This pipeline performs metagenomic assembly, read mapping, abundance estimation,
 
 ```
 Raw paired-end reads (FASTQ)
-        │
-        ▼
+          │
+          ▼
 ┌─────────────────────┐
 │  Data Preprocessing │  fastp (QC, adapter trimming, filtering)
 └─────────┬───────────┘
